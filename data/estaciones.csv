@@ -1,0 +1,1011 @@
+codigo,nombre,lat,lon,localidad,prov,dir,accesible,cerc,nivel,atendo
+1003,Arahal,37.268081,-5.548514,ARAHAL,SEVILLA,"C/ Virgen de los Dolores, S/N",2,0,3,0
+1005,Marchena,37.334282,-5.425519,MARCHENA,SEVILLA,"Avda. Maestro Santos Rúano, 8",2,0,3,0
+1007,Osuna,37.233899,-5.115026,OSUNA,SEVILLA,"Avda. Estación Ferrocarril, S/N",2,0,1,0
+1009,Pedrera,37.222397,-4.893519,PEDRERA,SEVILLA,"C/ Manuel Aranda, 3",2,0,2,0
+2002,Puente Genil - Herrera,37.3579,-4.821638,PUENTE GENIL,CÓRDOBA,Ctra. A-318 - Km. 9 - Entre los Pueblos de Puente Genil (Cordoba) y Herrera (Sevilla),1,0,2,1
+2003,Antequera - Santa Ana,37.069881,-4.719014,ANTEQUERA,MÁLAGA,"Ctra. Ma - 5406 - Estación Ferrocarril, S/N",1,0,1,1
+2030,Antequera Alta Velocidad,37.0334437,-4.5612901,ANTEQUERA,MÁLAGA,Ctra A-7281 Antigua Carretera de Córdoba S/N,1,0,1,0
+3001,Mengibar - Artichuela (apd-Cgd),37.978219,-3.803308,MENGÍBAR,JAÉN,"C/ Camino Estación Ferrocarril, S/N",2,0,3,0
+3100,Jaén,37.779827,-3.790798,JAÉN,JAÉN,"Pla. de Jaen Por la Paz, 1",1,0,1,1
+3208,Cuenca - Fernando Zobel,40.035192,-2.14441,CUENCA,CUENCA,"Avda. Cerro de la Estrella, S/N --- N-320 - Circunvalacion de Cuenca",1,0,1,1
+3213,Requena Utiel,39.519834,-1.127601,REQUENA,VALENCIA/VALÈNCIA,Autovia A3 - Salida 285,1,0,1,1
+3216,Valencia - Joaquin Sorolla,39.459051,-0.382923,VALENCIA,VALENCIA/VALÈNCIA,"C/ San Vicente Martir, 171",1,1,1,1
+3309,Villena Alta Velocidad,38.585302,-0.873295,VILLENA,ALICANTE/ALACANT,"Partida de San Juan, 182",2,1,2,1
+3410,Elx Alta Velocidad,38.24551,-0.76675,ELCHE/ELX,ALICANTE/ALACANT,"Camí de Mallorca, S/N --- (Partida de Matola, Polígono 1, - 144 - Matola 1144)",2,1,2,0
+3412,Callosa de Segura - Cox,38.1227708,-0.8745727,CALLOSA DE SEGURA,ALICANTE/ALACANT,"Camino Azarbe de Simón, S/N  -- Estación de Alta Velocidad - Cox",2,1,2,0
+4007,Guadalajara - Yebes,40.587315,-3.124301,YEBES,GUADALAJARA,"Ctra. N - 320 --- Sacedon-Cuenca, Km 268",1,0,2,1
+4040,Zaragoza - Delicias,41.6586576,-0.9112693,ZARAGOZA,ZARAGOZA,"C/ Rioja, 33",1,1,1,1
+4104,Camp de Tarragona,41.192066,1.272666,TARRAGONA,TARRAGONA,"C/ Mas L'Hereuet, S/N",1,1,1,1
+4307,Figueres - Vilafant,42.264771,2.943547,VILAFANT,GIRONA,"Avda. Puig Grau, S/N",1,0,1,1
+5000,Granada,37.184038,-3.609154,GRANADA,GRANADA,"Avda. de los Andaluces, S/N",1,0,1,1
+5012,Loja,37.175372,-4.134841,LOJA,GRANADA,"C/ Fuente Don Pedro, S/N",2,0,2,0
+5102,San Xoan,43.494564,-8.214273,FERROL,"CORUÑA, A","Estrada San Xoan, S/N",2,1,2,0
+5103,Santa Icía,43.49977,-8.199923,NARÓN,"CORUÑA, A","Rúa Estación Ferrocarril, 2",2,1,2,0
+5104,Virxe Do Mar,43.496525,-8.204875,NARÓN,"CORUÑA, A","Rúa de Ponte Das Cabras , S/N",2,1,2,0
+5105,Piñeiros,43.509483,-8.183992,NARÓN,"CORUÑA, A","Rúa Cerrallon de Arriba, S/N",2,1,2,0
+5106,O Ponto,43.514774,-8.177781,NARÓN,"CORUÑA, A","Rúa Maria Soliña, 13",2,1,2,0
+5107,Xuvia,43.517193,-8.161282,NARÓN,"CORUÑA, A",Estrada de Castela  835- Xuvia-Naron,2,1,2,0
+5108,O Alto Do Castiñeiro,43.503178,-8.195548,NARÓN,"CORUÑA, A","Rúa Torre, S/N",2,1,2,0
+5109,Ferrerías,43.52802,-8.150435,NARÓN,"CORUÑA, A","Camiño Do Apeadoiro Prados, S/N",2,1,2,0
+5111,Sedes,43.54261,-8.14019,NARÓN,"CORUÑA, A","Ctra. Ag-64 - Estación Ferrocarril, S/N",2,1,2,0
+5113,Pedroso de Narón,43.53671,-8.109193,NARÓN,"CORUÑA, A","C/ Aldea Mosteiro, 4",2,1,2,0
+5115,San Sadurniño,43.546085,-8.07811,SAN SADURNIÑO,"CORUÑA, A","Calle Orxás 6, San Sadurniño (A Coruña)",2,1,2,0
+5117,Llamas,43.547306,-8.049017,SAN SADURNIÑO,"CORUÑA, A","Ctra. Ac - 862 --- Estación Ferrocarril, S/N",2,1,2,0
+5119,Apalla,43.550457,-8.018619,SAN SADURNIÑO,"CORUÑA, A","C/ Estación Ferrocarril, S/N",2,1,2,0
+5121,Moeche,43.562134,-8.002757,MOECHE,"CORUÑA, A","Ctra. Cp-4901 - Estación Ferrocarril, S/N",2,1,2,0
+5123,Labacengos,43.56527,-7.9801884,MOECHE,"CORUÑA, A","Ctra. Dp - 4902 --- Estación Ferrocarril, S/N",2,1,2,0
+5125,Entrambarrías,43.577065,-7.954264,MOECHE,"CORUÑA, A","C/ Estación Ferrocarril, S/N",2,1,2,0
+5127,Cerdido,43.58734,-7.93431,CERDIDO,"CORUÑA, A",Lugar de Sanxio-Cerdido (Moeche),2,1,2,0
+5129,A Cuqueria,43.60783,-7.921939,CERDIDO,"CORUÑA, A","C/ Estación Ferrocarril, S/N",2,1,2,0
+5131,Santa Maria de Mera,43.64093,-7.9161906,ORTIGUEIRA,"CORUÑA, A","Ctra. Ac-862 - Estación Ferrocarril, S/N",2,1,2,0
+5133,Ponte Mera,43.66604,-7.9026203,ORTIGUEIRA,"CORUÑA, A","Ctra. Ac-862 - Estación Ferrocarril, S/N",2,1,2,0
+5135,San Clodio,43.660946,-7.873478,RIBAS DE SIL,"CORUÑA, A","Ctra. Ac-862 - Estación Ferrocarril, S/N",2,1,2,0
+5137,Senra,43.668793,-7.854553,ORTIGUEIRA,"CORUÑA, A","Ctra. Ac-862 - Estación Ferrocarril, S/N",2,1,2,0
+5139,Ortigueira,43.686222,-7.8495736,ORTIGUEIRA,"CORUÑA, A",C/ Juan Luis Pia Martinez- Ortigueira,2,1,2,0
+5141,Espasante,43.70888,-7.804897,ORTIGUEIRA,"CORUÑA, A","Ctra. Ac - 862 --- Estación Ferrocarril, S/N",2,0,2,0
+5143,Loiba,43.730392,-7.750044,ORTIGUEIRA,"CORUÑA, A","Ctra. Cp - 6104 --- Estación Ferrocarril, S/N",2,0,2,0
+5145,O Barqueiro,43.73565,-7.70288,MAÑÓN,"CORUÑA, A","Ctra. Estación Ferrocarril, 6",2,0,2,0
+5147,O Vicedo,43.731026,-7.673215,VICEDO (O),LUGO,"Rúa Deputacion - Camiño Sacido, S/N",2,0,2,0
+5149,Mosende,43.706196,-7.635477,VICEDO (O),LUGO,"Ctra. A Fraderia, S/N",2,0,2,0
+5151,Folgueiro,43.692764,-7.635048,VICEDO (O),LUGO,"Ctra. Lu - 862 --- Estación Ferrocarril, S/N",2,0,2,0
+5153,Covas de Viveiro,43.670277,-7.614613,VIVEIRO,LUGO,"Camino Escolar Estación Ferrocarril, S/N",2,0,2,0
+5155,Viveiro,43.6569,-7.60033,VIVEIRO,LUGO,Barrio Verxeles  S/N -Viveiro,2,0,2,0
+5156,Viveiro Apdro.,43.661434,-7.594532,VIVEIRO,LUGO,"Camiño Altamira, 2",2,0,2,0
+5157,Xuances,43.687992,-7.553904,XOVE,LUGO,"Camiño O Cruzeiro - Estación Ferrocarril, S/N",2,0,2,0
+5159,Xove Pobo,43.683567,-7.510921,XOVE,LUGO,"Camino Apeadero, S/N",2,0,2,0
+5161,Xove,43.681137,-7.495251,XOVE,LUGO,Ctra.   Lu-862 Km.96/600 - Xove,2,0,2,0
+5163,Lago,43.687107,-7.481942,XOVE,LUGO,"Ctra. Lu - 2602 --- Estación Ferrocarril, S/N",2,0,2,0
+5165,Bidueiros,43.696712,-7.468843,CERVO,LUGO,"Camino Monte Galis, S/N",2,0,2,0
+5167,San Cibrao,43.692318,-7.44177,CERVO,LUGO,"Ctra. Lu-P-1510 - Estación Ferrocarril, S/N",2,0,2,0
+5169,Madeiro,43.68622,-7.412863,CERVO,LUGO,"Ctra. Lu - P -1510 --- Estación Ferrocarril, S/N",2,0,2,0
+5171,Burela,43.660606,-7.361183,BURELA,LUGO,"C/ Rúa la Estación, S/N",2,0,2,0
+5173,Cangas de Foz,43.626106,-7.333309,FOZ,LUGO,"Camino Alamparte, S/N",2,0,2,0
+5175,Nois,43.61031,-7.312222,FOZ,LUGO,"Ctra. N-642 - Estación Ferrocarril, S/N",2,0,2,0
+5177,Fazouro,43.600456,-7.299843,FOZ,LUGO,"Ctra. Xeneral Fazouro, 4",2,0,2,0
+5179,Marzán,43.57475,-7.26936,FOZ,LUGO,"Rúa Pena Parda, S/N",2,0,2,0
+5181,Foz,43.560886,-7.272235,FOZ,LUGO,"Ctra. Xeral Pedreira - Rúa Xoiña, S/N",2,0,2,0
+5183,Barreiros,43.547367,-7.225287,BARREIROS,LUGO,"Ctra. Remior, S/N",2,0,2,0
+5185,Reinante,43.54987,-7.174315,BARREIROS,LUGO,"Ctra. Lu-P-0604 - Estación Ferrocarril, S/N",2,0,2,0
+5187,Esteiro,43.551697,-7.146099,RIBADEO,LUGO,"Ctra. Lu - P - 0610 ---- Estación Ferrocarril, S/N",2,0,2,0
+5189,Os Castros,43.55157,-7.130895,RIBADEO,LUGO,"Ctra. Lu-P-5208 - Estación Ferrocarril, S/N",2,0,2,0
+5191,Rinlo,43.549763,-7.108645,RIBADEO,LUGO,"Ctra. Lu-141 - Estación Ferrocarril, S/N",2,0,2,0
+5193,Ribadeo,43.53607,-7.055572,RIBADEO,LUGO,"Rua Paco Lanza 9, Ribadeo (Lugo)",2,0,2,0
+5197,Vegadeo Pueblo,43.479668,-7.057327,VEGADEO,ASTURIAS,"Ctra. Cp-52-05 - Estación Ferrocarril, S/N",2,0,2,0
+5199,Vilavedelle,43.4905,-7.038353,CASTROPOL,ASTURIAS,"Ctra. N-640 - Estación Ferrocarril, S/N",2,0,2,0
+5239,Santianes,43.5038,-6.0918393,PRAVIA,ASTURIAS,"C/ Lugar Santianes, 49",2,1,2,0
+5241,Los Cavos,43.512413,-6.0974746,PRAVIA,ASTURIAS,"Ctra. As - 224 --- Estación Ferrocarril, S/N",2,1,2,0
+5243,Muros del Nalón,43.542973,-6.1110716,MUROS DE NALÓN,ASTURIAS,C/ Francisco Cabal -Muros de Nalon,2,1,2,0
+5244,El Pito Piñera,43.54691,-6.1433415,CUDILLERO,ASTURIAS,"Ctra. N - 632 --- Estación Ferrocarril, S/N",2,1,2,0
+5245,Cudillero,43.550926,-6.1519303,CUDILLERO,ASTURIAS,"C/ San Juan de Piñera,  S/N",2,1,2,0
+5247,Villademar,43.557064,-6.155477,CUDILLERO,ASTURIAS,"Ctra. Cu-1 - Estación Ferrocarril, S/N",2,0,2,0
+5249,La Magdalena,43.559307,-6.184922,CUDILLERO,ASTURIAS,"Ctra. N - 632a --- Estación Ferrocarril, S/N",2,0,2,0
+5251,San Martin de Luiña,43.544754,-6.228702,CUDILLERO,ASTURIAS,"Ctra. As-222 - Estación Ferrocarril, S/N",2,0,2,0
+5253,San Cosme,43.544067,-6.248091,CUDILLERO,ASTURIAS,"Ctra. As-222 - Estación Ferrocarril, S/N",2,0,2,0
+5255,Soto de Luiña,43.559635,-6.234369,CUDILLERO,ASTURIAS,"Ctra. Cu-7, Estación de Ferrocarril S/N, Cudillero (Asturias)",2,0,2,0
+5257,Valdredo,43.56638,-6.263234,CUDILLERO,ASTURIAS,C/ Estación Ferrocarril S/N,2,0,2,0
+5259,Novellana,43.557796,-6.289593,CUDILLERO,ASTURIAS,"Ctra. N-632 - Estación Ferrocarril, S/N",2,0,2,0
+5261,Santa Marina,43.552673,-6.305181,CUDILLERO,ASTURIAS,"Ctra. N-632 - Estación Ferrocarril, S/N",2,0,2,0
+5263,Ballota,43.550716,-6.322812,CUDILLERO,ASTURIAS,"Ctra. N - 632 --- Estación Ferrocarril, S/N",2,0,2,0
+5265,Tablizo,43.547253,-6.351225,VALDÉS,ASTURIAS,"Ctra. N-632a - Estación Ferrocarril, S/N",2,0,2,0
+5267,Cadavedo,43.542953,-6.391612,VALDÉS,ASTURIAS,"Ctra. As - 268 --- Estación Ferrocarril, S/N",2,0,2,0
+5269,San Cristóbal,43.547226,-6.415264,VALDÉS,ASTURIAS,"Ctra. San Cristobal - Quintana - Estación Ferrocarril, S/N",2,0,2,0
+5271,Canero,43.541912,-6.445878,VALDÉS,ASTURIAS,"Ctra. N - 632a --- Estación Ferrocarril, S/N",2,0,2,0
+5273,Barcia,43.546814,-6.50828,VALDÉS,ASTURIAS,C/ Estación Ferrocarril S/N,2,0,2,0
+5275,Luarca,43.53795,-6.536617,VALDÉS,ASTURIAS,"Avda. de la Estación, S/N",2,0,2,0
+5277,Otur,43.540543,-6.593562,VALDÉS,ASTURIAS,"Ctra. N-634, Km. 511 - Estación Ferrocarril, S/N",2,0,2,0
+5279,Villapedre,43.546722,-6.64587,NAVIA,ASTURIAS,"Ctra. Nv-2 - Estación Ferrocarril, S/N",2,0,2,0
+5281,Piñera-Villaoril,43.535686,-6.685414,NAVIA,ASTURIAS,"Ctra. Nv-5 - Estación Ferrocarril, S/N",2,0,2,0
+5283,Navia,43.5368,-6.719425,NAVIA,ASTURIAS,C/ Manuel Suarez  S/N -Navia,2,0,2,0
+5285,Medal,43.545692,-6.752994,COAÑA,ASTURIAS,"Ctra. Cñ-6 - Estación Ferrocarril, S/N",2,0,2,0
+5287,Loza,43.551254,-6.771675,COAÑA,ASTURIAS,"Ctra. Cñ - 6 --- Estación Ferrocarril, S/N",2,0,2,0
+5289,Cartavio,43.550713,-6.789622,COAÑA,ASTURIAS,"Ctra. Cñ - 6 --- Estación Ferrocarril, S/N",2,0,2,0
+5291,La Caridad,43.547073,-6.827541,FRANCO (EL),ASTURIAS,"Ctra. N - 634 --- Estación Ferrocarril, S/N",2,0,2,0
+5293,Tapia,43.535027,-6.909329,TAPIA DE CASARIEGO,ASTURIAS,"Ctra. As-31 - Estación Ferocarril, S/N",2,0,2,0
+5295,Tol,43.527203,-6.952128,CASTROPOL,ASTURIAS,"Ctra. As-32 - Estación Ferocarril, S/N",2,0,2,0
+5297,Las Campas de Castropol,43.520298,-6.9771023,CASTROPOL,ASTURIAS,"Ctra. de la Estación, S/N",2,0,2,0
+5299,Castropol,43.509586,-7.0147696,CASTROPOL,ASTURIAS,"Ctra. N - 640 --- Estación Ferrocarril, S/N",2,0,2,0
+5300,Vallobin,43.36523,-5.8647985,OVIEDO,ASTURIAS,"Pza. Angel Gonzalez, S/N",2,1,2,0
+5301,Argañosa-Lavapiés,43.36583,-5.870018,OVIEDO,ASTURIAS,"C/ Favila, S/N",2,1,2,0
+5302,Las Campas,43.363888,-5.883373,OVIEDO,ASTURIAS,"C/ Proaza, S/N",2,1,2,0
+5303,Las Mazas,43.35872,-5.897557,OVIEDO,ASTURIAS,"Ctra. A - 232 --- Estación Ferrocarril, S/N",2,1,2,0
+5304,San Claudio,43.355354,-5.917809,OVIEDO,ASTURIAS,C/ la Estación  S/N san Claudio  (Oviedo),2,1,2,0
+5306,San Pedro Nora,43.368748,-5.9585953,OVIEDO,ASTURIAS,"Ctra. A-233 - Estación Ferrocarril, S/N",2,1,2,0
+5308,Soto Udrion,43.356438,-5.965016,OVIEDO,ASTURIAS,"Ctra. N-634 - Estación Ferrocarril, S/N",2,1,2,0
+5311,Trubia,43.34857,-5.967776,OVIEDO,ASTURIAS,C/ Suarez  Inclan  S/N-Trubia (Oviedo),2,1,2,0
+5313,Santa Mª de Grado,43.384228,-5.9827075,GRADO,ASTURIAS,"Estación Ferrocarril S/N, Santa María de Grado (Asturias)",2,1,2,0
+5315,Vega de Anzo,43.38933,-6.0056834,GRADO,ASTURIAS,Ctra. de Vega de Amzo A Valduno,2,1,2,0
+5316,Feve-Peñaflor de Grado,43.402927,-6.045392,GRADO,ASTURIAS,"Ctra. N-634 - Estación Ferrocarril, S/N",2,1,2,0
+5317,Grado,43.394543,-6.0637255,GRADO,ASTURIAS,"C/ Jove y Valdes, S/N",2,1,2,0
+5319,Sandiche,43.42562,-6.059934,CANDAMO,ASTURIAS,"Ctra. As-237 - Estación Ferrocarril, S/N",2,1,2,0
+5320,Aces,43.439915,-6.0657983,CANDAMO,ASTURIAS,"Ctra. Cd -2 - Estación Ferrocarril, S/N",2,1,2,0
+5321,San Roman,43.448883,-6.077164,CANDAMO,ASTURIAS,Ctra. General  Nº 9- San Roman de Candamo,2,1,2,0
+5323,Beifar,43.47014,-6.0988708,PRAVIA,ASTURIAS,"Ctra. As -236 --- Estación Ferrocarril, S/N",2,1,2,0
+5325,Pravia,43.4909,-6.1105375,PRAVIA,ASTURIAS,C/ Suarez Pazos  S/N-Pravia,2,1,2,0
+5451,Bilbao la Concordia,43.26019,-2.926384,BILBAO,BIZKAIA,"C/ Bailen, 2",2,1,2,0
+5455,Basurto Hospital,43.25977,-2.9538267,BILBAO,BIZKAIA,"Benta Estrata 2, Bilbo (Bizkaia)",2,1,2,0
+5457,Feve-Zorroza Zorrozgoiti,43.27404,-2.9740117,BILBAO,BIZKAIA,Ctra. Zorrotza A Kastrejana  S/N zorrotza (Bilbao),2,1,2,0
+5461,Irauregui,43.248417,-2.9900734,ALONSOTEGI,BIZKAIA,"C/ Bazteita, 2",2,1,2,0
+5463,Zaramillo,43.233288,-3.015904,GÜEÑES,BIZKAIA,Geltoki Bidea  S/N zaramillo ( Güeñes),2,1,2,0
+5467,Sodupe,43.20203,-3.050517,GÜEÑES,BIZKAIA,C/ Urrestieta Nº 10 sodupe ( Güeñes),2,1,2,0
+5473,Aranguren,43.210457,-3.108399,ZALLA,BIZKAIA,"Camino Estación, 1",2,1,2,0
+5474,Aranguren-Apeadero,43.21035,-3.1140504,ZALLA,BIZKAIA,"C/ Nicolas Maria Urgoiti Kalea - Autonomia Pla., S/N",2,1,2,0
+5475,Zalla,43.21291,-3.1333368,ZALLA,BIZKAIA,"Doctor Andres Aya Goñi Kalea, S/N",2,1,2,0
+5483,Balmaseda,43.196354,-3.1899562,BALMASEDA,BIZKAIA,"C/  la Estación, 3",2,1,2,0
+5484,Mimetiz,43.213264,-3.1352775,ZALLA,BIZKAIA,"Avda. Sabino Arana, S/N",2,1,2,0
+5487,Traslaviña,43.23329,-3.198304,ARTZENTALES,BIZKAIA,Barrio  de Traslaviña-Herbosa (Artzentales),2,1,2,0
+5489,Artzentales,43.2355083,-3.2133583,ERRIBERAGOITIA/RIBERA ALTA,BIZKAIA,"C/ Estación Ferrocarril, S/N",2,1,2,0
+5493,Villaverde de Trucios,43.24128,-3.25054,TRUCIOS-TURTZIOZ,BIZKAIA,"Laureta Auzoa, 29",2,1,2,0
+5497,Karrantza,43.238853,-3.357827,KARRANTZA HARANA/VALLE DE CARRANZA,BIZKAIA,"Barrio Ambasaguas, S/N",2,1,2,0
+5504,Parque Principado,43.386585,-5.808797,OVIEDO,ASTURIAS,"C/ Aldea Paredes, S/N",2,1,2,0
+5505,Colloto,43.37951,-5.792366,SIERO,ASTURIAS,C/  de la Estación  S/N,2,1,2,0
+5507,Meres,43.38099,-5.748721,SIERO,ASTURIAS,"Calle la Estación S/N, Siero (Asturias)",2,1,2,0
+5508,Fonciello,43.38178,-5.729719,SIERO,ASTURIAS,"Ctra. El Berron, S/N",2,1,2,0
+5509,El Berron,43.38274,-5.7026772,SIERO,ASTURIAS,"C/  la Estación, S/N",2,1,2,0
+5511,La Carrera de Siero,43.38692,-5.6753464,SIERO,ASTURIAS,"C/ del Llugar de Arriba, S/N",2,1,2,0
+5513,Pola de Siero,43.388153,-5.664772,SIERO,ASTURIAS,C/ Molin Nº 30 pola de Siero,2,1,2,0
+5515,Los Corros,43.376842,-5.601377,SIERO,ASTURIAS,"Ctra. As - 249 --- Estación Ferrocarril, S/N",2,1,2,0
+5517,Lieres,43.380585,-5.582623,SIERO,ASTURIAS,"C/  la Estación, S/N",2,1,2,0
+5521,El Remedio,43.37508,-5.5462394,NAVA,ASTURIAS,"Ctra. Na - 4 --- Estación Ferrocarril, S/N",2,1,2,0
+5522,Llames,43.36878,-5.5252404,NAVA,ASTURIAS,"C/ Estación Ferrocarril, S/N",2,1,2,0
+5523,Nava,43.361187,-5.5090985,NAVA,ASTURIAS,"Calle la Barraca S/N, Nava (Asturias)",2,1,2,0
+5525,Feve-Fuente Santa de Nava,43.35557,-5.478379,NAVA,ASTURIAS,"Ctra. Na - 3 --- Estación Ferrocarril, S/N",2,1,2,0
+5527,Ceceda,43.356224,-5.4511094,NAVA,ASTURIAS,"C/ Caserio Vega de Abajo, 10",2,1,2,0
+5529,Carancos,43.355568,-5.434442,NAVA,ASTURIAS,"Ctra. General,  S/N",2,1,2,0
+5531,Pintueles,43.359924,-5.3841314,PILOÑA,ASTURIAS,"Ctra. N-634 - Estación Ferrocarril, S/N",2,1,2,0
+5533,Infiesto,43.351788,-5.369202,PILOÑA,ASTURIAS,"Avda. de la Cueva, 2",2,1,2,0
+5534,Infiesto/apdro.,43.34404,-5.3606415,PILOÑA,ASTURIAS,"C/ la Medina, S/N",2,1,2,0
+5535,Villamayor,43.3631,-5.30285,PILOÑA,ASTURIAS,Barrio la  Estación-Villamayor  (Piloña),2,0,2,0
+5537,Sebares,43.36236,-5.2574,PILOÑA,ASTURIAS,Ctra. General  S/N sevares (Piloña),2,0,2,0
+5539,Soto de Dueñas,43.3583,-5.22689,PARRES,ASTURIAS,Ctra. General  S/N  Soto Dueñas (Parres),2,0,2,0
+5541,Ozanes,43.368397,-5.185191,PARRES,ASTURIAS,"Ctra. Pr-4 - Estación Ferrocarril, S/N",2,0,2,0
+5542,Policlinico,43.37862,-5.18603,PARRES,ASTURIAS,"C/ Castañera, S/N",2,0,2,0
+5543,Arriondas,43.387512,-5.188258,PARRES,ASTURIAS,"C/ Evaristo Valle, S/N",2,0,2,0
+5545,Fuentes,43.401443,-5.143117,PARRES,ASTURIAS,"C/ Fuentes, S/N",2,0,2,0
+5547,Toraño,43.41228,-5.118013,PARRES,ASTURIAS,Camino de la Estación   S/N toraño (Parres),2,0,2,0
+5549,Cuevas,43.431145,-5.073302,RIBADESELLA,ASTURIAS,"C/ Estación Ferrocarril, S/N",2,0,2,0
+5551,Llovio,43.440563,-5.055592,RIBADESELLA,ASTURIAS,Glorieta Cruce N - 632 Con N - 634,2,0,2,0
+5553,Ribadesella,43.45945,-5.0545,RIBADESELLA,ASTURIAS,"Calle la Atalaya S/N, Ribadesella (Asturias)",2,0,2,0
+5555,Camango,43.44821,-5.01882,RIBADESELLA,ASTURIAS,"Ctra. As - 263 --- Estación Ferrocarril, S/N",2,0,2,0
+5557,Feve-Belmonte de Pria,43.4398,-4.98228,LLANES,ASTURIAS,"Ctra. As - 263 --- Estación Ferrocarril, S/N",2,0,2,0
+5559,Nueva,43.440586,-4.935531,LLANES,ASTURIAS,Paseo  de los Tilos  Nº 46- Nueva,2,0,2,0
+5561,Villahormes,43.44201,-4.90383,LLANES,ASTURIAS,"Ctra. As-263 - Estación Ferrocarril, S/N",2,0,2,0
+5563,Posada,43.42483,-4.865,LLANES,ASTURIAS,C/ Aldea Posada  S/N -Posada de Llanes,2,0,2,0
+5565,Balmori,43.42147,-4.83583,LLANES,ASTURIAS,"Ctra. As - 263 --- Estación Ferrocarril, S/N",2,0,2,0
+5567,Celorio,43.42501,-4.81133,LLANES,ASTURIAS,"Ctra. As -263 --- Estación Ferrocarril, S/N",2,0,2,0
+5569,Poo,43.42429,-4.78189,LLANES,ASTURIAS,"Ctra. As-263 - Estación Ferrocarril, S/N",2,0,2,0
+5571,Llanes,43.42094,-4.7587,LLANES,ASTURIAS,"C/ Roman Romano, S/N",2,0,2,0
+5573,San Roque del Acebal,43.39473,-4.73013,LLANES,ASTURIAS,"Pza. San Roque, 306",2,0,2,0
+5575,Vidiago,43.39647,-4.673,LLANES,ASTURIAS,"C/ Riego, S/N",2,0,2,0
+5577,Pendueles,43.39283,-4.63039,LLANES,ASTURIAS,"Ctra. Lln-3 - Estación Ferrocarril, S/N",2,0,2,0
+5579,Colombres,43.38272,-4.55709,RIBADEDEVA,ASTURIAS,"C/ Estación Ferrocarril, S/N",2,0,2,0
+5602,Valdecilla la Marga,43.452946,-3.8282409,SANTANDER,CANTABRIA,"Avda. Parayas, S/N - Poligono Industrial Candina",2,1,2,0
+5621,Torrelavega-Centro,43.351,-4.051179,TORRELAVEGA,CANTABRIA,"Plaza Estaciones 1, Torrelavega (Cantabria)",2,1,2,0
+5623,Puente San Miguel,43.358673,-4.0877666,REOCÍN,CANTABRIA,Barrio la Redonda  S/N-Puente San Miguel (Reocin),2,1,2,0
+5637,Cabezon de La Sal,43.307903,-4.2319436,CABEZÓN DE LA SAL,CANTABRIA,"C/ Barrio de la Estación, S/N",2,1,2,0
+5641,Treceño,43.31828,-4.30902,VALDÁLIGA,CANTABRIA,C/  la Estación  Nº 62-Valdaliga,2,1,2,0
+5643,Roiz,43.32821,-4.34927,VALDÁLIGA,CANTABRIA,"Barrio las Cuevas, 20",2,1,2,0
+5644,El Barcenal,43.340347,-4.383335,SAN VICENTE DE LA BARQUERA,CANTABRIA,"Barrio El Barcenal, S/N",2,1,2,0
+5645,San Vicente de la Barquera,43.367836,-4.404504,SAN VICENTE DE LA BARQUERA,CANTABRIA,Barrio Acebosa-San Vicente de la Barquera,2,1,2,0
+5647,Pesués,43.37029,-4.480174,VAL DE SAN VICENTE,CANTABRIA,"Ctra. Ca-181 - Estación Ferrocarril, S/N",2,1,2,0
+5649,Unquera,43.37478,-4.51434,VAL DE SAN VICENTE,CANTABRIA,C/ Ctra. General S/N Unquera,2,1,2,0
+5651,Nueva Montaña,43.440186,-3.8493712,SANTANDER,CANTABRIA,Avda. de Nueva Montaña S/N -Santander,2,1,2,0
+5652,Valle Real,43.42754,-3.8405378,SANTANDER,CANTABRIA,"C/ Enrique Gran, S/N",2,1,2,0
+5655,Maliaño Vidriera,43.416016,-3.8411016,CAMARGO,CANTABRIA,Avda. Cantabria-Maliaño (Camargo),2,1,2,0
+5657,Astillero,43.403652,-3.82068,ASTILLERO (EL),CANTABRIA,"Avda. Chiclana, S/N",2,1,2,0
+5661,Heras,43.400898,-3.7666376,MEDIO CUDEYO,CANTABRIA,"Barrio de la Estación, S/N",2,1,2,0
+5663,Orejo,43.39948,-3.7383974,MARINA DE CUDEYO,CANTABRIA,Barrio de la Estación  S/N-Orejo ( Marina de Cudeyo),2,1,2,0
+5672,Puente Agüero,43.40649,-3.719342,ENTRAMBASAGUAS,CANTABRIA,"Ctra. Ca-421 - Estación Ferrocarril, S/N",2,1,2,0
+5673,Villaverde de Pontones,43.411324,-3.703643,RIBAMONTÁN AL MONTE,CANTABRIA,"C/ Barrio El Resbalon, 9",2,1,2,0
+5675,Hoz de Anero,43.404884,-3.666883,RIBAMONTÁN AL MONTE,CANTABRIA,"Barrio. la Estación S/N, Hoz de Anero (Cantabria)",2,1,2,0
+5677,Beranga,43.41371,-3.57713,HAZAS DE CESTO,CANTABRIA,"Barrio de la Estación, S/N",2,1,2,0
+5679,Gama,43.42315,-3.52472,BÁRCENA DE CICERO,CANTABRIA,"Ctra. Santander Bilbao-Gama, S/N",2,1,2,0
+5681,Cicero,43.417053,-3.49049,BÁRCENA DE CICERO,CANTABRIA,"Ctra. N - 634 --- Estación Ferrocarril, S/N",2,1,2,0
+5683,Treto,43.39409,-3.4692,BÁRCENA DE CICERO,CANTABRIA,Barrio de la Estación  S/N-Treto (Barcena de Cicero),2,1,2,0
+5685,Limpias,43.35881,-3.43334,LIMPIAS,CANTABRIA,"Ctra. Ca - 257 --- Estación Ferrocarril, S/N",2,1,2,0
+5687,Marrón,43.34661,-3.420918,AMPUERO,CANTABRIA,Residencial  la  Virgen-Marron  (Ampuero),2,1,2,0
+5689,Udalla,43.31368,-3.44549,RASINES,CANTABRIA,"Barrio Fresno, 14",2,1,2,0
+5691,Gibaja,43.28219,-3.43831,RAMALES DE LA VICTORIA,CANTABRIA,"Barrio de  la Estación, S/N",2,1,2,0
+5721,Arla-Berron,43.1667,-3.227589,VALLE DE MENA,BURGOS,"Camino El Berron, S/N",2,0,2,0
+5722,Ungo Nava,43.142895,-3.264716,VALLE DE MENA,BURGOS,"Ctra. Cl-629 - Estación Ferrocarril, S/N",2,0,2,0
+5724,Mercadillo-Villasana,43.10521,-3.264469,CEREZO DE RÍO TIRÓN,BURGOS,Barrio del Mercadillo  S/N- Villasana de Mena,2,0,2,0
+5727,Cadagua,43.068172,-3.347339,VALLE DE MENA,BURGOS,"C/ Camino A Mena --- Estación Ferrocarril, S/N",2,0,2,0
+5730,Bercedo Montija,43.088478,-3.456,MERINDAD DE SOTOSCUEVA,BURGOS,"C/ Estación, S/N",2,0,2,0
+5731,Quintana de Los Prados,43.08,-3.51,ESPINOSA DE LOS MONTEROS,BURGOS,"Ctra. Bu-526 - Estación Ferrocarrikl, S/N",2,0,2,0
+5732,Espinosa de Los Monteros,43.074253,-3.537116,ESPINOSA DE LOS MONTEROS,BURGOS,"Ctra. General,  S/N",2,0,2,0
+5733,Redondo,43.062992,-3.607895,MERINDAD DE SOTOSCUEVA,BURGOS,C/ Estación Ferrocarril S/N,2,0,2,0
+5734,Sotoscueva,43.04529,-3.688253,MERINDAD DE SOTOSCUEVA,BURGOS,Estación S/N-Vallejo de Sotoscueva,2,0,2,0
+5735,Pedrosa,43.012367,-3.737852,MERINDAD DE VALDEPORRES,BURGOS,C/ de la Estación   S/N-Pedrosa de Valdeporres,2,0,2,0
+5736,Dosante Cidad,43.00125,-3.74525,MERINDAD DE VALDEPORRES,BURGOS,"Ctra. Estación Ferrocarril, S/N",2,0,2,0
+5737,Robredo Ahedo,43.019093,-3.809231,MERINDAD DE VALDEPORRES,BURGOS,C/ Estación Ferrocarril S/N,2,0,2,0
+5738,Soncillo,43.00581,-3.844888,VALLE DE VALDEBEZANA,BURGOS,"Ctra. Bu-V-5791, Estación de Ferrocarril S/N, Soncillo (Burgos)",2,0,2,0
+5739,Cabañas de Virtus,42.996395,-3.858466,VALLE DE VALDEBEZANA,BURGOS,"C/ Estación Ferrocarril, S/N",2,0,2,0
+5740,Arija,42.99129,-3.945006,ARIJA,BURGOS,"C/ Arsenio Brachot, S/N",2,0,2,0
+5741,Llano,42.988064,-3.982357,ROZAS DE VALDEARROYO (LAS),CANTABRIA,"Ctra. Ca - 730 --- Estación Ferrocarril, S/N",2,0,2,0
+5742,Feve-Las Rozas de Valdearroyo,42.973606,-4.029864,ROZAS DE VALDEARROYO (LAS),CANTABRIA,"Ctra. Ca - 730 --- Estación Ferrocarril, S/N",2,0,2,0
+5743,Montes Claros,42.934322,-4.050073,VALDEPRADO DEL RÍO,CANTABRIA,"Ctra. Ca-741 - Estación Ferrocarril, S/N",2,0,2,0
+5744,Los Carabeos,42.910328,-4.075211,VALDEPRADO DEL RÍO,CANTABRIA,"C/ Arroyal de los Carabeos, S/N",2,0,2,0
+5747,Cillamayor,42.857754,-4.279178,BARRUELO DE SANTULLÁN,PALENCIA,"C/ Rio Cill --- Estación Ferrocarril, S/N",2,0,2,0
+5748,Salinas de Pisuerga,42.851273,-4.386209,SALINAS DE PISUERGA,PALENCIA,"Ctra. P-212 - Estación Ferrocaril, S/N",2,0,2,0
+5749,Vado Cervera,42.83936,-4.49477,DEHESA DE MONTEJO,PALENCIA,"Calle de la Estación, Dehesa de Montejo (Palencia",2,0,2,0
+5750,Castrejon de La Peña,42.81199,-4.60162,CASTREJÓN DE LA PEÑA,PALENCIA,"C/ Estación Ferrocarril,s/n",2,0,2,0
+5751,Villaverde Tarilonte,42.81835,-4.685419,SANTIBÁÑEZ DE LA PEÑA,PALENCIA,"C/ Don Jesus Mayordomo - Estación Ferrocarril, S/N",2,0,2,0
+5752,Santibañez de La Peña,42.80204,-4.74145,SANTIBÁÑEZ DE LA PEÑA,PALENCIA,C/ la Estación  S/N santibañez de la Peña,2,0,2,0
+5753,Guardo/apdro.,42.78774,-4.845133,GUARDO,PALENCIA,"C/ El Soto, S/N",2,1,2,0
+5754,Guardo,42.790997,-4.8519325,GUARDO,PALENCIA,"C/ de la Estación, 2",2,1,2,0
+5755,La Llama de La Guzpeña,42.77025,-5.041248,PRADO DE LA GUZPEÑA,LEÓN,"Ctra. Cl - 626 --- Estación Ferrocarril, S/N",2,1,2,0
+5756,La Espina,42.786858,-4.9052024,VALDERRUEDA,LEÓN,"Ctra. Cl - 626 --- Estación Ferrocarril, S/N",2,1,2,0
+5757,Valcuende,42.76558,-4.929256,VALDERRUEDA,LEÓN,"C/ Arriba, S/N",2,1,2,0
+5758,Puente Almuhey,42.787632,-4.971899,VALDERRUEDA,LEÓN,Ctra. General  S/N- Puente Almuhey,2,1,2,0
+5759,Prado de La Guzpeña,42.783234,-5.027097,PRADO DE LA GUZPEÑA,LEÓN,"C/ la Torre, S/N",2,1,2,0
+5760,Valle de Las Casas,42.767773,-5.071367,CEBANICO,LEÓN,"Ctra. Cl-626 - Estación Ferrocarril, S/N",2,1,2,0
+5761,Cistierna,42.80316,-5.1307926,CISTIERNA,LEÓN,"C/ El Hullero,  S/N",2,1,2,0
+5763,La Ercina,42.80885,-5.2138925,ERCINA (LA),LEÓN,"C/ Estación Ferrocarril, 10",2,1,2,0
+5766,Boñar,42.86279,-5.328526,BOÑAR,LEÓN,"C/ Herminio Rodriguez Diez, 44",2,1,2,0
+5767,La Vecilla,42.855114,-5.4121156,VECILLA (LA),LEÓN,"Barrio la Estación , S/N",2,1,2,0
+5770,Matallana,42.84115,-5.5218716,MATALLANA DE TORÍO,LEÓN,"C/ Travesía de la Estación, S/N",2,1,2,0
+5776,San Feliz,42.682312,-5.5379086,GARRAFE DE TORÍO,LEÓN,La Ctra.  S/N san Feliz del Torio,2,1,2,0
+5778,Feve-Leon,42.602493,-5.574934,LEÓN,LEÓN,"Avda. Padre Isla, 48",2,1,2,0
+5790,Sorriba,42.786278,-5.1274757,VALVERDE DE LA VIRGEN,LEÓN,"C/ Camino Numero Uno, 2",2,1,2,0
+5799,Cerezal de La Guzpeña,42.779774,-5.005572,PRADO DE LA GUZPEÑA,LEÓN,"Ctra. Cl -626 --- Estación Ferrocarril, S/N",2,1,2,0
+5803,La Asunción Universidad,42.616096,-5.5660987,LEÓN,LEÓN,"Calle Tambaron 3, León",2,1,2,0
+6002,Alhama de Murcia,37.8494024,-1.4145141,ALHAMA DE MURCIA,MURCIA,"C/ la Estación,  8",2,1,3,0
+6003,Totana,37.7635424,-1.4956153,TOTANA,MURCIA,Camino de la Estación S/N,2,1,3,0
+6006,Lorca - Sutullena,37.6721129,-1.6962305,LORCA,MURCIA,"C/ Alameda de Menchiron, S/N",2,1,1,0
+7004,Águilas,37.409865,-1.5725342,ÁGUILAS,MURCIA,"Paseo de la Estación, S/N",2,1,1,0
+8004,Segovia - Guiomar,40.910577,-4.094564,SEGOVIA,SEGOVIA,"Paseo Campos de Castilla, S/N",1,0,1,1
+8223,Vigo Urzaiz,42.234189,-8.713728,VIGO,PONTEVEDRA,Rúa Vía Norte S/N,1,0,1,1
+8224,Redondela AV,42.284509,-8.603573,REDONDELA,PONTEVEDRA,"Estrada de Pazos, 10",2,0,3,1
+8240,Medina del Campo Alta Velocidad,41.290633,-4.923183,MEDINA DEL CAMPO,VALLADOLID,"Ctra. Vp-8904 de las Salinas, Km 1,500",2,0,2,1
+8247,Sanabria Alta Velocidad,42.0450532,-6.5631319,PUEBLA DE SANABRIA,ZAMORA,"Carretera N-525 P.k. 78+100,  Polígono 34 Parcela 9006",2,0,3,0
+8251,A Gudiña - Porta de Galicia,42.0636337,-7.1342408,GUDIÑA (A),OURENSE,"Rúa Viana, S/N",2,0,3,0
+10000,Madrid - Príncipe Pio,40.4214895,-3.7189689,MADRID,MADRID,"Paseo de la Florida, 2",1,1,1,0
+10001,Aravaca (apd-Cgd),40.4484551,-3.7855547,MADRID,MADRID,"Avda. del Talgo, S/N - Rosas de Aravaca, S/N",2,1,3,0
+10002,Pozuelo,40.4474569,-3.8002779,POZUELO DE ALARCÓN,MADRID,Pza. de la Estación S/N,2,1,3,0
+10005,Las Rozas (apd),40.4942887,-3.8681747,ROZAS DE MADRID (LAS),MADRID,Ctra. de la Coruña Km.,2,1,3,0
+10100,Pinar de Las Rozas,40.5222672,-3.8822477,ROZAS DE MADRID (LAS),MADRID,"Avenida Bomberos S/N, las Rozas de Madrid (Madrid)",2,1,3,0
+10101,Las Matas,40.5523869,-3.8967664,ROZAS DE MADRID (LAS),MADRID,"Paseo del Ferrocarril, S/N",2,1,3,0
+10103,Torrelodones,40.574554,-3.9566013,TORRELODONES,MADRID,Pza. Salvador Sanchez Frascuelo S/N,2,1,3,0
+10104,Galapagar - La Navata,40.6003138,-3.982259,GALAPAGAR,MADRID,"Carretera de Galapagar A la Navata S/N, Galapagar (Madrid)",2,1,3,0
+10200,Villalba de Guadarrama,40.6264893,-4.0080301,COLLADO VILLALBA,MADRID,Pza. de la Estación S/N,1,1,1,1
+10201,San Yago (Apd),40.6178953,-4.0310749,GALAPAGAR,MADRID,Avda. Saltos del Sil S/N,2,1,3,0
+10202,Las Zorreras - Navalquejigo,40.6093116,-4.0463626,SAN LORENZO DE EL ESCORIAL,MADRID,"Camino de la Estación, S/N",2,1,3,0
+10203,El Escorial,40.5853675,-4.1324053,SAN LORENZO DE EL ESCORIAL,MADRID,"Calle Santa Rosa 85, El Escorial (Madrid)",2,1,2,0
+10204,Zarzalejo,40.5389272,-4.1580662,ZARZALEJO,MADRID,"C/ del Ferrocarril, S/N",2,1,2,0
+10205,Robledo de Chavela,40.5208244,-4.2467592,ROBLEDO DE CHAVELA,MADRID,"Avda. Estación Ferrocarril, S/N",2,1,2,0
+10206,Santa María de La Alameda - Peguerinos,40.569001,-4.2691255,SANTA MARÍA DE LA ALAMEDA,MADRID,"C/ Doce de Octubre, S/N",2,1,2,0
+10207,Las Navas del Marqués,40.589205,-4.362259,NAVAS DEL MARQUÉS (LAS),ÁVILA,"Avda. Estación Ferrocarril, S/N",2,0,2,0
+10208,Navalperal,40.591152,-4.408382,NAVALPERAL DE PINARES,ÁVILA,"Avda. Estación Ferrocarril, S/N",2,0,2,0
+10209,El Pimpollar,40.567587,-4.283541,SANTA MARÍA DE LA ALAMEDA,MADRID,"C/ Estación Ferrocarril, S/N",2,0,3,0
+10300,Herradón - La Cañada,40.599275,-4.495039,HERRADÓN DE PINARES,ÁVILA,"Avda. Estación Ferrocarril, S/N",2,0,2,0
+10302,Guimorcondo,40.649062,-4.614987,ÁVILA,ÁVILA,"Avda. Estación Ferrocarril, S/N",2,0,3,0
+10400,Ávila,40.657255,-4.683312,ÁVILA,ÁVILA,"Paseo Estación Ferrocarril, S/N",1,0,1,1
+10409,Arévalo,41.047123,-4.701988,ARÉVALO,ÁVILA,"C/ Deposito, S/N",2,0,2,0
+10500,Medina del Campo,41.317617,-4.909923,MEDINA DEL CAMPO,VALLADOLID,"Avda. Estación Ferrocarril, 27",1,0,1,1
+10501,Pozaldez,41.36792,-4.836001,POZALDEZ,VALLADOLID,"C/ Estación Ferrocarril, S/N",2,0,2,0
+10502,Matapozuelos,41.422794,-4.801025,MATAPOZUELOS,VALLADOLID,"C/ Camino Estación Ferrocarril, S/N",2,0,2,0
+10503,Valdestillas,41.488729,-4.772937,VALDESTILLAS,VALLADOLID,"Avda. Valladolid, S/N",2,0,2,0
+10504,Viana,41.52407,-4.754489,VIANA DE CEGA,VALLADOLID,"C/ Estación Ferrocarril, S/N",2,0,2,0
+10600,Valladolid,41.642167,-4.726986,VALLADOLID,VALLADOLID,"C/ Recondo, S/N",1,0,1,1
+10602,Cabezón del Pisuerga,41.737276,-4.651294,CABEZÓN DE PISUERGA,VALLADOLID,"C/ Estación Ferrocarril, S/N",2,0,2,0
+10603,Corcos - Aguilarejo,41.766446,-4.623485,CORCOS,VALLADOLID,"Camino Estación Ferrocarril, S/N",2,0,3,0
+10604,Cubillas de Santa Marta,41.808861,-4.579754,CUBILLAS DE SANTA MARTA,VALLADOLID,"C/ Camino del Apeadero, S/N",2,0,3,0
+10605,Dueñas,41.87048,-4.541216,DUEÑAS,PALENCIA,"C/ Estación Ferrocarril, 7",2,0,2,0
+10610,Valladolid-Universidad,41.660257,-4.704037,VALLADOLID,VALLADOLID,"Ctra. Juan Carlos I, S/N",2,0,1,0
+11000,Venta de Baños,41.91736,-4.495844,VENTA DE BAÑOS,PALENCIA,"C/ Linea Ferrocarril, 3 - 7",2,0,1,0
+11004,Magaz,41.976561,-4.432114,MAGAZ DE PISUERGA,PALENCIA,"Avda. Virgen de Villaverde, S/N",2,0,3,0
+11006,Quintana del Puente,42.079974,-4.19858,QUINTANA DEL PUENTE,PALENCIA,"C/ Aselmo Arenillas, S/N",2,0,3,0
+11009,Villaquirán,42.215717,-3.999396,VILLAQUIRÁN DE LOS INFANTES,BURGOS,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+11014,Burgos Rosa Manzano,42.371197,-3.666308,BURGOS,BURGOS,"Avda. Principe de Asturias, S/N",1,0,1,1
+11109,Briviesca,42.542765,-3.319287,BRIVIESCA,BURGOS,"C/ Vía Ferrea, S/N",2,0,3,1
+11111,Pancorbo,42.630486,-3.112307,PANCORBO,BURGOS,"C/ Estación Ferrocarril, 2",2,0,3,0
+11200,Miranda de Ebro,42.691024,-2.940366,MIRANDA DE EBRO,BURGOS,"Pza. Estación Ferrocarril, S/N",1,1,1,1
+11203,Manzanos,42.742899,-2.867501,RIBERA BAJA/ERRIBERA BEITIA,ARABA/ÁLAVA,"C/ Rio Zadorra Kalea, S/N",2,1,3,0
+11204,La Puebla de Arganzón,42.765245,-2.830385,PUEBLA DE ARGANZÓN (LA),BURGOS,"C/ Estación Ferrocarril, S/N",2,1,3,0
+11205,Nanclares/Langraiz,42.816216,-2.804942,IRUÑA OKA/IRUÑA DE OCA,ARABA/ÁLAVA,"La Estación Kalez, S/N",2,1,3,0
+11208,Vitoria/Gasteiz,42.841517,-2.672601,VITORIA-GASTEIZ,ARABA/ÁLAVA,"Plazuela de la Estación, 1",1,1,1,1
+11210,Alegría de Álava - Dulantzi,42.848723,-2.514668,ALEGRÍA-DULANTZI,ARABA/ÁLAVA,"C/ Estación Ferrocarril, S/N",2,1,2,0
+11212,Salvatierra/Agurain,42.84643,-2.38921,SALVATIERRA/AGURAIN,ARABA/ÁLAVA,"C/ Trebiño Kalea, S/N",2,1,2,0
+11213,Araia,42.869599,-2.306807,ZALDUONDO,ARABA/ÁLAVA,"C/ Estación Ferrocarril, S/N",2,1,2,0
+11300,Altsasu/Alsasua - Estación,42.894847,-2.181237,ALTSASU/ALSASUA,NAVARRA,"C/ Estación Ferrocarril, S/N",2,1,1,0
+11305,Brinkola - Oñati,43.0189865,-2.3346811,LEGAZPI,GIPUZKOA,"Brinkola Nucleo -  Legazpia, S/N",2,1,3,0
+11306,Legazpi,43.0510385,-2.3306103,LEGAZPI,GIPUZKOA,"C/ Estación, S/N",2,1,3,0
+11400,Zumárraga,43.0870824,-2.3202298,ZUMARRAGA,GIPUZKOA,Estación S/N,2,1,2,0
+11402,Ormaiztegi,43.0402752,-2.256462,ORMAIZTEGI,GIPUZKOA,"Sakabanatua, 23",2,1,3,0
+11404,Beasain,43.0462687,-2.2022994,BEASAIN,GIPUZKOA,"Pla. Barrendain, S/N",2,1,3,0
+11405,Ordizia/Ordicia,43.0527547,-2.1791923,ORDIZIA,GIPUZKOA,Joseba Rezolaren Pasalekua,2,1,3,0
+11500,Tolosa,43.1354472,-2.0790886,TOLOSA,GIPUZKOA,Geltoki Kalea - Bajo,2,1,2,0
+11501,Tolosa Centro,43.1393963,-2.0741122,TOLOSA,GIPUZKOA,Pablo Gorosabel,2,1,3,0
+11503,Villabona - Zizurkil,43.1891906,-2.0553722,VILLABONA,GIPUZKOA,"C/ Aurrerra Pla., 5",2,1,3,0
+11504,Andoain Centro/Erdia,43.2155738,-2.0204595,ANDOAIN,GIPUZKOA,"C/ Joaquín Larreta, S/N",2,1,3,0
+11507,Hernani - Centro,43.2664779,-1.9726232,HERNANI,GIPUZKOA,"Atzieta Kalea, S/N",2,1,3,0
+11511,San Sebastián/Donostia,43.3176961,-1.9767172,DONOSTIA/SAN SEBASTIÁN,GIPUZKOA,"Paseo de Francia 22, Donosti (Guipuzcoa)",1,1,1,1
+11512,Gros,43.3218457,-1.9738835,DONOSTIA/SAN SEBASTIÁN,GIPUZKOA,"C/ Misericordia,7",2,1,3,0
+11513,Ategorrieta (apd),43.3203225,-1.9598127,DONOSTIA/SAN SEBASTIÁN,GIPUZKOA,"Zubiaurre Pasealekua 27, Donostia-San Sebastian (Guipuzcoa)",2,1,3,0
+11514,Herrera (apd),43.3193537,-1.9370173,DONOSTIA/SAN SEBASTIÁN,GIPUZKOA,"Paseo de Herrera, 3",2,1,3,0
+11515,Pasaia,43.3189428,-1.9171727,PASAIA,GIPUZKOA,Avda Navarra S/N,2,1,3,0
+11516,Lezo - Errenteria,43.3159364,-1.8994386,LEZO,GIPUZKOA,"C/ Jaizkibel,1",2,1,3,0
+11522,Intxaurrondo,43.3200487,-1.9517673,DONOSTIA/SAN SEBASTIÁN,GIPUZKOA,"Paseo Zubiaurre, S/N",2,1,3,0
+11600,Irún,43.3395365,-1.8012519,IRUN,GIPUZKOA,"Estación Kalea S/N, Irún (Gipuzkoa)",1,1,1,1
+12001,Los Negrales,40.638567,-4.0218746,ALPEDRETE,MADRID,"Avda. de la Reina Victoria, S/N",2,1,3,0
+12002,Alpedrete - Mataespesa,40.6581044,-4.0349719,ALPEDRETE,MADRID,"Camino de la Estación, 34",2,1,3,0
+12004,Collado Mediano,40.6928982,-4.0359271,COLLADO MEDIANO,MADRID,"C/ Real, 73",2,1,3,0
+12005,Los Molinos - Guadarrama,40.7066407,-4.0671991,MOLINOS (LOS),MADRID,"C/ Pedro Gutierrez, S/N",2,1,3,0
+12006,Cercedilla,40.7376129,-4.0662985,CERCEDILLA,MADRID,"C/ Emilio Serrano, 43",2,1,1,0
+12007,Tablada,40.705648,-4.12531,GUADARRAMA,MADRID,"Avda. Valle del Guadarrama, S/N",2,0,3,0
+12008,Gudillos,40.716914,-4.157681,ESPINAR (EL),SEGOVIA,"Camino de Gudillos, S/N",2,0,3,0
+12009,San Rafael,40.714944,-4.18143,CASTRO DEL RÍO,SEGOVIA,"Barrio de San Rafael, S/N",2,0,3,0
+12010,El Espinar,40.740852,-4.189482,CASTRO DEL RÍO,SEGOVIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+12011,Los Ángeles de San Rafael,40.777909,-4.206933,CASTRO DEL RÍO,SEGOVIA,"Urbanizacion los Angeles de San Rafael, S/N",2,0,3,0
+12012,Otero - Herreros,40.80097,-4.203504,OTERO DE HERREROS,SEGOVIA,"Barrio Estación Ferrocarril, S/N",2,0,3,0
+12013,Ortigosa del Monte,40.832771,-4.168094,ORTIGOSA DEL MONTE,SEGOVIA,"Avda. Estación Ferrocarril, S/N",2,0,3,0
+12014,Navas de Riofrío - La Losa,40.856673,-4.141103,NAVAS DE RIOFRÍO,SEGOVIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+12100,Segovia,40.93403,-4.11365,SEGOVIA,SEGOVIA,"C/ Obispo Quesada, 1",2,0,1,0
+13106,Llodio,43.1423514,-2.9606511,LAUDIO/LLODIO,ARABA/ÁLAVA,"C/ Jose Matia, 2",2,1,3,0
+13200,Bilbao - Abando Indalecio Prieto,43.2601304,-2.9285592,BILBAO,BIZKAIA,"Pla. Circular, 2",1,1,1,1
+13206,Ametzola,43.254707,-2.9436598,BILBAO,BIZKAIA,"C/ Gordoniz, 49",2,1,2,0
+14100,Palencia,42.015711,-4.534135,PALENCIA,PALENCIA,"Plaza de los Jardinillos S/N, Palencia",1,0,1,1
+14101,Monzón de Campos,42.105538,-4.501677,MONZÓN DE CAMPOS,PALENCIA,"C/ Estación de Ferrocarril, S/N",2,0,3,0
+14102,Amusco,42.178019,-4.480743,AMUSCO,PALENCIA,"Ctra. P- 983 - Estación Ferrocarril, S/N",2,0,3,0
+14103,Piña,42.211747,-4.434689,PIÑA DE CAMPOS,PALENCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+14104,Fromista,42.2649,-4.402433,FRÓMISTA,PALENCIA,"C/ las Huesas, S/N",2,0,3,0
+14107,Osorno,42.415077,-4.357367,OSORNO LA MAYOR,PALENCIA,"Avda. Calvo Sotelo, S/N",2,0,3,0
+14108,Espinosa de Villagonzalo (apd),42.452373,-4.367811,ESPINOSA DE VILLAGONZALO,PALENCIA,"C/ Apeadero, S/N",2,0,3,0
+14111,Herrera de Pisuerga,42.598477,-4.316683,HERRERA DE PISUERGA,PALENCIA,"Ctra. C- 627 --- Estación de Ferrocarril, S/N",2,0,3,0
+14112,Alar del Rey - San Quirce,42.656837,-4.311372,ALAR DEL REY,PALENCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+14113,Mave,42.723726,-4.27616,AGUILAR DE CAMPOO,PALENCIA,"Pza. Estación Ferrocarril, S/N",2,0,3,0
+14114,Aguilar de Campoo,42.785362,-4.233899,AGUILAR DE CAMPOO,PALENCIA,"Barrio Estación Ferrocarril, 18 - 19",2,0,3,0
+14115,Quintanilla de Las Torres,42.81903,-4.202753,POMAR DE VALDIVIA,PALENCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+14117,El Carrión,42.1166417,-4.500692,MONZÓN DE CAMPOS,PALENCIA,"C/ Camino Becerril, S/N",2,0,3,0
+14200,Mataporquera,42.870901,-4.165406,VALDEOLEA,CANTABRIA,C/  la Constitucion   S/N- Mataporquera (Valdeolea),2,0,3,1
+14202,Reinosa,42.9944991,-4.1409454,REINOSA,CANTABRIA,Estación Adif Pza. de las Estaciónes S/N,2,1,3,0
+14206,Bárcena,43.1287054,-4.053473,BÁRCENA DE PIE DE CONCHA,CANTABRIA,"Calle Doñini 17, Bárcena de Pie de Concha (Cantabria)",2,1,3,0
+14210,Los Corrales de Buelna,43.2551009,-4.0639472,CORRALES DE BUELNA (LOS),CANTABRIA,"Estación Adif,  S/N --- Barrio Estación",2,1,3,0
+14211,Las Caldas de Besaya,43.2985945,-4.073252,CORRALES DE BUELNA (LOS),CANTABRIA,"C/ Estación Adif, S/N",2,1,,0
+14213,Torrelavega/Tanos,43.3276776,-4.0426871,TORRELAVEGA,CANTABRIA,"Estación Adif,joaquin Fernandez Vallejo S/N",2,1,3,0
+14216,Renedo,43.3531069,-3.9496471,PIÉLAGOS,CANTABRIA,"Estación Adif, Avda Luis de la Concha 1",2,1,3,0
+14220,Maliaño,43.4161415,-3.8410762,CAMARGO,CANTABRIA,"Estación Adif  -- Avda. de Cantabria, S/N",2,1,3,0
+14223,Santander,43.4583981,-3.8109529,SANTANDER,CANTABRIA,Pza. de las Estaciónes  S/N-Santander,1,1,1,1
+14230,Valdecilla,43.4540888,-3.8277628,SANTANDER,CANTABRIA,"Avenida Candina S/N, Santander",2,1,3,0
+15001,Grijota,42.049225,-4.583954,GRIJOTA,PALENCIA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+15003,Becerril,42.104706,-4.64712,BECERRIL DE CAMPOS,PALENCIA,"Ctra. P - 953 --- Estación Ferrocarril, S/N",2,0,3,0
+15004,Paredes de Nava,42.150694,-4.697599,PAREDES DE NAVA,PALENCIA,"Avda. Berruguete, 38",2,0,3,0
+15006,Cisneros,42.19112,-4.850249,CISNEROS,PALENCIA,"Ctra. P - 932 --- Estación Ferrocarril, S/N",2,0,3,0
+15007,Villada,42.245238,-4.970589,VILLADA,PALENCIA,"C/ Estación Norte, S/N",2,0,3,0
+15008,Grajal,42.323246,-5.013381,GRAJAL DE CAMPOS,LEÓN,"C/ Estación Ferrocarril, S/N",2,0,3,0
+15009,Sahagún,42.369329,-5.022667,SAHAGÚN,LEÓN,"C/ Tras Estación, S/N",1,0,3,1
+15012,El Burgo Ranero,42.425753,-5.208592,BURGO RANERO (EL),LEÓN,"C/ Senda Estación Ferrocarril, S/N",2,0,3,0
+15014,Santas Martas,42.460004,-5.386777,SANTAS MARTAS,LEÓN,"C/ Estación Ferrocarril, 10-16",2,0,3,0
+15015,Palanquinos,42.460716,-5.497584,VILLANUEVA DE LAS MANZANAS,LEÓN,"Pza. Santa Rita, 10",2,0,3,0
+15100,Leon,42.596048,-5.582428,LEÓN,LEÓN,"Avda. Palencia, S/N",1,0,1,1
+15106,La Robla,42.804454,-5.626255,ROBLA (LA),LEÓN,"C/ la Estación, S/N",2,0,3,0
+15108,La Pola de Gordon,42.854099,-5.674524,POLA DE GORDÓN (LA),LEÓN,"C/ Capitan Lozano, 7",2,0,3,0
+15109,Santa Lucia,42.87515,-5.639613,POLA DE GORDÓN (LA),LEÓN,"C/ Reino de Leon, 1",2,0,3,0
+15112,Villamanin,42.93671,-5.657637,VILLAMANÍN,LEÓN,"C/ Estación Ferrocarril, 5",2,0,3,0
+15113,Busdongo,42.984495,-5.705391,VILLAMANÍN,LEÓN,"Ctra. N - 630 --- Estación Ferrocarril, 1",2,0,3,0
+15116,Linares - Congostinas,43.101743,-5.772162,LENA,ASTURIAS,"Camino Aspr - 92 --- Estación Ferrocarril, S/N",2,0,3,0
+15118,Fierros,43.0715986,-5.769465,LENA,ASTURIAS,Estación Puente los Fierros,2,1,3,0
+15120,Campumanes,43.1100681,-5.8164466,LENA,ASTURIAS,"C/ la Estación, S/N",2,1,3,0
+15122,Pola de Lena/La Pola,43.15872,-5.8310263,LENA,ASTURIAS,C/ Ramon y Cajal - S/N,2,1,3,0
+15200,Uxo,43.2046962,-5.7926422,MIERES,ASTURIAS,C/ Estación - S/N,1,1,3,0
+15203,Mieres Puente,43.2500266,-5.7822622,MIERES,ASTURIAS,Barrio del Gonzalin S/N (Mi- 1),1,1,3,1
+15211,Oviedo/Uviéu,43.3663577,-5.854838,OVIEDO,ASTURIAS,Calle Uría S/N,1,1,2,1
+15217,La Corredoria,43.388107,-5.827253,OVIEDO,ASTURIAS,"C/ Ingeniero Francisco Pintado Fe, S/N",1,1,2,0
+15218,Llamaquique,43.3588282,-5.8573201,OVIEDO,ASTURIAS,"Calle Trece Rosas, S/N",1,1,3,0
+15401,La Calzada,43.5353848,-5.6971507,GIJÓN,ASTURIAS,"Avda. Juan Carlos, S/N",2,1,3,0
+15410,Gijón/Xixón,43.5377329,-5.6758089,GIJÓN,ASTURIAS,"C/  Sanz Crespo, S/N",1,1,1,1
+16403,Avilés,43.561339,-5.9228329,AVILÉS,ASTURIAS,"Avda. de los Telares, 18",2,1,1,0
+17000,Madrid - Chamartín - Clara Campoamor,40.4711789,-3.6829524,MADRID,MADRID,"C/ Agustin de Foxa, S/N",1,1,1,1
+18000,Madrid - Atocha Cercanías,40.4066191,-3.6894391,MADRID,MADRID,"C/  Glorieta del Emperador Carlos V, 3",1,1,1,1
+18001,Madrid - Recoletos,40.4233731,-3.690931,MADRID,MADRID,"Paseo de Recoletos, 20",2,1,2,0
+18002,Madrid - Nuevos Ministerios,40.4466271,-3.6923468,MADRID,MADRID,"Paseo de la Castellana, 85 ---  C/ Raimundo Fernandez Villaverde",1,1,1,0
+20002,Quintana - Raneros,42.550085,-5.637789,SANTOVENIA DE LA VALDONCINA,LEÓN,"C/ Guzman El Bueno, S/N",2,0,3,0
+20005,Veguellina,42.4335,-5.88756,VILLAREJO DE ÓRBIGO,LEÓN,"Paseo Estación Ferrocarril, 34",2,0,3,1
+20006,Barrientos,42.414301,-5.963988,VALDERREY,LEÓN,"C/ Santa Ana, 20",2,0,3,0
+20007,Nistal,42.424462,-6.00803,SAN JUSTO DE LA VEGA,LEÓN,"C/ Antonio Aceña, 21",2,0,3,0
+20008,Villavante,42.46458,-5.838914,SANTA MARINA DEL REY,LEÓN,"C/ El Palacio, 32",2,0,3,0
+20100,Astorga,42.459489,-6.047212,ASTORGA,LEÓN,"Avda. Estación Ferrocarril, S/N",2,0,2,1
+20102,Vega - Magaz,42.55376,-6.068267,MAGAZ DE CEPEDA,LEÓN,"C/ Camino Estación Ferrocarril, S/N",2,0,3,0
+20103,Porqueros,42.598935,-6.108238,MAGAZ DE CEPEDA,LEÓN,"C/ Estación Ferrocarril, 5",2,0,3,0
+20104,Brañuelas,42.632631,-6.201002,VILLAGATÓN,LEÓN,"Travesia Fanal, 5",2,0,3,0
+20106,La Granja de San Vicente,42.614874,-6.282495,TORRE DEL BIERZO,LEÓN,"Avda. San Vicente, S/N",2,0,3,0
+20109,Torre del Bierzo,42.595578,-6.329083,TORRE DEL BIERZO,LEÓN,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+20111,Bembibre,42.609558,-6.422048,BEMBIBRE,LEÓN,"C/ Susana Gonzalez, 56",2,0,2,0
+20113,San Miguel de Las Dueñas,42.586392,-6.523776,CONGOSTO,LEÓN,"C/ Estación Ferrocarril, 34",2,0,3,0
+20200,Ponferrada,42.545429,-6.602376,PONFERRADA,LEÓN,"Avda. del Ferrocarril, 15",1,0,1,1
+20203,Villadepalos,42.53686,-6.751109,CARRACEDELO,LEÓN,"C/ Camino del Apeadero, S/N",2,0,3,0
+20204,Toral de Los Vados,42.541052,-6.776703,TORAL DE LOS VADOS,LEÓN,"Pza. Estación Ferrocarril, S/N",2,0,3,0
+20207,Covas,42.475326,-6.830878,RUBIÁ,OURENSE,"C/ Estación Ferrocarril, S/N",2,0,3,0
+20208,Quereño,42.420704,-6.829486,RUBIÁ,OURENSE,"Rúa da Estación, S/N",2,0,3,0
+20210,Sobradelo,42.414859,-6.911951,CARBALLEDA DE VALDEORRAS,OURENSE,"Ctra. de Entoma - Estación Ferrocarril, S/N",2,0,3,0
+20211,O Barco de Valdeorras,42.418301,-6.98503,BARCO DE VALDEORRAS (O),OURENSE,"Avda. Estación Ferrocarril, S/N",2,0,3,1
+20212,Villamartín de Valdeorras,42.411829,-7.061185,VILAMARTÍN DE VALDEORRAS,OURENSE,"Pza. Miguel Estevez, S/N",2,0,3,0
+20213,A Rua - Petin,42.39276,-7.113284,RÚA (A),OURENSE,"Rúa Circunvalación, S/N",2,0,3,0
+20214,Montefurado,42.39402,-7.1984,QUIROGA,LUGO,"C/ San Miguel Montef, 4",2,0,3,0
+20216,San Clodio - Quiroga,42.465271,-7.287198,RIBAS DE SIL,LUGO,"Rúa Do Ferrocarril, 31",2,0,3,0
+20218,A Pobra Do Brollon,42.533684,-7.400088,POBRA DO BROLLÓN (A),LUGO,"Avda. da Pobra, S/N",2,0,2,0
+20300,Monforte de Lemos,42.529682,-7.503589,MONFORTE DE LEMOS,LUGO,"Praza da Estación, S/N",1,0,1,1
+20305,Sarria,42.784049,-7.418822,SARRIA,LUGO,"Rúa Ramon Cabanillas, 6",2,0,3,1
+20306,Pedrelo - Celtigos,42.832934,-7.393329,SARRIA,LUGO,"C/ Celtigos, 84",2,0,3,0
+20309,Lugo,43.015222,-7.552176,LUGO,LUGO,"Pla. de Conde Fontao, S/N",1,0,1,1
+20310,Rabade,43.121378,-7.624835,RÁBADE,LUGO,"Praza de España, 23",2,0,3,0
+20312,Baamonde,43.173405,-7.756128,BEGONTE,LUGO,"C/ Estación Ferrocarril, 8",2,0,3,0
+20313,Parga,43.163644,-7.837383,GUITIRIZ,LUGO,"Avda. da Estación, 9",2,0,3,0
+20314,Guitiriz,43.179058,-7.895039,GUITIRIZ,LUGO,"C/ Estación Ferrocarril, 71",2,0,3,0
+20316,Teixeiro,43.141411,-8.03769,CURTIS,"CORUÑA, A","C/ Camino Estación Ferrocarril, S/N",2,0,3,0
+20317,Curtis,43.127232,-8.143155,CURTIS,"CORUÑA, A","Praza de Compostela, 9",2,0,3,0
+20318,Piñoi,43.127922,-8.163498,CESURAS,"CORUÑA, A","C/ Estación Ferrocarril, S/N",2,0,3,0
+20319,Cesuras,43.173073,-8.2005,CESURAS,"CORUÑA, A","Rúa Estación Ferrocarril, S/N",2,0,3,0
+20320,Oza Dos Ríos,43.21877,-8.187111,OZA DOS RÍOS,"CORUÑA, A","C/ Lois, 48",2,0,3,0
+20400,Betanzos - Infesta,43.270698,-8.225847,BETANZOS,"CORUÑA, A","Camino Real da Infesta, S/N",2,0,2,0
+20402,Cecebre,43.287913,-8.307767,CAMBRE,"CORUÑA, A","C/ Apeadeiro, S/N",2,0,3,0
+20403,Cambre,43.290502,-8.352104,CAMBRE,"CORUÑA, A","Ctra. da Estación Ferrocarril, 47",2,0,3,0
+20404,O Burgo Santiago,43.317841,-8.36875,CULLEREDO,"CORUÑA, A","C/ Ramon Cabanillas, 8",2,0,3,0
+20410,Elviña - Universidade,43.335222,-8.413061,CORUÑA (A),"CORUÑA, A","C/ Estación Ferrocarril, S/N",2,0,3,0
+21001,Betanzos - Cidade,43.284137,-8.215874,BETANZOS,"CORUÑA, A","Rúa Arxentina, 10",2,0,3,0
+21002,Miño,43.349431,-8.207313,MIÑO,"CORUÑA, A","Pza. Estación Ferrocarril, S/N",2,0,3,0
+21003,Perbes,43.378197,-8.201106,MIÑO,"CORUÑA, A","C/ A Cruz, 20",2,0,3,0
+21004,Pontedeume,43.411797,-8.180416,PONTEDEUME,"CORUÑA, A","Avda. Ferrol, 77",2,0,3,0
+21005,Cabanas - Areal,43.415585,-8.168828,CABANAS,"CORUÑA, A","Avda. Hilario Ruiz, S/N",2,0,3,0
+21007,Barallobre,43.462899,-8.188586,FENE,"CORUÑA, A","Rúa Pablo Ares Feal, 43",2,0,3,0
+21008,Perlio,43.472309,-8.174837,FENE,"CORUÑA, A","Rúa Antonia Montero, 4",2,0,3,0
+21009,Neda,43.495351,-8.160967,NEDA,"CORUÑA, A","Avda. Castelao, 47",2,0,3,0
+21010,Ferrol,43.4880467,-8.2310664,FERROL,"CORUÑA, A","Avda. de Compostela, S/N",1,1,1,1
+22001,Canabal,42.482882,-7.587733,SOBER,LUGO,"Travesia Estación Ferrocarril, 19",2,0,3,0
+22002,Areas,42.457799,-7.62879,SOBER,LUGO,"Ctra. Lu -P - 5902 - Estación Ferrocarril, S/N",2,0,3,0
+22003,San Estevo Do Sil,42.426921,-7.661676,PANTÓN,LUGO,"Ctra. Lu-P-4103 - Estación Ferrocarril, S/N",2,0,3,0
+22004,San Pedro Do Sil,42.441353,-7.70412,PANTÓN,LUGO,"Ctra. Lu-P-4104 - Estación Ferrocarril, S/N",2,0,3,0
+22005,Os Peares,42.451439,-7.735523,PEROXA (A),OURENSE,"Ctra. Lu-P-1004 - Estación Ferrocarril, S/N",2,0,3,0
+22006,Barra de Miño,42.401095,-7.802567,COLES,OURENSE,"Rúa da Estación, 34-37",2,0,3,0
+22100,Ourense,42.350389,-7.872777,OURENSE,OURENSE,"Avda. Marin, S/N",1,0,1,1
+22101,Barbantes,42.338375,-8.011721,CENLLE,OURENSE,"Rúa da Estación, 1",2,0,2,0
+22102,Ribadavia,42.2931,-8.139261,RIBADAVIA,OURENSE,"Rúa Baixada O Consello, S/N",2,0,3,0
+22103,Filgueira,42.219917,-8.184788,CRECENTE,PONTEVEDRA,"Ctra. Po - 401 --- Estación Ferrocarril, S/N",2,0,3,0
+22104,Frieira,42.154882,-8.201036,CRECENTE,PONTEVEDRA,"Ctra. Or - 412 --- Estación Ferrocarril, S/N",2,0,3,0
+22105,Pousa - Crecente,42.136705,-8.234889,CRECENTE,PONTEVEDRA,"C/ Pousa - Estación Ferrocarril, S/N",2,0,3,0
+22106,Arbo,42.107058,-8.300247,ARBO,PONTEVEDRA,"Rúa da Estación, 2",2,0,3,0
+22107,Sela,42.092092,-8.355998,ARBO,PONTEVEDRA,"Ctra. Po-400 Estación Ferrocarril, S/N",2,0,3,0
+22108,As Neves,42.075462,-8.420074,NEVES (AS),PONTEVEDRA,"Ctra. Ep - 4203 --- Estación Ferrocarril, S/N",2,0,3,0
+22109,Salvaterra de Miño,42.08164,-8.495141,SALVATERRA DE MIÑO,PONTEVEDRA,"Rúa Marques de Viana, S/N",2,0,3,0
+22110,Caldelas,42.055813,-8.566343,TUI,PONTEVEDRA,"Ctra. Po - 404 --- Estación Ferrocarril, S/N",2,0,3,0
+22200,Guillarei,42.065663,-8.62253,TUI,PONTEVEDRA,"Pla. Estación Ferrocarril, S/N",2,0,3,0
+22201,O Porriño,42.16419,-8.62202,PORRIÑO (O),PONTEVEDRA,"Rúa Estación Ferrocarril, 9",2,0,1,0
+22300,Redondela,42.286005,-8.619402,REDONDELA,PONTEVEDRA,"Avenida de la Estación, S/N",2,0,2,0
+22308,Vigo Guixar,42.2392656,-8.7146089,VIGO,PONTEVEDRA,"Rúa Areal, S/N",1,0,1,1
+22402,Valenca Do Minho,42.024734,-8.639745,TUI,PONTEVEDRA,Avda. do Espanha,2,0,1,0
+23000,Redondela - Picota,42.286866,-8.607118,REDONDELA,PONTEVEDRA,"Camiño Carrascal, 10",2,0,2,0
+23001,Cesantes,42.310258,-8.616541,REDONDELA,PONTEVEDRA,"C/ Estrada Praia de Cesantes, 80",2,0,3,0
+23002,Arcade,42.340549,-8.611178,SOUTOMAIOR,PONTEVEDRA,"Rúa Rosalia de Castro, S/N",2,0,2,0
+23004,Pontevedra,42.421969,-8.635546,PONTEVEDRA,PONTEVEDRA,"Avda. de la Estación, S/N",1,0,1,1
+23005,Portela,42.517801,-8.654609,BARRO,PONTEVEDRA,"Ctra. Ep-0506 - Estación Ferrocarril, S/N",2,0,3,0
+23008,Vilagarcía de Arousa,42.602189,-8.762523,VILAGARCÍA DE AROUSA,PONTEVEDRA,"Plaza da Estación, S/N Vilagarcía de Arousa (Pontevedra)",1,0,1,1
+23009,Catoira,42.672166,-8.725291,CATOIRA,PONTEVEDRA,"Praza Do Doctor Jose R. Vazquez, 1 --- Rúa da Estación, S/N",2,0,2,0
+23010,Pontecesures,42.722985,-8.65213,PONTECESURES,PONTEVEDRA,"Rúa Estación Ferrocarril, 2",2,0,2,0
+23011,Padrón,42.738967,-8.652614,PADRÓN,"CORUÑA, A","Camiño Luans, 45",2,0,2,0
+23013,Osebe,42.825298,-8.61584,TEO,"CORUÑA, A","Ctra. Dp-0205 - Estación Ferrocarril, S/N",2,0,3,0
+23018,Pontevedra - Universidad,42.4387499,-8.6304812,PONTEVEDRA,PONTEVEDRA,"Avda. Buenos Aires, 74 - Camino da Via - Estación Ferrocarril, S/N",2,0,3,0
+23021,Padrón - Barbanza,42.738967,-8.652614,PADRÓN,"CORUÑA, A","Ctra. Dp-3302 - Estación Ferrocarril, S/N",2,0,3,0
+30000,Monfragüe - Plasencia,39.937464,-6.10091,MALPARTIDA DE PLASENCIA,CÁCERES,"Ctra. Estación Ferrocarril Malpartida, S/N",2,0,2,0
+30002,Plasencia,40.022282,-6.099397,PLASENCIA,CÁCERES,"C/ Alfonso Camargo, S/N",2,0,1,1
+30100,Salamanca,40.972235,-5.64899,SALAMANCA,SALAMANCA,"Paseo de la Estación, 122",1,0,1,1
+30110,Salamanca - La Alamedilla,40.966763,-5.656366,SALAMANCA,SALAMANCA,"Paseo del Ferrocarril, S/N",2,0,1,0
+30200,Zamora,41.515892,-5.739675,ZAMORA,ZAMORA,"Ctra. de la Estación, S/N",1,0,2,1
+31002,Nava del Rey,41.334716,-5.076818,NAVA DEL REY,VALLADOLID,"C/ Juan Antonio Carmona, 5",2,0,3,0
+31006,Toro,41.512201,-5.384953,TORO,ZAMORA,"Barrio Azucarera Duero - Ctra. Estación, 42",2,0,3,0
+31104,Carbajales de Alba,41.681542,-5.971906,CARBAJALES DE ALBA,ZAMORA,"Ctra. Za - P - 2439 --- Estación Ferrocarril, S/N",2,0,3,0
+31106,Ferreruela de Tabara,41.764106,-6.0739,FERRERUELA DE HUERVA,ZAMORA,"C/ Apeadero, S/N",2,0,3,0
+31107,Abejera,41.80942,-6.141851,RIOFRÍO DE ALISTE,ZAMORA,"Ctra. Za - 2450 - C/ Escuela - Estación Ferrocarril, S/N",2,0,3,0
+31108,Sarracín de Aliste,41.848497,-6.20513,RIOFRÍO DE ALISTE,ZAMORA,"Ctra. Za-P-1407 - Estación Ferrocarril, S/N",2,0,3,0
+31109,Cabañas de Aliste,41.854595,-6.24635,SAN VICENTE DE LA CABEZA,ZAMORA,"Travesia Piedras Cabañas, S/N",2,0,3,0
+31112,Linarejos - Pedroso,41.946963,-6.484541,MANZANAL DE ARRIBA,ZAMORA,"Ctra. Za - P - 2640 --- Estación Ferrocarril, S/N",2,0,3,0
+31200,Puebla de Sanabria,42.045763,-6.626848,PUEBLA DE SANABRIA,ZAMORA,"Ctra. Estación Ferrocarril, 24",2,0,1,0
+31303,A Friela - Maside,42.411401,-8.028967,MASIDE,OURENSE,"Ctra. Ou - 0303 - Rúa San Amaro, S/N",2,0,3,0
+31304,O Carballiño,42.43134,-8.068874,CARBALLIÑO (O),OURENSE,"Avda. O Vintecinco de Xullo, S/N",2,0,1,0
+31306,O Irixo,42.519719,-8.105174,IRIXO (O),OURENSE,"Ctra. Ou-223 - Aldea A Lama, 46",2,0,3,0
+31308,Lalín,42.63253,-8.142715,LALÍN,PONTEVEDRA,"Ctra. Po -534 --- C/ Botos, S/N --- Estación Ferrocarril, S/N",2,0,3,0
+31400,Santiago de Compostela,42.870842,-8.544697,SANTIAGO DE COMPOSTELA,"CORUÑA, A","C/ Horreo, 75 A",1,0,1,1
+31411,Uxes,43.297374,-8.444404,ARTEIXO,"CORUÑA, A","Ctra. Dp-0510 - Travesia Estación, S/N",2,0,3,0
+31412,A Coruña,43.3496932,-8.4155629,CORUÑA (A),"CORUÑA, A","Avda. del Ferrocarril, 22 Bis",1,0,1,1
+31415,Ordes,43.037544,-8.448447,ORDES,"CORUÑA, A","C/ Fosado, 28",2,0,3,0
+31416,Cerceda - Meirama,43.2078791,-8.4467723,CERCEDA,"CORUÑA, A","Ctra. C - 2104 - A --- Estación Ferrocarril, S/N",2,0,2,0
+32001,Campillo,41.259509,-5.017791,CAMPILLO (EL),VALLADOLID,"Camino Cementerio, S/N",2,0,3,0
+32002,El Carpio,41.215464,-5.114466,CARPIO,VALLADOLID,"Paseo Isidora Carbonera, S/N --- C/ Huerta, 11",2,0,3,0
+32003,Fresno El Viejo,41.191351,-5.138061,FRESNO EL VIEJO,VALLADOLID,"C/ Candido Sanchez, 26",2,0,3,0
+32004,Cantalapiedra,41.133585,-5.182961,CANTALAPIEDRA,SALAMANCA,"Paseo Estación Ferrocarril --- C/ Cardillares, S/N",2,0,3,0
+32006,El Pedroso de La Armuña,41.079901,-5.406019,PEDROSO DE LA ARMUÑA (EL),SALAMANCA,"Paseo de la Estación, 53",2,0,3,0
+32007,Pitiegua,41.063741,-5.474174,PITIEGUA,SALAMANCA,"C/ Villaverde, S/N",2,0,3,0
+32008,Gomecello,41.041859,-5.541551,GOMECELLO,SALAMANCA,"Ctra. Pedrosillo, 6",2,0,3,0
+32009,Moriscos,41.011633,-5.584713,MORISCOS,SALAMANCA,"Ctra. Dsa-610 - Estación Ferrocarril, S/N",2,0,3,0
+34002,Cardeñosa de Avila,40.73912,-4.75075,CARDEÑOSA,ÁVILA,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+34005,San Pedro del Arroyo,40.803841,-4.871407,SAN PEDRO DEL ARROYO,ÁVILA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+34007,Crespos,40.87011,-4.96803,CRESPOS,ÁVILA,"Ctra. Avp - 115 --- Estación Ferrocarril, S/N",2,0,3,0
+34008,Narros del Castillo,40.866641,-5.052869,NARROS DEL CASTILLO,ÁVILA,"Ctra. Avp-627 - Estación Ferrocarril, S/N",2,0,3,0
+34010,Peñaranda de Bracamonte,40.898138,-5.206361,PEÑARANDA DE BRACAMONTE,SALAMANCA,"Ronda Estación Ferrocarril, 15",2,0,3,1
+34011,Villar de Gallimazo,40.951981,-5.296183,VILLAR DE GALLIMAZO,SALAMANCA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+34012,Babilafuente,40.972426,-5.430593,BABILAFUENTE,SALAMANCA,"Ctra. Dsa - 650 --- Estación Ferrocarril, S/N",2,0,3,0
+34013,San Morales,40.984243,-5.492955,SAN MORALES,SALAMANCA,"Ctra. Dsa-650 - Estación Ferrocarril, S/N",2,0,3,0
+34014,Aldealengua,40.97989,-5.552951,ALDEALENGUA,SALAMANCA,"Ctra. Sa - 804 - Estación Ferrocarril, S/N",2,0,3,0
+35001,Leganés,40.328643,-3.7713161,LEGANÉS,MADRID,"C/ Santa Rosa, 10 --- C/ Virgen del Camino, S/N",2,1,2,0
+35002,Fuenlabrada,40.2833784,-3.7994429,FUENLABRADA,MADRID,"Paseo de Roma, S/N",2,1,3,0
+35005,Illescas,40.12088,-3.842262,ILLESCAS,TOLEDO,"Paseo Estación Ferrocarril, S/N",2,0,1,0
+35012,Humanes,40.2558101,-3.8287055,HUMANES DE MADRID,MADRID,"C/ Ferrocarril, S/N",2,1,3,0
+35105,Torrijos,39.979003,-4.283037,TORRIJOS,TOLEDO,"Avda. Estación Ferrocarril, S/N",2,0,2,0
+35109,Montearagón,39.960996,-4.647093,MONTEARAGÓN,TOLEDO,"Pza. Estación Ferrocarril, S/N",2,0,3,0
+35200,Talavera de La Reina,39.970674,-4.826512,TALAVERA DE LA REINA,TOLEDO,"Paseo Estación Ferrocarril, S/N",2,0,1,1
+35203,Oropesa de Toledo,39.921746,-5.186137,OROPESA,TOLEDO,"Avda. Estación Ferrocarril, S/N",2,0,2,1
+35206,Navalmoral de La Mata,39.894913,-5.545607,NAVALMORAL DE LA MATA,CÁCERES,"Pza. Estación Ferrocarril, 1",2,0,2,1
+35207,Casatejada,39.891909,-5.677732,CASATEJADA,CÁCERES,"Paseo José Antonio Pavon, 29",2,0,3,0
+35301,Mirabel,39.866229,-6.228969,MIRABEL,CÁCERES,"C/ Adolfo de Miguel, 13",2,0,3,0
+35302,Casas de Millan,39.811866,-6.326045,CASAS DE MILLÁN,CÁCERES,"C/ Estación Ferrocarril, S/N",2,0,3,0
+35303,Cañaveral,39.789124,-6.375031,CAÑAVERAL,CÁCERES,"C/ Estación Ferrocarril, S/N",2,0,3,0
+35400,Cáceres,39.461131,-6.385679,CÁCERES,CÁCERES,"Avda. Juan Pablo Ii, 6",1,0,1,1
+35402,Arroyo - Malpartida,39.468078,-6.533634,CÁCERES,CÁCERES,"Avda. de la Estación, 79",2,0,3,0
+35405,San Vicente de Alcántara,39.381561,-7.117075,SAN VICENTE DE ALCÁNTARA,BADAJOZ,"Ctra. Cc-91 - Estación Ferrocarril, S/N",2,0,3,0
+35406,Valencia de Alcántara,39.426928,-7.230688,VALENCIA DE ALCÁNTARA,CÁCERES,"C/ Manuel Puebla Estación, S/N",2,0,1,0
+37200,Ciudad Real,38.9853,-3.913633,CIUDAD REAL,CIUDAD REAL,"Avda. de Europa, 1",1,0,1,1
+37300,Puertollano,38.69128,-4.111655,PUERTOLLANO,CIUDAD REAL,"C/ Muelle, S/N",1,0,2,1.0
+37302,Brazatortas - Veredas,38.668758,-4.316468,BRAZATORTAS,CIUDAD REAL,"C/ Jose Poveda, S/N",2,0,3,0
+37305,Almadenejos - Almadén,38.740578,-4.730387,ALMADENEJOS,CIUDAD REAL,"Ctra. C- 424 - Estación Ferrocarril, S/N",2,0,3,0
+37308,Guadalmez - Los Pedroches,38.69921,-4.929771,GUADALMEZ,CIUDAD REAL,"Ctra. los Pedroches, Km 4",2,0,3,0
+37311,Cabeza de Buey,38.72389,-5.227067,CABEZA DEL BUEY,BADAJOZ,"Barriada Estación, S/N",2,0,1,0
+37400,Alporchón,38.696631,-5.290496,CABEZA DEL BUEY,BADAJOZ,"Ctra. Ex-104 - Estación Ferrocarril, S/N",2,0,3,0
+37402,Castuera,38.735021,-5.541637,CASTUERA,BADAJOZ,"C/ Alemania, 10",2,0,3,0
+37404,Campanario,38.853395,-5.641415,CAMPANARIO,BADAJOZ,"Ctra. Ex - 115 --- Estación Ferrocarril, S/N",2,0,3,0
+37406,Villanueva de La Serena,38.96886,-5.7965,VILLANUEVA DE LA SERENA,BADAJOZ,"C/ Jose Gallardo, 10",2,0,1,1
+37407,Don Benito,38.96695,-5.862923,DON BENITO,BADAJOZ,"Avda. de la Constitucion, 29",2,0,3,0
+37409,Valdetorres,38.913301,-6.069407,VALDETORRES,BADAJOZ,"C/ Luis Chamizo, 6",2,0,3,0
+37410,Guareña,38.896749,-6.128842,GUAREÑA,BADAJOZ,"Ctra. Ba - 043 --- Estación de Ferrocarril, S/N",2,0,3,0
+37500,Mérida,38.921503,-6.343794,MÉRIDA,BADAJOZ,"C/ Cardero, S/N",1,0,1,1
+37603,Montijo,38.913539,-6.598577,MONTIJO,BADAJOZ,"Avda. Estación Ferrocarril, S/N",2,0,3,1
+37604,Guadiana del Caudillo,38.922099,-6.689998,GUADIANA DEL CAUDILLO,BADAJOZ,"Ctra. Ba - 034 --- Estación de Ferrocarril, S/N",2,0,3,0
+37606,Badajoz,38.890696,-6.981753,BADAJOZ,BADAJOZ,"Calle Carmelo Vera Domenech S/N, Badajoz",1,0,1,1
+37608,Montijo - El Molino,38.913973,-6.618281,MONTIJO,BADAJOZ,"C/ Estación Ferrocarril, S/N",2,0,3,0
+37611,Garrovilla - Las Vegas,38.915763,-6.47408,GARROVILLA (LA),BADAJOZ,"Barriada Estación, 2",2,0,3,0
+37700,Puertollano,38.69128,-4.111655,PUERTOLLANO,CIUDAD REAL,"C/ Muelle, S/N",1,0,1,1
+37704,Villanueva de Córdoba - Los Pedroches,38.2554049,-4.570952,VILLANUEVA DE CÓRDOBA,CÓRDOBA,"Ctra. Co-5100 - Villanueva Adamuz Km 9,8 - Estación Ferrocarril, S/N",2,0,2,1
+40002,Calamonte,38.886931,-6.382965,CALAMONTE,BADAJOZ,"Avda. de Espronceda, S/N",2,0,3,0
+40004,Almendralejo,38.684662,-6.399815,ALMENDRALEJO,BADAJOZ,"C/ Lago de Alange, 1a",2,0,3,0
+40005,Villafranca de Los Barros,38.564402,-6.352048,VILLAFRANCA DE LOS BARROS,BADAJOZ,"Avda. Estación Ferrocarril, S/N",2,0,3,0
+40006,Los Santos de Maimona,38.449724,-6.361749,SANTOS DE MAIMONA (LOS),BADAJOZ,"C/ Diseminado la Carrasca, 5",2,0,3,0
+40008,Zafra Feria,38.424403,-6.410084,ZAFRA,BADAJOZ,"Barriada Antono Zodo, S/N",2,0,3,0
+40100,Zafra,38.413635,-6.405083,ZAFRA,BADAJOZ,"Avda. Estación Ferrocarril, S/N",2,0,1,0
+40105,Llerena,38.237,-6.009017,LLERENA,BADAJOZ,"Avda. Estación Ferrocarril, 6",2,0,3,0
+40107,Fuente del Arco,38.16353,-5.900484,FUENTE DEL ARCO,BADAJOZ,"Ctra. Bav - 1618 --- Estación Ferrocarril, S/N",2,0,3,0
+40108,Guadalcanal,38.090197,-5.803388,GUADALCANAL,SEVILLA,"Ctra. Se - 165 --- Estación Ferrocarril, S/N",2,0,3,0
+40113,Cazalla - Constantina,37.9328637,-5.704433,CONSTANTINA,SEVILLA,"Ctra. de Cazalla-Constantina, S/N",2,1,3,0
+40115,Pedroso,37.8373919,-5.7624522,PEDROSO (EL),SEVILLA,"Avda. de Constantina, S/N",2,1,3,0
+40119,Villanueva del Río - Minas,37.6617048,-5.7121543,VILLANUEVA DEL RÍO Y MINAS,SEVILLA,"C/ Santa Barbara, S/N",2,1,3,0
+40122,Tocina,37.6093044,-5.7316939,TOCINA,SEVILLA,"Calle Santa Cruz 48, Tocina (Sevilla)",2,1,3,0
+42005,Fregenal de La Sierra,38.167613,-6.637909,FREGENAL DE LA SIERRA,BADAJOZ,"Ctra. Ex - 201 --- Estación Ferrocarril, S/N",2,0,3,0
+42006,Cumbres Mayores,38.053126,-6.631553,CUMBRES MAYORES,HUELVA,"Ctra. A - 5300 --- Estación Ferrocarril, S/N",2,0,3,0
+42008,Jabugo - Galaroza,37.928243,-6.773908,JABUGO,HUELVA,"C/ Roman Talero, 34",2,0,1,0
+42009,Almonaster - Cortegana,37.901174,-6.797372,ALMONASTER LA REAL,HUELVA,"C/ Aldea Estación Almter, S/N",2,0,3,0
+42012,Valdelamusa,37.787111,-6.873729,CORTEGANA,HUELVA,"Ctra. Hu-6102 - Estación Ferrocarril, S/N",2,0,3,0
+42013,El Tamujoso,37.720339,-6.900554,CERRO DE ANDÉVALO (EL),HUELVA,"Ctra. Hu - 5101 --- Estación Ferrocarril, S/N",2,0,3,0
+42015,Calañas,37.652007,-6.875841,CALAÑAS,HUELVA,"Paseo Ramon Regajo, S/N",2,0,3,0
+42016,Los Milanos,37.586219,-6.919938,CALAÑAS,HUELVA,"Ctra. H - 9020 --- Estación Ferrocarril, S/N",2,0,3,0
+42018,El Cabujón,37.516509,-6.953428,CALAÑAS,HUELVA,"Ctra. Hv - 1427 --- Estación Ferrocarril, S/N",2,0,3,0
+42019,Belmonte,37.461864,-6.947533,GIBRALEÓN,HUELVA,"Ctra. N - 431 --- Estación Ferrocarril, S/N",2,0,3,0
+42020,Gibraleón,37.36852,-6.96207,GIBRALEÓN,HUELVA,"C/ Guadiana, 6",2,0,3,0
+43005,Benacazón,37.3568512,-6.2082011,BENACAZÓN,SEVILLA,"C/ Celda, S/N",2,1,3,0
+43008,Carrión de Los Cespedes,37.368955,-6.335088,CARRIÓN DE LOS CÉSPEDES,SEVILLA,Ctra. Se - 637 - Estación de Ferrocarril S/N,2,0,3,0
+43009,Escacena,37.397812,-6.39198,ESCACENA DEL CAMPO,HUELVA,"Ctra. Hu - 6111 --- Camino del Pozo, S/N",2,0,3,0
+43011,La Palma del Condado,37.390665,-6.554444,PALMA DEL CONDADO (LA),HUELVA,"Avda. de la Constitucion, 9",1,0,3,1
+43012,Villarrasa,37.386999,-6.598819,VILLARRASA,HUELVA,"Ctra. A-472 - Estación Ferrocarril, S/N",2,0,3,0
+43015,Niebla,37.3587619,-6.6812578,NIEBLA,HUELVA,"Avda. Puerta del Buey, S/N",2,0,3,0
+43019,Huelva,37.253079,-6.950971,HUELVA,HUELVA,"Avda. de Cádiz, S/N",1,0,1,1
+43021,San Juan del Puerto,37.311898,-6.841076,SAN JUAN DEL PUERTO,HUELVA,"C/ Rios Esquina Pza. de la Marina, S/N",2,0,3,0
+50002,Cinco Casas,39.169282,-3.232663,ALCÁZAR DE SAN JUAN,CIUDAD REAL,"Pla. Estación Ferrocarril, S/N",2,0,3,0
+50100,Manzanares,39.005837,-3.370507,MANZANARES,CIUDAD REAL,"Paseo Estación Ferrocarril, S/N",2,0,2,1
+50102,Valdepeñas,38.762868,-3.39572,VALDEPEÑAS,CIUDAD REAL,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+50200,Santa Cruz de Mudela,38.644428,-3.451493,SANTA CRUZ DE MUDELA,CIUDAD REAL,"Paseo Castelar, 161",2,0,3,0
+50202,Almuradiel - Viso del Marqués,38.514267,-3.501935,ALMURADIEL,CIUDAD REAL,"C/ San Antonio, S/N",2,0,3,0
+50207,Vilches,38.215742,-3.517576,VILCHES,JAÉN,"C/ Estación Ferrocarril, S/N",2,0,3,0
+50300,Linares - Baeza,38.068864,-3.589396,LINARES,JAÉN,"Pla. de las Palmeras, S/N",1,0,1,1
+50400,Espeluy,38.010247,-3.832726,ESPELÚY,JAÉN,"Pla. Estación Ferrocarril, 3",2,0,3,1
+50403,Andújar,38.028225,-4.066036,ANDÚJAR,JAÉN,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+50407,Villa del Río,37.981331,-4.283788,VILLA DEL RÍO,CÓRDOBA,"C/ Prolongacion Estación Ferrocarril, S/N",2,0,1,0
+50413,Alcolea de Córdoba (apt),37.922326,-4.694751,CÓRDOBA,CÓRDOBA,"Ctra. N - Iv - Madrid - Cádiz - Estación Ferrocarril, S/N",2,0,1,0
+50417,Campus Universitario Rabanales/ Córdoba,37.91256,-4.72086,CÓRDOBA,CÓRDOBA,"C/ Estación Ferrocarril, S/N",1,0,1,1
+50500,Córdoba - Julio Anguita,37.888291,-4.789453,CÓRDOBA,CÓRDOBA,"Glorieta de las Tres Culturas, S/N",1,0,1,1
+50501,El Higuerón (apt),37.870271,-4.838942,CÓRDOBA,CÓRDOBA,"C/ Cantero Juan de Ochoa, 4",2,0,2,0
+50502,Villarrubia de Córdoba,37.847574,-4.915339,CÓRDOBA,CÓRDOBA,"Pza. Azucarera San Rafael, S/N",2,0,1,0
+50504,Posadas,37.803986,-5.106325,POSADAS,CÓRDOBA,"Pza. Estación Ferrocarril, S/N",2,0,2,0
+50506,Palma del Río,37.718081,-5.29276,PALMA DEL RÍO,CÓRDOBA,"C/ Estación Ferrocarril, S/N",2,0,1,0
+50507,Peñaflor,37.707502,-5.341609,PEÑAFLOR,SEVILLA,"C/ Estación de Ferrocarril, S/N",2,0,3,0
+50600,Lora del Río,37.6613212,-5.5295514,LORA DEL RÍO,SEVILLA,"Avda. de Portugal, S/N",2,1,3,0
+50700,Los Rosales,37.5899718,-5.7261208,TOCINA,SEVILLA,"C/ San Pedro, S/N",1,1,3,0
+51003,Sevilla - Santa Justa,37.3924955,-5.9749269,SEVILLA,SEVILLA,"Avda. Kansas City, S/N",1,1,1,1
+51100,Sevilla - San Bernardo,37.3777778,-5.9796142,SEVILLA,SEVILLA,"C/ Ramón Carande S/N, Sevilla",1,1,2,0
+51103,Dos Hermanas,37.2872259,-5.9235322,DOS HERMANAS,SEVILLA,"Pla. del Arenal, S/N",2,1,2,0
+51110,Sevilla - Virgen del Rocío,37.3628091,-5.9760105,SEVILLA,SEVILLA,"C/ Pintor Luis Rosales, S/N",1,1,3,0
+51111,Bellavista,37.3215188,-5.9641924,SEVILLA,SEVILLA,"Avenida de Jerez S/N, Sevilla",2,1,3,0
+51200,Utrera,37.1848178,-5.7907537,UTRERA,SEVILLA,"Avda. Abate Marchena, Nº 11",1,1,2,0
+51202,Las Cabezas de San Juan,37.0194897,-5.94658,CABEZAS DE SAN JUAN (LAS),SEVILLA,"Ctra. Se - 9021 --- Estación Ferrocarril, S/N",2,1,3,0
+51203,Lebrija,36.9116378,-6.0948487,LEBRIJA,SEVILLA,"Avda. Vicente Aleixandre, S/N",1,1,2,1
+51205,Jerez Aeropuerto,36.7515886,-6.0659384,JEREZ DE LA FRONTERA,CÁDIZ,"Ctra. N - Iv - Km. 628,5",2,1,2,0
+51300,Jerez de La Frontera,36.680022,-6.1266032,JEREZ DE LA FRONTERA,CÁDIZ,"Pla. Estación Ferrocarril, S/N",1,1,2,1
+51400,Puerto de Santa María,36.6040723,-6.2179261,PUERTO DE SANTA MARÍA (EL),CÁDIZ,Pza. de la Estación S/N.,1,1,2,1
+51401,Puerto Real,36.5309155,-6.1853143,PUERTO REAL,CÁDIZ,"Carretera de Circunvalacion - Calle Tierra S/N, Puerto Real (Cádiz)",1,1,2,0
+51404,Segunda Aguada,36.5135317,-6.2770128,CÁDIZ,CÁDIZ,"Avda. Juan Carlos I, S/N..",1,1,3,0
+51405,Cádiz,36.528935,-6.2879716,CÁDIZ,CÁDIZ,"Pla. Sevilla, S/N.",1,1,1,1
+51406,San Fernando - Bahía Sur,36.4680834,-6.2067676,SAN FERNANDO,CÁDIZ,C/ Ferrocarril S/N.,1,1,2,1
+51409,Cádiz - Estadio,36.5029461,-6.2720644,CÁDIZ,CÁDIZ,"Avda. de la Sanidad Pública S/N, Cádiz",1,1,3,0
+54400,Bobadilla,37.037073,-4.727942,ANTEQUERA,MÁLAGA,"Pla. de la Estación, S/N",1,0,3,1
+54403,El Chorro,36.907335,-4.759258,ÁLORA,MÁLAGA,"Ctra. Ma - 5403 --- Estación de Ferrocarril, S/N",2,0,1,0
+54404,Las Mellizas,36.873306,-4.719433,ÁLORA,MÁLAGA,"Barriada Estación de las Mellizas, S/N",2,0,3,0
+54405,Álora,36.8198747,-4.6996105,ÁLORA,MÁLAGA,"Camino de la Estación, S/N",2,1,3,0
+54406,Pizarra,36.7641515,-4.7118313,PIZARRA,MÁLAGA,"Pza. de la Estación,  S/N.",2,1,3,0
+54407,Aljaima,36.7330833,-4.6645001,CÁRTAMA,MÁLAGA,"Carretera A-7054 - Estacion Ferrocarril, S/N",2,1,3,0
+54408,Cártama,36.7337392,-4.6083966,CÁRTAMA,MÁLAGA,"Barriada Garcia Agua, S/N",2,1,3,0
+54410,Campanillas,36.7050436,-4.5454825,MÁLAGA,MÁLAGA,"Camino Antiguo de Cártama S/N, Málaga",2,1,3,0
+54412,Los Prados,36.6986108,-4.47815,MÁLAGA,MÁLAGA,"Complejo Ferroviario los Prados, S/N",2,1,3,0
+54413,Málaga Maria Zambrano,36.7113388,-4.4313888,MÁLAGA,MÁLAGA,"C/ Explanada de la Estación, S/N",1,1,1,1
+54501,Victoria Kent,36.7012229,-4.4544145,MÁLAGA,MÁLAGA,"Platero Francisco Vazquez, S/N.",1,1,3,0
+54517,Málaga Centro Alameda,36.7159539,-4.4265335,MÁLAGA,MÁLAGA,"Avda. de la Aurora, S/N",2,1,1,0
+55001,Campillos,37.032231,-4.863499,CAMPILLOS,MÁLAGA,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+55003,Almargen - Cañete La Real,37.000985,-5.020111,ALMARGEN,MÁLAGA,"C/ Cortina Estación, 1b",2,0,3,0
+55005,Setenil,36.863423,-5.121375,SETENIL DE LAS BODEGAS,CÁDIZ,"Ctra. Ca-414 - Estación de Ferrocarril, S/N",2,0,3,0
+55007,Ronda,36.748401,-5.16197,RONDA,MÁLAGA,"Avda. de Andalucia, 31",1,0,1,1
+55008,Arriate,36.7905949,-5.140757,ARRIATE,MÁLAGA,"Ctra. Ma -7400 - Estación Ferrocarril, S/N",2,0,3,0
+55010,Benaoján - Montejaque,36.713753,-5.246366,BENAOJÁN,MÁLAGA,"Ctra. Estación Benaojan, S/N",2,0,3,0
+55011,Jimera de Libar,36.660678,-5.281473,JIMERA DE LÍBAR,MÁLAGA,"Avda. la Barca --- C/ Fuente Grande, S/N",2,0,3,0
+55012,Cortes de La Frontera,36.597364,-5.332784,CORTES DE LA FRONTERA,MÁLAGA,"Avda. Llano de la Estación, S/N",2,0,3,0
+55013,Gaucin,36.540372,-5.386825,CORTES DE LA FRONTERA,MÁLAGA,"Ctra. Ma - 512 --- Estación Ferrocarril, S/N",2,0,3,0
+55014,San Pablo,36.467952,-5.418921,JIMENA DE LA FRONTERA,CÁDIZ,"Ctra. A-405 - Estación Ferracarril, S/N",2,0,3,0
+55015,Jimena de La Frontera,36.4242,-5.434113,JIMENA DE LA FRONTERA,CÁDIZ,"C/ Juan de Dios, 15",2,0,3,0
+55017,Almoraima,36.27751,-5.430529,CASTELLAR DE LA FRONTERA,CÁDIZ,"Ctra. A- 405 - Estación Ferrocarril, S/N",2,0,3,0
+55018,San Roque - La Línea,36.214482,-5.432399,SAN ROQUE,CÁDIZ,"Avda. Guadarranque, 34",2,0,3,0
+55019,Los Barrios,36.173998,-5.460801,BARRIOS (LOS),CÁDIZ,"Ctra. Jerez - Algeciras - Estación Ferrocarril, 1",2,0,3,0
+55020,Algeciras,36.126831,-5.451108,ALGECIRAS,CÁDIZ,"Avda. Gesto Por la Paz, S/N",1,0,1,1
+56004,Jódar - Ubeda,37.913343,-3.34892,JÓDAR,JAÉN,"Ctra. A - 401 --- Estación de Ferrocarril, S/N",2,0,3,0
+56009,Cabra del Santo Cristo Y Alicún,37.6567129,-3.262623,CABRA DEL SANTO CRISTO,JAÉN,"Ctra. Jv - 3212 --- Estación Ferrocarril, S/N",2,0,3,0
+56100,Moreda,37.431216,-3.310516,MORELÁBOR,GRANADA,"Ctra. Gr-4101 - Estación de Ferrocarril, 26",2,0,3,0
+56103,Benalua de Guadix,37.345277,-3.163177,BENALÚA,GRANADA,"Avda. Llano de la Estación, S/N",2,0,3,0
+56200,Guadix,37.316873,-3.127209,GUADIX,GRANADA,"Avda. Estación Ferrocarril, S/N",2,0,2,0
+56301,Fiñana,37.184647,-2.839757,FIÑANA,ALMERÍA,"Ctra. Al - 6401 --- Diseminado Cortijo Faz,s/n",2,0,3,0
+56305,Gergal,37.108847,-2.591556,GÉRGAL,ALMERÍA,"Ctra. Al - 3410 --- Estación Ferrocarril, S/N",2,0,3,0
+56308,Gador,36.951624,-2.487658,GÁDOR,ALMERÍA,"Ctra. Al - 3411 --- C/ Retiro, S/N",2,0,3,0
+56310,Huercal - Viator,36.885155,-2.436718,HUÉRCAL DE ALMERÍA,ALMERÍA,Estación Ffcc - C/ Real S/N - 04230 Huercal de Almeríao (Almería),2,0,2,0
+56312,Almería,36.834951,-2.455519,ALMERÍA,ALMERÍA,"Pla. Estación Ferrocarril, S/N",1,0,1,1
+57003,Iznalloz,37.395852,-3.527947,IZNALLOZ,GRANADA,"C/ Explanada Estación Ferrocarril, S/N",2,0,3,0
+60000,Madrid Pta.Atocha - Almudena Grandes,40.406442,-3.690886,MADRID,MADRID,"Glorieta Emperador Carlos V, S/N",1,1,1,1
+60200,Aranjuez,40.0350257,-3.6182534,ARANJUEZ,MADRID,"Pla. de la Estación, 1",2,1,2,0
+60202,Castillejo - Añover,39.949634,-3.738774,ARANJUEZ,MADRID,"Ctra. M - 416 --- Añover-Yepes --- Estación Ferrocarril, S/N",2,0,3,0
+60203,Villasequilla,39.879535,-3.728453,VILLASEQUILLA,TOLEDO,"Paseo Estación Ferrocarril, S/N",2,0,3,1
+60206,Tembleque,39.722958,-3.497354,TEMBLEQUE,TOLEDO,"C/ Camino de la Celadilla, S/N",2,0,3,0
+60207,El Romeral,39.694516,-3.430502,ROMERAL (EL),TOLEDO,"Pla. Esquina del Cristino, S/N",2,0,3,0
+60300,Villacañas,39.622698,-3.33051,VILLACAÑAS,TOLEDO,"Paseo Estación Ferrocarril, S/N",2,0,2,1
+60301,Quero,39.504173,-3.266072,QUERO,TOLEDO,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+60400,Alcazar de San Juan,39.395628,-3.205744,ALCÁZAR DE SAN JUAN,CIUDAD REAL,"C/ Alvarez Guerra, S/N",1,0,1,1
+60402,Campo de Criptana,39.394343,-3.117746,CAMPO DE CRIPTANA,CIUDAD REAL,"Avda. Agustin de la Fuente, 49",2,0,2,0
+60406,Socuellamos,39.278776,-2.775571,SOCUÉLLAMOS,CIUDAD REAL,"C/ Estación Ferrocarril, S/N",2,0,2,1
+60500,Villarrobledo,39.260868,-2.598621,VILLARROBLEDO,ALBACETE,"C/ Juan Ferreira, S/N",2,0,2,1
+60503,Minaya,39.240738,-2.348403,MINAYA,ALBACETE,"C/ Estación Ferrocarril, S/N",2,0,3,0
+60505,La Roda de Albacete,39.199594,-2.162547,RODA (LA),ALBACETE,"Pla. Estación Ferracarril, S/N",2,0,2,0
+60507,La Gineta,39.111665,-2.000155,GINETA (LA),ALBACETE,"C/ Santa Ana, S/N",2,0,3,0
+60600,Albacete - Los Llanos,38.999384,-1.84845,ALBACETE,ALBACETE,"C/ Federico García Lorca, 1",1,0,1,1
+60800,Almansa,38.867822,-1.105446,ALMANSA,ALBACETE,"Pla. Primero de Mayo, 1",2,0,2,1
+60900,La Encina,38.765344,-0.954244,VILLENA,ALICANTE/ALACANT,"Avda. Constitucion, 1",2,0,3,0
+60901,Caudete,38.716163,-0.959727,CAUDETE,ALBACETE,"Ctra. Cv - 656 --- Estación Ferrocarril, S/N",2,0,3,0
+60902,Villena,38.631738,-0.867689,VILLENA,ALICANTE/ALACANT,"Ronda de la Estación, S/N",1,0,1,1
+60904,Sax,38.544251,-0.813729,SAX,ALICANTE/ALACANT,"Luis Barcelo Santoja, 25",2,0,3,0
+60905,Elda - Petrer,38.484879,-0.80109,ELDA,ALICANTE/ALACANT,"C/ Galicia, S/N",2,0,2,1
+60907,Novelda - Aspe,38.407086,-0.777744,NOVELDA,ALICANTE/ALACANT,"C/ Rafael Altamira, S/N",2,0,3,0
+60911,Alicante/Alacant,38.3447127,-0.4955241,ALICANTE/ALACANT,ALICANTE/ALACANT,"Avda. Salamanca, 1",1,1,1,1
+60913,Sant Vicent Centre,38.3946533,-0.5287247,SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG,ALICANTE/ALACANT,"Vial del Terraplen, S/N",2,1,3,0
+60914,Universidad de Alicante,38.384165,-0.528411,ALICANTE/ALACANT,ALICANTE/ALACANT,Ctra. San Vicente Raspeig S/Nº,2,1,2,0
+61005,Hellín,38.508776,-1.688437,HELLÍN,ALBACETE,"Paseo Yutera del Carmen, S/N",2,0,3,0
+61012,Cieza,38.246609,-1.421702,CIEZA,MURCIA,"C/ Estación Ferrocarril, 34",2,0,3,0
+61015,Archena - Fortuna,38.13132,-1.236037,MOLINA DE SEGURA,MURCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+61200,Murcia,37.9748243,-1.131508,MURCIA,MURCIA,"Pza. de la Industria, S/N",1,1,1,1
+61303,Balsicas - Mar Menor,37.81884,-0.950891,TORRE-PACHECO,MURCIA,"C/ Mar Menor, S/N",2,1,2,1
+61304,Torre - Pacheco,37.746905,-0.967078,TORRE-PACHECO,MURCIA,"Avda. Estación Ferrocarril, S/N",2,1,2,0
+61307,Cartagena,37.604967,-0.975122,CARTAGENA,MURCIA,"Pla. de Mejico, 2",1,0,1,1
+62001,Beniel,38.0448608,-0.9994759,BENIEL,MURCIA,"Camino de la Estación 15, Beniel (Murcia)",2,1,2,0
+62002,Orihuela - Miguel Hernández,38.0779321,-0.944606,ORIHUELA,ALICANTE/ALACANT,"Avda Teodomiro, 68",2,1,2,0
+62003,Callosa de Segura,38.1227686,-0.8745747,CALLOSA DE SEGURA,ALICANTE/ALACANT,"Paseo Estación del Ferrocarril, S/N",2,1,3,0
+62100,Albatera-Catral,38.167023,-0.8380854,SAN ISIDRO,ALICANTE/ALACANT,"Camino de la Estación, 16",2,1,2,0
+62101,Crevillent,38.224564,-0.7815283,CREVILLENT,ALICANTE/ALACANT,"Barrio Estación, S/N",2,1,2,0
+62102,Elche/Elx Carrús,38.2689783,-0.7063992,ELCHE/ELX,ALICANTE/ALACANT,"Avda. de la Libertad, S/N",2,1,3,0
+62103,Elche Parque/Elx Parc,38.2717809,-0.6952193,ELCHE/ELX,ALICANTE/ALACANT,"Avda. del Ferrocarril Este, 10",2,1,3,0
+62104,Torrellano,38.289635,-0.5824572,ELCHE/ELX,ALICANTE/ALACANT,"C/ Casa Campo Torrellano Alto P3,82",2,1,2,0
+62109,Sant Gabriel,38.3290647,-0.5086866,ALICANTE/ALACANT,ALICANTE/ALACANT,Avda. de Elche S/N,2,1,3,0
+64007,L'ènova Manuel,39.0500727,-0.4776036,MANUEL,VALENCIA/VALÈNCIA,"C/ Buenavista, S/N",2,1,2,0
+64100,Xàtiva,38.992148,-0.5245402,XÀTIVA,VALENCIA/VALÈNCIA,Estación FF.CC. S/N,1,1,2,1
+64102,La Pobla Llarga,39.0833385,-0.4696592,POBLA LLARGA (LA),VALENCIA/VALÈNCIA,"Barrio de la Estación, S/N",2,1,2,0
+64103,Carcaixent,39.1205251,-0.4544102,CARCAIXENT,VALENCIA/VALÈNCIA,"Glorieta de la Estación, S/N",2,1,2,0
+64104,Alzira,39.1531495,-0.4506011,ALZIRA,VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,1,2,0
+64105,Algemesí,39.1931484,-0.4409196,ALGEMESÍ,VALENCIA/VALÈNCIA,"C / Estación Ferrocarril, S/N",2,1,2,0
+64107,Benifaió - Almussafes,39.2843027,-0.4299537,BENIFAIÓ,VALENCIA/VALÈNCIA,"Pla. de la Estación, S/N",2,1,2,0
+64200,Silla,39.3619548,-0.4149813,SILLA,VALENCIA/VALÈNCIA,Estación FF.CC. S/N,2,1,2,0
+64201,Catarroja,39.4000447,-0.3992195,CATARROJA,VALENCIA/VALÈNCIA,Ronda del Este S/N,2,1,2,0
+64202,Massanassa,39.4091934,-0.3953073,MASSANASSA,VALENCIA/VALÈNCIA,Garcia Lorca S/N,2,1,2,0
+64203,Alfafar - Benetússer,39.4224232,-0.392605,ALFAFAR,VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,1,2,0
+65000,Valencia Estació del Nord,39.4669305,-0.3772239,VALENCIA,VALENCIA/VALÈNCIA,"C/ Xativa, 24",1,1,1,1
+65001,Roca - Cúper,39.5262094,-0.3238405,MELIANA,VALENCIA/VALÈNCIA,C/ San Isidro S/N,2,1,3,0
+65002,Valencia F.S.L - Hospital La Fe,39.4416052,-0.371422,VALENCIA,VALENCIA/VALÈNCIA,"Camino del Molino de las Fuentes S/N, Valencia",2,1,2,0
+65003,Valencia - Cabanyal (Apd),39.4702456,-0.3346772,VALENCIA,VALENCIA/VALÈNCIA,"Avda. Blasco Ibañez, S/N",2,1,2,0
+65005,Albuixech,39.5435233,-0.3205526,ALBUIXECH,VALENCIA/VALÈNCIA,"Avda Virgen de Albuixech, 23",2,1,3,0
+65006,Massalfassar - Albuixech,39.5557532,-0.3183058,MASSALFASSAR,VALENCIA/VALÈNCIA,Estación FF.CC. S/N,2,1,3,0
+65007,El Puig,39.588302,-0.3116645,PUIG DE SANTA MARIA (EL),VALENCIA/VALÈNCIA,"Camino de la Estación, S/N",2,1,3,0
+65008,Puçol,39.6205367,-0.3031085,PUÇOL,VALENCIA/VALÈNCIA,"Carrer Felipe Sebastian S/N, Puçol (Valencia)",2,1,2,0
+65200,Sagunt/Sagunto,39.6758025,-0.271542,SAGUNTO/SAGUNT,VALENCIA/VALÈNCIA,Estación FF.CC. S/N,1,1,2,1
+65201,Les Valls,39.7193457,-0.2397602,SAGUNTO/SAGUNT,VALENCIA/VALÈNCIA,"Cami Vell D' Almenara, S/N",2,1,3,0
+65202,Almenara,39.7487737,-0.2183811,ALMENARA,CASTELLÓN/CASTELLÓ,"C/ Estación de Ferrocarril, S/N",2,1,3,0
+65203,La Llosa,39.7678109,-0.2029444,LLOSA (LA),CASTELLÓN/CASTELLÓ,"C/ de la Acequia, S/N",2,1,3,0
+65204,Chilches,39.7826726,-0.1903295,CHILCHES/XILXES,CASTELLÓN/CASTELLÓ,"Pza. Jardin, S/N",2,1,3,0
+65205,Moncofa,39.8208891,-0.1626965,NULES,CASTELLÓN/CASTELLÓ,"C/ Estación de Ferrocarril, S/N",2,1,3,0
+65206,Nules - La Vilavella,39.8532354,-0.1527317,NULES,CASTELLÓN/CASTELLÓ,Ramon Lluch S/N,2,1,2,0
+65207,Burriana - Alquerías Niño Perdido,39.8965088,-0.1038601,BORRIANA/BURRIANA,CASTELLÓN/CASTELLÓ,"C/ Estación Ferrocarril, S/N",2,1,3,0
+65208,Vila - Real,39.9330935,-0.0967681,VILA-REAL,CASTELLÓN/CASTELLÓ,Avda de Francia 14  16,2,1,2,0
+65209,Almassora/Almazora,39.9549079,-0.0767713,ALMAZORA/ALMASSORA,CASTELLÓN/CASTELLÓ,"Ctra. de la Estación, S/N",2,1,3,0
+65300,Castelló,39.9884736,-0.0523456,CASTELLÓN DE LA PLANA/CASTELLÓ DE LA PLANA,CASTELLÓN/CASTELLÓ,"C/pintor Oliet, S/N",1,1,1,1
+65304,Orpesa/Oropesa del Mar,40.092258,0.139861,OROPESA DEL MAR/ORPESA,CASTELLÓN/CASTELLÓ,"Pl. L'Estacio Ferrocarril, S/N",2,1,2,0
+65306,Torreblanca,40.212211,0.198779,TORREBLANCA,CASTELLÓN/CASTELLÓ,"C/ de L'Estacio, 47",2,1,2,0
+65308,Alcalà de Xivert,40.30469,0.228717,ALCALÀ DE XIVERT,CASTELLÓN/CASTELLÓ,"Passeig Herois del Marroc, S/N",2,1,2,0
+65311,Benicarló - Peñíscola,40.427639,0.415217,BENICARLÓ,CASTELLÓN/CASTELLÓ,"Pla. Estación Ferrocarril, S/N",1,1,2,1
+65312,Vinaròs,40.471682,0.455727,VINARÒS,CASTELLÓN/CASTELLÓ,"Pza. Estación Ferrocarril, S/N",1,1,1,1
+65314,Ulldecona - Alcanar - La Sénia,40.5959267,0.44927448,ULLDECONA,TARRAGONA,"Passeig de L'Estació, S/N",2,1,3,0
+65318,Benicàssim,40.0579451,0.0577646,BENICASIM/BENICÀSSIM,CASTELLÓN/CASTELLÓ,"Pza. de la Estación S/N, Benicàssim (Castelló)",2,1,2,1
+65400,Tortosa,40.807333,0.5230136,TORTOSA,TARRAGONA,"C/ Poeta Vicente I Garcia, 6 - 12",1,1,1,1
+65401,Camp - Redó,40.7591556,0.55584433,TORTOSA,TARRAGONA,"C/ Estació Ferrocarril, S/N",2,1,3,0
+65402,L'aldea - Amposta,40.753564,0.61430923,ALDEA (L'),TARRAGONA,"C/ Arrabal de Ramon, S/N",1,1,2,1
+65403,Camarles - Deltebre,40.7747633,0.67176095,CAMARLES,TARRAGONA,"C/ Estación Ferrocarril, S/N",2,1,3,0
+65404,L'ampolla - Perelló - Deltebre,40.8119898,0.70826336,AMPOLLA (L'),TARRAGONA,"Pl. Francesc Macià, S/N",2,1,2,0
+65405,L'ametlla de Mar,40.8862,0.80045321,AMETLLA DE MAR (L'),TARRAGONA,"C/ Goya, S/N",2,1,2,0
+65411,Salou - Port Aventura,41.0884798,1.14605195,SALOU,TARRAGONA,"Avenida del 30 Doctubre, S/N",2,1,1,1
+65420,L'Hospitalet de L'Infant,40.99939,0.91253887,VANDELLÒS I L'HOSPITALET DE L'INFANT,TARRAGONA,"Pl. de L'Estació, S/N",2,1,2,0
+65422,Cambrils,41.0815642,1.04603752,CAMBRILS,TARRAGONA,"Av. de Charles Robert Darwin, S/N",2,1,2,0
+67004,Maria de Huerva,41.539759,-0.998082,MARÍA DE HUERVA,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+67007,Arañales de Muel,41.468946,-1.086394,MUEL,ZARAGOZA,"C/ Escalera Arañales, 8",2,0,2,0
+67009,Longares,41.404787,-1.158791,LONGARES,ZARAGOZA,"C/ Camino Estación Ferrocarril, S/N",2,0,3,0
+67010,Cariñena,41.335586,-1.228422,CARIÑENA,ZARAGOZA,"Camino Estación Ferrocarril, 1",2,0,2,0
+67011,Encinacorba,41.28865,-1.278534,ENCINACORBA,ZARAGOZA,"C/ Estación Ferrocarril, 9",2,0,1,0
+67013,Villarreal de Huerva,41.196498,-1.287096,VILLARREAL DE HUERVA,ZARAGOZA,"C/ Camino de la Estación, S/N",2,0,1,0
+67014,Villadoz,41.165482,-1.279339,VILLADOZ,ZARAGOZA,"Ctra. A-2509 - Estación Ferrocarril, S/N",2,0,3,0
+67015,Badules,41.13951,-1.251572,BADULES,ZARAGOZA,"Ctra. A - 1506 --- C/ Mayor, S/N",2,0,3,0
+67016,Villahermosa,41.108492,-1.239803,VILLAHERMOSA DEL CAMPO,TERUEL,"Ctra. Te-17 - Estación Ferrocarril, S/N",2,0,3,0
+67017,Ferreruela,41.06387,-1.239384,FERRERUELA DE HUERVA,TERUEL,"Ctra. A - 2510 --- Estación de Ferrocarril, S/N",2,0,1,0
+67018,Cuencabuena,41.009293,-1.254641,CALAMOCHA,TERUEL,"Ctra. Te - 19 --- Estación Ferrocarril, S/N",2,0,3,0
+67019,Lechago,40.957681,-1.269087,CALAMOCHA,TERUEL,"Autovia Mudejar A- 23 --- Estación Ferrocarril, S/N",2,0,3,0
+67020,Navarrete,40.936721,-1.261733,CALAMOCHA,TERUEL,"Ctra. A-2512 - Estación Ferrocarril, S/N",2,0,1,0
+67021,Calamocha Nueva,40.903864,-1.299841,CALAMOCHA,TERUEL,"Ctra. N - 234 --- Estación Ferrocarril, S/N",2,0,2,0
+67100,Caminreal - Fuentes Claras,40.85111,-1.33765,CAMINREAL,TERUEL,"Ctra. Cv - 4301 --- Estación Ferrocarril, S/N",2,0,3,0
+67101,Torrijo del Campo,40.826012,-1.340498,TORRIJO DEL CAMPO,TERUEL,"C/ Alemania, S/N",2,0,3,0
+67103,Villafranca del Campo,40.683827,-1.357927,VILLAFRANCA DEL CAMPO,TERUEL,"Ctra. Te-V-9024 - Estación Ferrocarril, S/N",2,0,3,0
+67105,Santa Eulalia del Campo,40.572917,-1.312995,SANTA EULALIA,TERUEL,"Barrio Estación Ferrocarril, 8",2,0,2,0
+67107,Cella,40.455266,-1.244329,CELLA,TERUEL,"C/ Estación Ferrocarril, S/N",2,0,2,0
+67113,Monreal del Campo,40.782321,-1.360792,MONREAL DEL CAMPO,TERUEL,"C/ Teruel, S/N",2,0,2,0
+67200,Teruel,40.341029,-1.110284,TERUEL,TERUEL,"C/ Camino de la Estación, S/N",1,0,1,1
+67203,Puebla de Valverde,40.213424,-0.944674,PUEBLA DE VALVERDE (LA),TERUEL,"Ctra. Te-620 - Camino Estación Ferrocarril, S/N",2,0,3,0
+67205,Sarrión,40.146339,-0.823631,SARRIÓN,TERUEL,"C/ Camino de la Estación, S/N",2,0,3,0
+67206,Mora de Rubielos,40.123142,-0.786145,ALBENTOSA,TERUEL,"C/ Estación Ferrocarril Mora, 1",2,0,3,0
+67207,Rubielos de Mora,40.118006,-0.773463,RUBIELOS DE MORA,TERUEL,"Ctra. Te-V-6005 - Estación Ferrocarril, S/N",2,0,3,0
+67208,Barracas,40.01174,-0.696151,BARRACAS,CASTELLÓN/CASTELLÓ,"Avda. Estación Ferrocarril, 9",2,0,3,0
+67215,Segorbe,39.8471755,-0.4823544,SEGORBE,CASTELLÓN/CASTELLÓ,Explanada de la Estación 2,2,1,3,0
+69001,Genovés,38.98773,-0.47988,GENOVÉS,VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+69002,Benigánim,38.938499,-0.453424,BENIGÀNIM,VALENCIA/VALÈNCIA,"Avda. Balneari de Bellus, S/N",2,0,2,0
+69003,La Pobla del Duc,38.907606,-0.453386,POBLA DEL DUC (LA),VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+69004,Montaverner,38.884135,-0.491619,MONTAVERNER,VALENCIA/VALÈNCIA,"Avda. Estación Ferrocarril, 20",2,0,3,0
+69005,Bufali,38.867405,-0.510478,BUFALI,VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+69006,Albaida,38.845645,-0.518129,ALBAIDA,VALENCIA/VALÈNCIA,"Acceso A Través de la Rotonda Cv-60, Av. Fora-Fora y Av. de la Fira, S/N",2,0,2,0
+69007,Agullent,38.830569,-0.551183,AGULLENT,VALENCIA/VALÈNCIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+69008,Ontinyent,38.809692,-0.602457,ONTIÑENT,VALENCIA/VALÈNCIA,"Ctra. Cv-6620 - Poligono Urbano, 2",2,0,2,0
+69009,Agres,38.796829,-0.521744,AGRES,ALICANTE/ALACANT,"C/ Estación Ferrocarril, S/N",2,0,3,0
+69010,Cocentaina,38.740618,-0.446789,COCENTAINA,ALICANTE/ALACANT,"C/ Pujada A Santa Barbara, 29",2,0,3,0
+69011,Alcoy/Alcoi,38.709349,-0.470247,ALCOY/ALCOI,ALICANTE/ALACANT,"Avda. Tirant Lo Blanc, 8",2,0,1,0
+70002,Asamblea de Mad. Entrevías,40.3818618,-3.6680454,MADRID,MADRID,"C/ Puerto de Balbaran, 46 --- Avda. de Entrevias, 105",2,1,3,0
+70003,El Pozo,40.3760377,-3.6561407,MADRID,MADRID,"Avda. de Entrevias, S/N --- C/ Puerto de Balbaran, S/N",2,1,3,0
+70005,Vallecas,40.382364,-3.623042,MADRID,MADRID,C/ Sierra de Guadalupe S/N,2,1,3,0
+70100,Vicálvaro,40.4012524,-3.595897,MADRID,MADRID,C/ San Cipriano S/N /c/ Lago Michigan S/N,2,1,3,0
+70101,San Fernando Henares,40.4427805,-3.5339866,COSLADA,MADRID,"Avda. San Pablo, 2",2,1,3,0
+70102,Torrejón de Ardoz,40.4547895,-3.47973,TORREJÓN DE ARDOZ,MADRID,Paseo de la Estación S/N,2,1,3,0
+70103,Alcala de Henares,40.4890814,-3.3662457,ALCALÁ DE HENARES,MADRID,"Pla. de la Estación, S/N",2,1,2,0
+70104,Meco (apd-Cgd),40.5346731,-3.2986806,MECO,MADRID,"Carretera Estacion Ferrocarril S/N, Meco (Madrid)",2,1,3,0
+70105,Azuqueca,40.561077,-3.265397,AZUQUECA DE HENARES,GUADALAJARA,"Paseo de la Estación, S/N",2,1,3,0
+70107,Alcalá Henares - Universidad (apd),40.5054303,-3.3353258,ALCALÁ DE HENARES,MADRID,"Ctra. del Campus, S/N",2,1,3,0
+70108,Coslada (apd),40.423237,-3.5611109,COSLADA,MADRID,"Calle del Doctor Fleming S/N, Coslada (Madrid)",2,1,3,0
+70109,Santa Eugenia,40.3869545,-3.6089855,MADRID,MADRID,Avda. de Santa Eugenia S/N,2,1,3,0
+70111,La Garena,40.4805448,-3.3930055,ALCALÁ DE HENARES,MADRID,"C/ Fausto Elhuyar, S/N --- C/arturo Soria, S/N",2,1,3,0
+70112,Soto del Henares,40.463964,-3.4414076,YUNQUERA DE HENARES,MADRID,"C/ Jorge Oteiza, S/N",2,1,3,0
+70200,Guadalajara,40.6441928,-3.1822602,GUADALAJARA,GUADALAJARA,"C/ Francisco Aritio, S/N",2,1,2,0
+70202,Yunquera de Henares,40.747013,-3.163226,YUNQUERA DE HENARES,GUADALAJARA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+70204,Humanes de Mohernando,40.831273,-3.13886,HUMANES,GUADALAJARA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+70207,Espinosa de Henares,40.909686,-3.073157,COPERNAL,GUADALAJARA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+70208,Carrascosa de Henares,40.90598,-3.014352,ESPINOSA DE HENARES,GUADALAJARA,"Paseo El Apeadero, S/N",2,0,3,0
+70209,Jadraque,40.930229,-2.935935,JADRAQUE,GUADALAJARA,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+70210,Matillas,40.953808,-2.84326,MATILLAS,GUADALAJARA,"Ctra. de Cendejas, Estación del Ferrocarril, Matillas (Guadalajara)",2,0,3,0
+70300,Baides,41.004864,-2.785635,BAIDES,GUADALAJARA,"C/ Estación Ferrocarril, S/N",2,0,1,0
+70302,Sigüenza,41.071417,-2.646407,SIGÜENZA,GUADALAJARA,"C/ Alfonso Vi, S/N",2,0,1,0
+70400,Torralba,41.136617,-2.492952,MEDINACELI,SORIA,"Barrio Estación Ferrocarril, S/N",2,0,3,0
+70401,Medinaceli,41.165207,-2.421241,MEDINACELI,SORIA,"Pza. Estación Ferrocarril, S/N",2,0,3,0
+70403,Arcos de Jalón,41.215854,-2.278998,ARCOS DE JALÓN,SORIA,"Pla. Estación Ferrocarril, S/N",2,0,1,0
+70404,Santa María de Huerta,41.264421,-2.177525,SANTA MARÍA DE HUERTA,SORIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+70405,Monreal de Ariza,41.298767,-2.110448,MONREAL DE ARIZA,ZARAGOZA,"Ctra. Cv-937 - Estación Ferrocarril, S/N",2,0,3,0
+70500,Ariza,41.3098,-2.059411,ARIZA,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,1,0
+70501,Cetina,41.295978,-1.961811,CETINA,ZARAGOZA,"C/ Pallares, S/N",2,0,3,0
+70502,Alhama de Aragón,41.294398,-1.904454,ALHAMA DE ARAGÓN,ZARAGOZA,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+70503,Bubierca,41.31719,-1.855198,BUBIERCA,ZARAGOZA,"Ctra. N - Ii --- Estación Ferrocarril, S/N",2,0,3,0
+70504,Ateca,41.324659,-1.785268,ATECA,ZARAGOZA,"Av. San Blas, S/N",2,0,3,0
+70505,Terrer,41.322218,-1.709254,TERRER,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+70600,Calatayud,41.346692,-1.63868,CALATAYUD,ZARAGOZA,"Pl. Estación Ferrocarril, S/N",1,0,1,1
+70602,Embid de Jalón,41.421676,-1.592127,CALATAYUD,ZARAGOZA,"Ctra. Cv - 901 --- Estación Ferrocarril, S/N",2,0,3,0
+70603,Paracuellos-Sabiñán,41.42931,-1.567483,PARACUELLOS DE LA RIBERA,ZARAGOZA,"Ctra. Cv-901 - Estación Ferrocarril, S/N",2,0,3,0
+70604,Sabiñán,41.443981,-1.571474,SABIÑÁN,ZARAGOZA,"Ctra. Cv-901 - Estación Ferrocarril, S/N",2,0,3,0
+70605,Mores,41.478667,-1.566238,MORÉS,ZARAGOZA,"Paseo Estación Ferrocarril, S/N",2,0,3,0
+70606,Purroy,41.477236,-1.540446,MORÉS,ZARAGOZA,"Ctra. Zp-1129 - Estación Ferrocarril, S/N",2,0,3,0
+70607,Morata de Jalón,41.475467,-1.479721,MORATA DE JALÓN,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+70700,Ricla - La Almunia,41.501394,-1.40345,RICLA,ZARAGOZA,"Avda. Goya, S/N",2,0,1,0
+70701,Calatorao,41.528692,-1.360545,CALATORAO,ZARAGOZA,"Av. Doctor Carnicero, S/N ",2,0,3,0
+70702,Salillas de Jalón,41.56794,-1.325848,SALILLAS DE JALÓN,ZARAGOZA,"Av. Estación Ferrocarril, S/N",2,0,3,0
+70703,Epila,41.60933,-1.301043,ÉPILA,ZARAGOZA,"C/ Camino Estación Ferrocarril, S/N",2,0,3,0
+70704,Rueda de Jalón - Lumpiaque,41.638892,-1.281667,RUEDA DE JALÓN,ZARAGOZA,"Ctra. A-2304 - Estación Ferrocarril, S/N",2,0,3,0
+70705,Plasencia de Jalón,41.68935,-1.234237,PLASENCIA DE JALÓN,ZARAGOZA,"Avda. Estación Ferrocarril - Barrio de la Venta, 6",2,0,3,0
+70706,Grisen,41.745261,-1.165924,GRISÉN,ZARAGOZA,"Av. Estación Ferrocarril, S/N",2,0,3,0
+70800,Casetas,41.7226479,-1.0201916,ZARAGOZA,ZARAGOZA,"Av. Constitucion, S/N",1,1,2,0
+70801,Utebo,41.7108644,-0.9985828,UTEBO,ZARAGOZA,C/. Estación Ferrocarril S/N,1,1,2,0
+70806,Zaragoza - Portillo,41.6527361,-0.8958759,ZARAGOZA,ZARAGOZA,C/. Manuel Escoriaza y Fabro S/N,1,1,2,0
+70807,Zaragoza - Goya,41.6438779,-0.8912574,ZARAGOZA,ZARAGOZA,Av. de Goya 51,2,1,2,0
+71100,Zaragoza - Miraflores,41.6334311,-0.8681653,ZARAGOZA,ZARAGOZA,Camino del Junco 160,1,1,1,0
+71103,Fuentes de Ebro,41.515065,-0.618625,FUENTES DE EBRO,ZARAGOZA,"Av. Lorenzo Pardo, S/N",2,0,3,0
+71105,Quinto,41.419528,-0.490673,QUINTO,ZARAGOZA,"C/ Camino de la Estación, S/N",2,0,3,0
+71108,La Zaida - Sástago,41.320542,-0.427115,ZAIDA (LA),ZARAGOZA,"Av. Zaragoza, S/N",2,0,3,0
+71200,La Puebla de Híjar,41.2244,-0.438595,PUEBLA DE HÍJAR (LA),TERUEL,"Pla. del Reino de Aragon, 1",2,0,3,0
+71201,Samper,41.182183,-0.368761,SAMPER DE CALANDA,TERUEL,"Ctra. Estación Ferrocarril, S/N",2,0,3,0
+71204,Caspe,41.239738,-0.042701,CASPE,ZARAGOZA,"Pl. Obispo Cubeles, 15",2,0,3,0
+71205,Val de Pilas,41.230056,0.070145,CASPE,ZARAGOZA,"Camino de la Fresa - Estación Ferrocarril, S/N",2,0,3,0
+71206,Fabara,41.234405,0.143284,FABARA,ZARAGOZA,"Ctra. A - 144 --- Estación de Ferrocarril, S/N",2,0,3,0
+71207,Nonaspe,41.213788,0.242472,NONASPE,ZARAGOZA,"Ctra. A-2411 - Estación Ferrocarril, S/N",2,0,3,0
+71208,Faió - La Pobla de Massaluca (Fayón),41.2250555,0.35110259,POBLA DE MASSALUCA (LA),TARRAGONA,"Ctra. Tv - 7231 --- Estació de Ferrocarril, S/N",2,0,3,0
+71209,Riba - Roja D'Ebre,41.2485594,0.48103178,RIBA-ROJA D'EBRE,TARRAGONA,"Ctra. Tv-7411 - Estació Ferrocarril, S/N",2,1,1,0
+71210,Flix,41.2293651,0.54010012,FLIX,TARRAGONA,"Pl. Sant Jaume, S/N",2,1,1,0
+71211,Ascó,41.1823727,0.56902524,ASCÓ,TARRAGONA,"Pla. de la Estacio, S/N",2,1,3,0
+71300,Móra La Nova,41.1065823,0.65321819,MÓRA LA NOVA,TARRAGONA,"Camí L'Estació Ferrocarril, S/N",2,1,1,0
+71302,Capçanes,41.1020902,0.78036099,CAPÇANES,TARRAGONA,"Ctra. Tv-3002 --- C/ de Llaberia - Estación Ferrocarril, S/N",2,1,3,0
+71303,Marçà - Falset,41.1309421,0.81041774,MARÇÀ,TARRAGONA,"Ctra. T - 300 --- Estació Ferrocarril, S/N",2,1,3,0
+71304,Pradell,41.1333595,0.85865032,PRADELL DE LA TEIXETA,TARRAGONA,"Ctra. Tv-3223 - Estació Ferrocarril, S/N",2,1,3,0
+71305,Duesaigües - L'Argentera,41.1436928,0.92087096,ARGENTERA (L'),TARRAGONA,"Ctra. T - 343 --- Estación Ferrocarril, S/N",2,1,3,0
+71306,Riudecanyes - Botarell,41.1400577,0.97574775,RIUDECANYES,TARRAGONA,"Ctra. T-3131 - Estació Ferrocarril, S/N",2,1,3,0
+71307,Les Borges del Camp,41.1665064,1.0221323,BORGES DEL CAMP (LES),TARRAGONA,"C/ Estació Ferrocarril, S/N",2,1,3,0
+71400,Reus,41.1605229,1.10008978,REUS,TARRAGONA,"Pl. de L'Estació Ferrocarril, S/N",1,1,1,1
+71401,Vila - Seca,41.1128193,1.15037877,VILA-SECA,TARRAGONA,"C/ de Galcerán de Pinós, S/N",2,1,1,0
+71500,Tarragona,41.1115636,1.25322776,TARRAGONA,TARRAGONA,"Passeig de España, S/N",1,1,1,1
+71502,Altafulla - Tamarit,41.1366479,1.37341488,TARRAGONA,TARRAGONA,"Ctra. Tv - 2023 - C/ de la Fassina - Estación Ferrocarril, S/N",2,1,1,0
+71503,Torredembarra,41.1427923,1.40578377,TORREDEMBARRA,TARRAGONA,"Passeig de Miramar, 118",1,1,1,1
+71600,Sant Vicenç de Calders,41.1862102,1.52480358,VENDRELL (EL),TARRAGONA,C/ de L'Estació,2,1,1,0
+71700,Vilanova I La Geltrú,41.2203207,1.73077249,VILANOVA I LA GELTRÚ,BARCELONA,"Pl. Eduard Maristany, S/N",2,1,2,0
+71801,Barcelona - Sants,41.3798632,2.14101688,BARCELONA,BARCELONA,"Pl. Dels Països Catalans, 1 - 7",1,1,1,1
+71802,Barcelona - Passeig de Gracia,41.3920862,2.16533862,BARCELONA,BARCELONA,"Passeig de Gracia --- Esquina C/ D' Arago, S/N",2,1,1,0
+72101,Roda de Mar,41.1864204,1.45520767,RODA DE BARÀ,TARRAGONA,"C/ Les Flores, S/N",2,1,3,0
+73001,Puigverd de Lleida - Artesa de Lleida,41.5537015,0.73342706,PUIGVERD DE LLEIDA,LLEIDA,"Ctra. Lv-7022 - Estació Ferrocarril, 6",2,1,3,0
+73002,Juneda,41.5439328,0.82554185,JUNEDA,LLEIDA,"C/ de Prat de la Riba, S/N",2,1,3,0
+73003,Les Borges Blanques,41.5213973,0.87791022,BORGES BLANQUES (LES),LLEIDA,"Camí del Carro, S/N",2,1,3,0
+73004,La Floresta,41.5042013,0.924432,FLORESTA (LA),LLEIDA,"Ctra. Lv - 2012 --- Estació Ferrocarril, S/N",2,1,3,0
+73005,Vinaixa,41.425141,0.9703737,VINAIXA,LLEIDA,"Ctra. Albí, 34",2,1,3,0
+73006,Vimbodí,41.4027277,1.04603327,VIMBODÍ I POBLET,TARRAGONA,C/ de Castellfollit,2,1,3,0
+73007,L'espluga de Francolí,41.4006616,1.10336094,ESPLUGA DE FRANCOLÍ (L'),TARRAGONA,"Camí de L'Estació Ferrorarril, S/N",2,1,3,0
+73008,Montblanc,41.3766254,1.16554869,MONTBLANC,TARRAGONA,"Av. de L'Estació, 1",2,1,3,0
+73009,Vilaverd,41.3376633,1.17653235,VILAVERD,TARRAGONA,"C/ Major, S/N",2,1,3,0
+73010,La Riba,41.3184926,1.1813126,RIBA (LA),TARRAGONA,"Ctra. Tv - 7044 --- Estación Ferrocarril, S/N",2,1,3,0
+73100,La Plana - Picamoixons,41.3061987,1.19488293,VALLS,TARRAGONA,"Ctra. T - 743 --- Km. 553 --- Estació Ferrocarril, S/N",2,1,1,0
+73101,Alcover,41.2616066,1.17416002,ALCOVER,TARRAGONA,"Passeig de la Estacio, S/N",2,1,3,0
+73102,La Selva del Camp,41.2111544,1.14396003,SELVA DEL CAMP (LA),TARRAGONA,"Passeig L'Estació Ferrocarril, S/N",2,1,3,0
+74200,Huesca,42.133594,-0.409745,HUESCA,HUESCA,"C/ José Gil Cavez, 10",1,0,1,1
+74204,Ayerbe,42.27561,-0.682569,AYERBE,HUESCA,"Ctra. A - 1206 --- Avda. Laorre, S/N",2,0,3,0
+74206,Riglos,42.344756,-0.731599,PEÑAS DE RIGLOS (LAS),HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74207,Santa María y La Peña,42.38039,-0.695647,PEÑAS DE RIGLOS (LAS),HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74208,Anzánigo,42.403289,-0.643344,JACA,HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74209,Caldearenas - Aquilué,42.397973,-0.499309,CALDEARENAS,HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74211,Sabiñánigo,42.520446,-0.373085,SABIÑÁNIGO,HUESCA,"C/ Serrablo, 2",2,0,3,0
+74213,Jaca,42.578303,-0.539231,JACA,HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74214,Castiello - Pueblo,42.62811,-0.546291,CASTIELLO DE JACA,HUESCA,"Av. Francia, S/N ",2,0,3,0
+74216,Villanúa - Letranz,42.688745,-0.52346,VILLANÚA,HUESCA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+74217,Canfranc,42.751471,-0.514641,CANFRANC,HUESCA,"Av. de Fernando El Catolico, 2",2,0,1,0
+76001,Salomó,41.2234416,1.37662504,SALOMÓ,TARRAGONA,"Ctra. T-202 - Estació Ferrocarril, S/N",2,1,3,0
+76002,Vilabella,41.2395473,1.31749155,VILABELLA,TARRAGONA,"Ctra. Tv-2032 - Estació Ferrocarril, S/N",2,1,3,0
+76003,Nulles - Bràfim,41.2503192,1.29750259,NULLES,TARRAGONA,"Passeig de L'Estació Ferrocarril, 1",2,1,3,0
+76004,Valls,41.2896079,1.25865179,VALLS,TARRAGONA,"Pl. de L'Estació, S/N",2,1,3,0
+78005,Villanueva de Gállego,41.76551,-0.822204,VILLANUEVA DE GÁLLEGO,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+78200,Tardienta,41.975716,-0.538223,TARDIENTA,HUESCA,"Pl. Estación Ferrocarril, S/N",2,0,3,0
+78201,Grañén,41.938033,-0.369329,GRAÑÉN,HUESCA,"C/ Ronda de Aragon, S/N",2,0,3,0
+78203,Sariñena,41.817529,-0.17076,SARIÑENA,HUESCA,"Barrio Estación Ferrocarril, S/N",2,0,3,0
+78301,Monzón - Río Cinca,41.913679,0.196939,MONZÓN,HUESCA,"Pl. Estación Ferrocarril, S/N",2,0,1,0
+78302,Binefar,41.849768,0.291478,BINÉFAR,HUESCA,"Avda. de Aragon, S/N",2,0,1,0
+78400,Lleida - Pirineus,41.62013,0.63365328,LLEIDA,LLEIDA,"Pl. Berenguer Iv, S/N",1,1,1,1
+78402,Bell - Lloc D'Urgell,41.631619,0.781547,BELL-LLOC D'URGELL,LLEIDA,"C/ de L'Estació, S/N",2,1,2,0
+78403,Mollerussa,41.631779,0.896775,MOLLERUSSA,LLEIDA,"Pl. L'Estació Ferrocarril, 4",2,1,2,0
+78404,Golmés,41.635929,0.930863,GOLMÉS,LLEIDA,"Passeig L'Estació Ferrocarril, S/N",2,1,2,0
+78405,Castellnou de Seana,41.637464,0.967736,CASTELLNOU DE SEANA,LLEIDA,"Ctra. Lv - 3443 --- Estació Ferrocarril, S/N",2,1,2,0
+78406,Bellpuig,41.632545,1.012993,BELLPUIG,LLEIDA,"Av. de Lleida, S/N",2,1,2,0
+78407,Anglesola,41.646448,1.079192,ANGLESOLA,LLEIDA,"Ctra. Lv- 3342 - Estació Ferrocarril, S/N",2,1,2,0
+78408,Tàrrega,41.650387,1.138963,TÀRREGA,LLEIDA,"C/ del Segle Xx, S/N",2,1,2,0
+78500,Cervera,41.673611,1.274773,CERVERA,LLEIDA,"Passeig de L'Estació Ferrocarril, S/N",2,1,1,0
+78501,Sant Guim de Freixenet,41.655924,1.42053,SANT GUIM DE FREIXENET,LLEIDA,"Pl. de L'Estació, S/N",2,1,3,0
+78502,Sant Martí Sesgueioles,41.701217,1.486204,SANT MARTÍ SESGUEIOLES,BARCELONA,"Passeig Dels Germans Forn, S/N",2,1,3,0
+78503,Calaf,41.730334,1.515097,CALAF,BARCELONA,"Avda. Josep Miro, 1",2,1,3,0
+78504,Seguers - Sant Pere Sallavinera,41.747991,1.574167,SANT PERE SALLAVINERA,BARCELONA,"Ctra. Bv-3051 - Estació de Ferrocarril, S/N",2,1,3,0
+78505,Aguilar de Segarra,41.738917,1.62372,AGUILAR DE SEGARRA,BARCELONA,"Ctra. Bv - 3009 - Estación Ferrocarril, 18",2,1,3,0
+78506,Rajadell,41.733159,1.696275,RAJADELL,BARCELONA,"Ctra. Bv-3012 - Estación Ferrocarril, S/N",2,1,3,0
+78600,Manresa,41.7203921,1.82648564,MANRESA,BARCELONA,"Ctra. Manresa A Abrera, S/N",2,1,3,0
+78604,Sant Vicenç de Castellet,41.6688309,1.86264304,SANT VICENÇ DE CASTELLET,BARCELONA,"Pg. Pau Casals, S/N",2,1,3,0
+78700,Terrassa Estacio Nord,41.5697825,2.01435428,TERRASSA,BARCELONA,"Pl. Estació del Nord, S/N",2,1,1,0
+79004,Barcelona - Sant Andreu,41.4361251,2.19319866,BARCELONA,BARCELONA,"Pl. Estació, S/N",2,1,2,0
+79009,Barcelona - El Clot,41.4092979,2.18719759,BARCELONA,BARCELONA,"Pl. Canonge Rodó, S/N",2,1,1,0
+79100,Granollers Centre,41.5997447,2.29126962,GRANOLLERS,BARCELONA,"Pla. Josep Serrat I Bonastre, 5",1,1,2,0
+79104,Sant Celoni,41.6857928,2.49072799,SANT CELONI,BARCELONA,"Pl. de L'Estacio, S/N",2,1,1,0
+79105,Gualba,41.7181901,2.53878373,GUALBA,BARCELONA,"Barri D L'Estacio, S/N",2,1,2,0
+79106,Riells i Viabrea - Breda,41.7263582,2.56889584,RIELLS I VIABREA,GIRONA,"Mossèn Pere Ribot, S/N",2,1,2,0
+79107,Hostalric,41.747788,2.63165011,HOSTALRIC,GIRONA,"Baixada de L'Estació, S/N",2,1,2,0
+79200,Maçanet - Massanes,41.7724212,2.67385865,MASSANES,GIRONA,"C/ Estació de Ferrocarril, S/N",2,1,1,0
+79202,Sils,41.8075996,2.74500729,SILS,GIRONA,"Pl. de L'Estació, S/N",2,1,1,0
+79203,Caldes de Malavella,41.84111,2.80076692,CALDES DE MALAVELLA,GIRONA,"Av. Doctor Forest, S/N",2,1,1,0
+79204,Riudellots,41.896297,2.81157037,RIUDELLOTS DE LA SELVA,GIRONA,"C/ Veinat de L'Estació, S/N",2,1,2,0
+79205,Fornells de La Selva,41.935043,2.80978324,FORNELLS DE LA SELVA,GIRONA,"C/ Caterina Albert, S/N",2,1,2,0
+79300,Girona,41.9793629,2.81693689,GIRONA,GIRONA,"Pl. España, S/N",1,1,1,1
+79301,Celrà,42.0271984,2.87490587,CELRÀ,GIRONA,"Ctra. de Juià, 45",2,1,2,0
+79302,Bordils - Juià,42.0370568,2.91529561,BORDILS,GIRONA,"Ctra. Vella, S/N",2,1,2,0
+79303,Flaçà,42.047477,2.95740315,FLAÇÀ,GIRONA,"Pla. Estacio del Carrilet, S/N",1,1,2,1
+79304,Sant Jordi Desvalls,42.0683023,2.96447664,SANT JORDI DESVALLS,GIRONA,"C/ de L'Estació, S/N",2,1,2,0
+79305,Camallera,42.1223297,2.96536522,"SAUS, CAMALLERA I LLAMPAIES",GIRONA,"C/ Estació Ferrocarril, S/N",2,1,2,0
+79306,Sant Miquel de Fluvià,42.1721019,2.98959828,SANT MIQUEL DE FLUVIÀ,GIRONA,"Ctra. Gi-622 - Estació Ferrocarril, S/N",2,1,2,0
+79308,Vilamalla,42.216362,2.97776423,VILAMALLA,GIRONA,"Cami de L'Estació, S/N",2,1,2,0
+79309,Figueres,42.2651134,2.96880074,FIGUERES,GIRONA,"Pl. Estacio Ferrocarril, S/N",1,1,1,1
+79311,Vilajuïga,42.3256691,3.08754626,VILAJUÏGA,GIRONA,"Passeig de L'Estació, S/N",2,1,2,0
+79312,Llançà,42.3666194,3.1489746,LLANÇÀ,GIRONA,"Pl. L'Estació Ferrocarril, S/N ",2,1,2,0
+79314,Colera,42.4068837,3.15434316,COLERA,GIRONA,"C/ Pujada Estació, S/N",2,1,2,0
+79315,Portbou,42.4245908,3.15801841,PORTBOU,GIRONA,"C/ Claudi Planas, S/N",1,1,1,1
+79316,Cerbère,42.441664,3.16314935,PORTBOU,GIRONA,Rue Lamartine,2,1,1,0
+79400,Barcelona - Estació de França,41.3844866,2.18534785,BARCELONA,BARCELONA,"Av. Marques de L'Argentera, S/N",1,1,1,1
+80001,Altsasu/Alsasua - Pueblo,42.893283,-2.167429,ALTSASU/ALSASUA,NAVARRA,"C/ Venta Abajo, 2",2,1,3,0
+80003,Etxarri - Aranatz,42.911138,-2.071245,ETXARRI-ARANATZ,NAVARRA,"Ctra. Na - 120 --- Estación Ferrocarril, S/N",2,0,3,0
+80005,Uharte - Arakil,42.920606,-1.974814,UHARTE-ARAKIL,NAVARRA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+80100,Pamplona/Iruña,42.824877,-1.661419,PAMPLONA/IRUÑA,NAVARRA,"Pla. Estación Ferrocarril, S/N",1,0,1,1
+80108,Tafalla,42.525756,-1.671467,TAFALLA,NAVARRA,"Ctra. Na-132 - Paseo de las Ruedas, S/N",2,0,2,1
+80109,Olite/Erriberri,42.484989,-1.649964,OLITE/ERRIBERRI,NAVARRA,"C/ Estación de Ferrocarril, 25",2,0,3,0
+80114,Marcilla de Navarra,42.334851,-1.717418,MARCILLA,NAVARRA,"Ctra. Na -128 --- Estación de Ferrocarril, S/N",2,0,3,0
+80115,Villafranca de Navarra,42.280734,-1.745716,VILLAFRANCA,NAVARRA,"Avda. Miguel de Cervantes, S/N",2,0,3,0
+81002,Haro,42.583635,-2.849396,HARO,"RIOJA, LA","C/ Estación Ferrocarril, S/N",2,0,3,0
+81100,Logroño,42.457459,-2.442193,LOGROÑO,"RIOJA, LA","Avda. de Colon, 83",1,0,1,1
+81102,Agoncillo,42.443585,-2.291701,AGONCILLO,"RIOJA, LA","C/ José Maria de la Vega, S/N",2,0,3,0
+81105,Alcanadre,42.407437,-2.122094,ALCANADRE,"RIOJA, LA","Ctra. Estación, 49",2,0,3,0
+81106,Féculas - Navarra,42.411148,-2.098196,LODOSA,NAVARRA,"Ctra. Na - 6540 --- Estación Ferrocarril, S/N",2,0,3,0
+81108,Calahorra,42.310458,-1.957755,CALAHORRA,"RIOJA, LA","Avda. Estación Ferrocarril, S/N",2,0,2,1
+81109,Rincón de Soto,42.230011,-1.847473,RINCÓN DE SOTO,"RIOJA, LA","C/ Estación Ferrocarril, 2",2,0,3,0
+81110,Alfaro,42.186525,-1.747985,ALFARO,"RIOJA, LA","Avda. de la Vía, S/N",2,0,1,0
+81200,Castejón de Ebro,42.172719,-1.692114,CASTEJÓN,NAVARRA,"C/ Jeronimo Marco, 1",2,0,1,1
+81202,Tudela de Navarra,42.059434,-1.597931,TUDELA,NAVARRA,"Pza. Estación Ferrocarril, S/N",1,0,1,1
+81203,Ribaforada,41.997038,-1.515097,RIBAFORADA,NAVARRA,"C/ Parlamento Navarro, 45",2,0,2,0
+81205,Cortes de Navarra,41.915076,-1.420439,CORTES,NAVARRA,"Ctra. Na - 5200 --- Estación Ferrocarril, S/N",2,0,2,1
+81206,Gallur,41.867164,-1.321342,GALLUR,ZARAGOZA,"C/ Virgen del Pilar, 2",2,0,3,0
+81207,Luceni,41.826116,-1.243536,LUCENI,ZARAGOZA,"Av. Francisco de Goya, 56",2,0,3,0
+81208,Pedrola,41.805198,-1.201673,PEDROLA,ZARAGOZA,"C/ Edificio Diseminados, 18",2,0,3,0
+81209,Cabañas de Ebro,41.788065,-1.167533,CABAÑAS DE EBRO,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+81210,Alagón,41.771422,-1.112771,ALAGÓN,ZARAGOZA,"C/ Estación Ferrocarril, S/N",2,0,2,0
+82100,Soria,41.754754,-2.476537,SORIA,SORIA,"C/ Ctra. Madrid, S/N",1,0,1,1
+84101,Almazan,41.489019,-2.525375,ALMAZÁN,SORIA,"Avda. Estación Ferrocarril, 9",2,0,1,0
+84103,Tardelcuende,41.593525,-2.639337,TARDELCUENDE,SORIA,"Avda. Estación Ferrocarril, S/N",2,0,3,0
+84104,Quintana Redonda,41.639726,-2.609682,QUINTANA REDONDA,SORIA,"C/ Estación Ferrocarril, S/N",2,0,3,0
+87088,Narbonne,43.190253,3.005716,NARBONA,DESCONOCIDO,Boulevard Frederic Mistral,2,0,3,0
+87089,Marseille St Charles,43.30349,5.382236,MARSEILLE,,Square Narvik,2,0,1,0
+87173,Montpellier,43.604852,3.880491,MONTPELLIER,DESCONOCIDO,Place Auguste Gibert Bp,2,0,3,0
+87302,NIMES,43.832291,4.365845,NIMES,,Boulevart Sergent Triaire,2,0,3,0
+87303,Lyon Part Dieu,45.760281,4.859801,LYON,,Place Chales Beraudier,2,0,1,0
+87374,Perpignan,42.696421,2.880381,PERPIGNAN,,Place Salvador Dali,2,0,3,0
+87810,Valence,44.991545,4.978703,VALENCE,,"Valence Cedex, 9",2,0,3,0
+87814,Avignon,43.921938,4.785813,AVIGNON,,Place de L' Europe,2,0,3,0
+87912,Aix en Provence,43.455268,5.31723,AIX EN PROVENCE,,"Route Departamentale, 9",2,0,3,0
+92102,Toledo,39.862272,-4.011244,TOLEDO,TOLEDO,"C/ Paseo de la Rosa, S/N",1,0,1,1
+94002,Daimiel,39.061553,-3.604213,DAIMIEL,CIUDAD REAL,"C/ Estación Ferrocarril, S/N",2,0,2,1
+94004,Almagro,38.895323,-3.709777,ALMAGRO,CIUDAD REAL,"Paseo Estación Ferrocarril, S/N",2,0,2,0
+94021,Nine,41.45534,-8.54513,NINE,,Calle de la Estacion,1,0,3,0
+94033,Viana D Castelo,41.69517,-8.83134,VIANA DA CASTELO,,Avda. Dos Combatentes da Grande Guerra,1,0,3,0
+94346,Porto Campanha,41.1489,-8.58544,O PORTO CAMPAÑA,,Rua da Estação,1,0,1,0
+96122,BARCELOS,41.53673,-8.60907,BARCELOS,,,2,0,3,0
+97100,Pitis,40.4954173,-3.7261603,MADRID,MADRID,"Calle Gloria Fuertes S/N, Pitis (Madrid)",2,1,3,0
+97200,Mirasierra - Paco de Lucía,40.499759,-3.7092505,CANENCIA,MADRID,"Calle del Monasterio de las Huelgas, S/N",2,1,3,0
+97201,Madrid - Ramón y Cajal,40.4881473,-3.6948037,MADRID,MADRID,C/ San Modesto S/N,2,1,3,0
+99117,Ourense,42.350389,-7.872777,OURENSE,OURENSE,,2,0,3,0
+99143,A Coruña,43.352761,-8.409755,CORUÑA (A),"CORUÑA, A",,2,0,3,0
+99159,Santiago,42.870842,-8.544697,SANTIAGO DE COMPOSTELA,"CORUÑA, A",,2,0,3,0
+99161,Pontevedra,42.421969,-8.635546,PONTEVEDRA,PONTEVEDRA,,1,0,3,0
