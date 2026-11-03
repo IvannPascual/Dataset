@@ -46,6 +46,8 @@ def main():
         f"&current={','.join(VARIABLES)}&timezone=Europe%2FMadrid"
     )
     results = download_json(url)
+    if not isinstance(results, list) or len(results) != len(names) or not all(r.get("current") for r in results):
+        raise ValueError(f"Open-Meteo devolvió {len(results) if isinstance(results, list) else 0} puntos de {len(names)}")
     path = DATA_DIR / "meteo" / now.strftime("%Y/%m") / f"{now.strftime('%d')}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     is_new_file = not path.exists()
@@ -57,6 +59,7 @@ def main():
             current = result.get("current", {})
             writer.writerow([now.isoformat(timespec="seconds"), name, *POINTS[name], current.get("time", ""), *(current.get(v, "") for v in VARIABLES)])
     print(f"Tiempo guardado para {len(names)} puntos")
+    return len(names), path
 
 
 if __name__ == "__main__":

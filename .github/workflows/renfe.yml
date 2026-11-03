@@ -25,28 +25,39 @@ jobs:
 
       - name: Posiciones Renfe
         continue-on-error: true
-        run: python collector/renfe.py
+        run: python collector/run.py renfe
 
       - name: Retrasos oficiales larga distancia
         continue-on-error: true
-        run: python collector/retrasos_ld.py
+        run: python collector/run.py retrasos_ld
 
       - name: Avisos de incidencias
         continue-on-error: true
-        run: python collector/avisos.py
+        run: python collector/run.py avisos
 
       - name: Tiempo (cada 15 min)
         continue-on-error: true
         run: |
           [ $(( 10#$(date +%M) % 15 )) -lt 5 ] || exit 0
-          python collector/meteo.py
+          python collector/run.py meteo
 
-      - name: Estaciones y festivos (una vez al día)
+      - name: Estaciones (una vez al día)
         continue-on-error: true
         run: |
           [ "$(TZ=Europe/Madrid date +%H)" = "04" ] && [ $(( 10#$(date +%M) )) -lt 5 ] || [ ! -f data/estaciones.csv ] || exit 0
-          python collector/estaciones.py
-          python collector/festivos.py
+          python collector/run.py estaciones
+
+      - name: Festivos (una vez al día)
+        continue-on-error: true
+        run: |
+          [ "$(TZ=Europe/Madrid date +%H)" = "04" ] && [ $(( 10#$(date +%M) )) -lt 5 ] || [ ! -d data/festivos ] || exit 0
+          python collector/run.py festivos
+
+      - name: Horarios programados (una vez al día)
+        continue-on-error: true
+        run: |
+          [ "$(TZ=Europe/Madrid date +%H)" = "04" ] && [ $(( 10#$(date +%M) )) -lt 5 ] || [ ! -f data/horarios/versiones.csv ] || exit 0
+          python collector/run.py horarios
 
       - name: Guardar en el repo
         run: |

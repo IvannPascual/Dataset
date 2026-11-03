@@ -8,6 +8,8 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from fetch import require_list, require_rows_in_service_hours
+
 FEED_URL = "https://tiempo-real.largorecorrido.renfe.com/renfe-visor/flotaLD.json"
 MADRID = ZoneInfo("Europe/Madrid")
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "renfe"
@@ -56,11 +58,13 @@ def to_csv(feed, captured_at):
 def main():
     now = datetime.now(MADRID)
     feed = download_feed()
-    trains = len(feed.get("trenes", []))
+    trains = len(require_list(feed, "trenes"))
+    require_rows_in_service_hours(trains, now, "trenes")
     path = DATA_DIR / now.strftime("%Y/%m/%d") / f"{now.strftime('%H%M%S')}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(to_csv(feed, now.isoformat(timespec="seconds")), encoding="utf-8")
     print(f"{trains} trenes guardados en {path.relative_to(DATA_DIR.parent.parent)}")
+    return trains, path
 
 
 if __name__ == "__main__":

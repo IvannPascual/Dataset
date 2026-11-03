@@ -9,8 +9,12 @@ COLUMNS = ["fecha", "nombre", "nacional", "comunidades"]
 
 def main():
     year = now_madrid().year
+    total = 0
     for target in (year, year + 1):
         holidays = download_json(API_URL.format(year=target))
+        if not isinstance(holidays, list) or len(holidays) < 8:
+            raise ValueError(f"{len(holidays) if isinstance(holidays, list) else 0} festivos en {target}, no se guarda")
+        total += len(holidays)
         buffer = io.StringIO()
         writer = csv.writer(buffer, lineterminator="\n")
         writer.writerow(COLUMNS)
@@ -23,6 +27,7 @@ def main():
         if not path.exists() or path.read_text(encoding="utf-8") != content:
             path.write_text(content, encoding="utf-8")
         print(f"{len(holidays)} festivos de {target}")
+    return total, None
 
 
 if __name__ == "__main__":

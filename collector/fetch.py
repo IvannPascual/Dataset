@@ -31,3 +31,14 @@ def epoch_to_madrid(value):
     if not value:
         return ""
     return datetime.fromtimestamp(int(value), MADRID).isoformat(timespec="seconds")
+
+
+def require_list(feed, key):
+    if not isinstance(feed, dict) or not isinstance(feed.get(key), list):
+        raise ValueError(f"Respuesta sin lista '{key}'")
+    return feed[key]
+
+
+def require_rows_in_service_hours(count, now, what):
+    if count == 0 and 7 <= now.hour < 23:
+        raise ValueError(f"0 {what} en horario de servicio, no se guarda")

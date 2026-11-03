@@ -1,6 +1,6 @@
 import csv
 
-from fetch import DATA_DIR, download_json, epoch_to_madrid, now_madrid
+from fetch import DATA_DIR, download_json, epoch_to_madrid, now_madrid, require_list
 
 FEED_URL = "https://gtfsrt.renfe.com/alerts.json"
 COLUMNS = ["visto", "id", "inicio", "fin", "rutas", "texto"]
@@ -15,6 +15,7 @@ def alert_text(alert):
 def main():
     now = now_madrid()
     feed = download_json(FEED_URL)
+    require_list(feed, "entity")
     path = DATA_DIR / "avisos" / now.strftime("%Y/%m") / f"{now.strftime('%d')}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     seen = set()
@@ -37,6 +38,7 @@ def main():
             writer.writerow(COLUMNS)
         writer.writerows(new_rows)
     print(f"{len(new_rows)} avisos nuevos de {len(feed.get('entity', []))} activos")
+    return len(new_rows), path
 
 
 if __name__ == "__main__":
