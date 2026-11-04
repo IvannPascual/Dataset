@@ -253,3 +253,16 @@ LINEA C-5 sufre retrasos entre 30 y 60 minutos de demora.
 
 Subsanada la incidencia avería en la infraestructura."
 2026-11-04T21:00:46+01:00,AVISO_524080,2026-11-04T20:56:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2 - Tren con salida prevista a las 20:28h de la estación de València Nord con destino l'Alcúdia, efectúa su salida con 25 minutos de retraso."
+2026-11-04T21:10:45+01:00,AVISO_524103,2026-11-04T21:08:00+01:00,,30T0009C5 30T0010C5 30T0029C5 30T0030C5,"Línea C-5 
+
+Tren con salida a las 22:30h de la estación de JARDINES DE HÉRCULES y con destino BENACAZÓN, no presta servicio entre las estaciones de JARDINES DE HERCULES y SEVILLA SANTA JUSTA.
+  
+Viajeros encaminados a la siguiente circulación de la línea C-1. 
+
+Avería en la infraestructura."
+2026-11-04T21:10:45+01:00,AVISO_524082,2026-11-04T21:05:00+01:00,,30T0009C5 30T0010C5 30T0029C5 30T0030C5,"Línea C-5 
+
+Tren con salida a las 20:50h de la estación de BENACAZÓN y con destino JARDINES DE HERCULES, no presta servicio entre las estaciones de SEVILLA SANTA JUSTA y JARDINES DE HERCULES.
+  
+Viajeros encaminados a la siguiente circulación de la linea C-1 dirección UTRERA. 
+Avería en la infraestructura."
