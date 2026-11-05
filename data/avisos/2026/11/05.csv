@@ -350,3 +350,10 @@ Los viajeros serán encaminados al siguiente tren con salida de FUENGIROLA a las
 Sentimos las molestias."
 2026-11-05T19:40:45+01:00,AVISO_524287,2026-11-05T19:29:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 18:45h de la estación de València Nord con destino l'Alcúdia, efectúa su salida con 47 minutos de retraso."
 2026-11-05T19:55:43+01:00,AVISO_524272,2026-11-05T19:53:00+01:00,,40T0007C3 40T0008C3 40T0017C3 40T0025C3 40T0026C3 40T0043C3 40T0044C3 40T0045C3 40T0046C3 40T0054C3 40T0055C3,"Línea C3. Tren con salida prevista a las 20:03h de la estación de València Sant Isidre con destino Buñol, hoy no circula."
+2026-11-05T20:00:46+01:00,AVISO_524275,2026-11-05T19:58:00+01:00,,32T0003C2 32T0004C2 32T0019C2 32T0020C2,"Línea C-2   
+Tren con salida a las 20:40h de MÁLAGA CENTRO ALAMEDA con destino ÁLORA, no presta servicio.     
+Los viajeros serán encaminados al siguiente tren con salida de MÁLAGA CENTRO ALAMEDA a las 21:40h.    
+Sentimos las molestias."
+2026-11-05T20:00:46+01:00,AVISO_524274,2026-11-05T19:57:00+01:00,,40T0001C1 40T0002C1,"Línea C1. Tren con salida prevista a las 21:13h de la estación de Gandia con destino València Nord, hoy no circula."
+2026-11-05T20:00:46+01:00,AVISO_524288,2026-11-05T19:56:00+01:00,,40T0001C1 40T0002C1,"Línea C1. Tren con salida prevista a las 19:51h de la estación de València Nord con destino Gandia, hoy no circula."
+2026-11-05T20:00:46+01:00,AVISO_524273,2026-11-05T19:54:00+01:00,,40T0007C3 40T0008C3 40T0017C3 40T0025C3 40T0026C3 40T0043C3 40T0044C3 40T0045C3 40T0046C3 40T0054C3 40T0055C3,"Línea C3. Tren con salida prevista a las 21:03h de la estación de Buñol con destino València Sant Isidre, hoy no circula."
