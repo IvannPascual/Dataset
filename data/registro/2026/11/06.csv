@@ -734,3 +734,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-06T18:00:45+01:00,retrasos_ld,ok,263,data/retrasos_ld/2026/11/06/180044.csv,fbe9ecfeaa06b13a964e81ccf5ffd8b521a97b44ef79acec5cedfcd5a1df1b40,
 2026-11-06T18:00:45+01:00,avisos,ok,0,data/avisos/2026/11/06.csv,59bb45058ac71855f8cedde06c4bd265d68dca5f5e7adf9adef3b27f1ed45e18,
 2026-11-06T18:00:46+01:00,meteo,ok,28,data/meteo/2026/11/06.csv,3eabc281f4becdd1e1b270d11fd7a741327d51f956b60ca2b5adf98445b4ba90,
+2026-11-06T18:06:10+01:00,renfe,ok,169,data/renfe/2026/11/06/180544.csv,69edc9fee8adbcf5fb77c918e1c2d5ed5faaaa050fda15e814f703b9c2e18466,
+2026-11-06T18:06:11+01:00,retrasos_ld,ok,261,data/retrasos_ld/2026/11/06/180610.csv,8b5e413e30622443a77dd8745e37fe3678a610aa2d72a944c8b9f69abb91bd09,
+2026-11-06T18:06:12+01:00,avisos,ok,2,data/avisos/2026/11/06.csv,83e75d4ec84a6f9cfab05e350d933533021c31a997eb992fb19783876412d06e,
