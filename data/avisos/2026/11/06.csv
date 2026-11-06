@@ -516,3 +516,7 @@ Tren con salida a las 17:05h de la estación de UTRERA y con destino LORA DEL RI
 Limitaciones de velocidad."
 2026-11-06T18:15:45+01:00,AVISO_524553,2026-11-06T18:12:00+01:00,,40T0001C1 40T0002C1 40T0005C2 40T0006C2 40T0007C3 40T0008C3 40T0011C5 40T0012C5 40T0013C6 40T0014C6 40T0015C6 40T0016C6 40T0017C3 40T0019C5 40T0020C5 40T0021C6 40T0022C6 40T0025C3 40T0026C3 40T0029C2 40T0030C2 40T0043C3 40T0044C3 40T0045C3 40T0046C3 40T0049C2 40T0050C2 40T0051C2 40T0052C2 40T0053C5 40T0054C3 40T0055C3 40T0056C5 40T0057ER24,"Línea C2. Tren con salida prevista a las 17:50h de la estación de València Nord con destino l'Alcúdia, efectúa su salida con 19 minutos de retraso. Incidencia operativa."
 2026-11-06T18:15:45+01:00,AVISO_524554,2026-11-06T18:13:00+01:00,,41T0001C1 41T0002C1 41T0013C1 41T0026C1 41T0027C1 41T0030C1 41T0031C1,"Línea C1. Tren con salida prevista a las 17:30h de la estación de Alacant Terminal con destino Murcia del Carmen, efectúa su salida con 22 minutos de retraso. Incidencia operativa."
+2026-11-06T18:20:45+01:00,AVISO_524555,2026-11-06T18:15:00+01:00,,10T0005C2 10T0006C2 10T0037C2,"#MadC2c Por reajuste de servicio, tren CIVIS con salida de Chamartín a las 18:16h, y destino Guadalajara, hoy excepcionalmente no circula."
+2026-11-06T18:20:45+01:00,AVISO_524565,2026-11-06T18:17:00+01:00,,30T0001C1 30T0002C1,"Línea C-1 
+Tren con salida a las 18:36h de la estación de LORA DEL RIO y con destino UTRERA, efectuará dicha salida con unos minutos de demora. 
+Incidencia causada por el tren precedente."
