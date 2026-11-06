@@ -95,3 +95,10 @@ Avería en la infraestructura."
 2026-11-06T06:30:44+01:00,AVISO_524345,2026-11-06T06:24:00+01:00,,40T0001C1 40T0002C1,"Línea C1. Tren con salida prevista a las 6:10h de la estación de Gandia con destino València Nord, efectúa su salida con 15 minutos de retraso."
 2026-11-06T06:50:44+01:00,AVISO_524347,2026-11-06T06:46:00+01:00,,40T0013C6 40T0014C6 40T0015C6 40T0016C6 40T0021C6 40T0022C6,"Línea C6. Tren con salida prevista a las 6:20h de la estación de València Nord con destino Castelló, circula por València Font de Sant Lluís con 16 minutos de retraso."
 2026-11-06T06:50:44+01:00,AVISO_524311,2026-11-06T06:45:00+01:00,,60T0005C3 60T0006C3,"#BilboAldiriakC3 Trenbidean oztopoak daudelako, tren batzuk 10-15 minutuko atzerapenarekin ibiltzen ari dira. // #BilbaoC3 Debido a obstáculos en la vía, algunos trenes sufren demoras de 10-15 minutos."
+2026-11-06T06:55:43+01:00,AVISO_524351,2026-11-06T06:54:00+01:00,,30T0001C1 30T0002C1,"Línea C-1	  
+Tren con salida a las 06:02h de la estación de LORA DEL RÍO y con destino UTRERA, efectuará su salida con una fuerte demora.
+Avería en la infraestructura.
+Sentimos las molestias."
+2026-11-06T06:55:43+01:00,AVISO_524349,2026-11-06T06:51:00+01:00,,40T0007C3 40T0008C3 40T0017C3 40T0025C3 40T0026C3 40T0043C3 40T0044C3 40T0045C3 40T0046C3 40T0054C3 40T0055C3,"Línea C3. Tren con salida prevista a las 6:45h de la estación de Buñol con destino València Sant Isidre, hoy no circula."
+2026-11-06T06:55:43+01:00,AVISO_524350,2026-11-06T06:51:00+01:00,,60T0005C3 60T0006C3,"#BilboAldiriakC3 Trenbidean oztopoak daudelako, Urduñako geltokitik 08:13an irtengo den trenak ez du zerbitzurik prestatuko. #BilbaoC3 Debido a obstáculos en la vía, el tren con origen en la estación de Orduña y salida a las 08:13h no presta servicio."
+2026-11-06T06:55:43+01:00,AVISO_524348,2026-11-06T06:49:00+01:00,,60T0005C3 60T0006C3,"#BilboAldiriakC3 Trenbidean oztopoak daudelako, Bilbo Abandoko geltokitik 07:04an irtengo den trenak ez du zerbitzurik prestatuko.  // #BilbaoC3 Debido a obstáculos en la vía, el tren con origen en la estación de Bilbao Abando y salida a las 07:04h no presta servicio."
