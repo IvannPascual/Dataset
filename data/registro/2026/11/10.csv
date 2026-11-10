@@ -770,3 +770,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-10T18:50:43+01:00,renfe,ok,77,data/renfe/2026/11/10/185043.csv,26ea2d327d833553e9a15ff59d789a0148bd43b0ea90c31edb97e3d44bf87efb,
 2026-11-10T18:50:44+01:00,retrasos_ld,ok,740,data/retrasos_ld/2026/11/10/185043.csv,11003fb05cfbed1cb2208d5fce96440a3e9797cba1849daf5a8d8a7c1cb0c9e7,
 2026-11-10T18:50:45+01:00,avisos,ok,0,data/avisos/2026/11/10.csv,e2f9d6e14d921eda6a6b051c5cdd5aa7dc7af97ffee9ee16c575a773289df7cc,
+2026-11-10T18:55:45+01:00,renfe,ok,74,data/renfe/2026/11/10/185544.csv,c474ce4f00de40f4b473e07e9a59a2618a38da960837da0f55cce22ed6c77eb5,
+2026-11-10T18:55:45+01:00,retrasos_ld,ok,744,data/retrasos_ld/2026/11/10/185545.csv,c6a99c86b5f235c33c090c69e1f3dcadd68f4d3ddda5d9554a53044f9bd608c1,
+2026-11-10T18:55:46+01:00,avisos,ok,0,data/avisos/2026/11/10.csv,e2f9d6e14d921eda6a6b051c5cdd5aa7dc7af97ffee9ee16c575a773289df7cc,
