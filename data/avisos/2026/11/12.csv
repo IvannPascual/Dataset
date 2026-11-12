@@ -298,3 +298,11 @@ Sentimos las molestias."
 2026-11-12T17:35:50+01:00,INFO_525781,2026-11-12T17:31:00+01:00,,10T0013C4a 10T0014C4a,"#MadC4a Debido a una reajuste del servicio, el próximo tren con origen Alcobendas-San Sebastián de los Reyes y destino Parla, tiene prevista su salida a las 17:49h, aproximadamente."
 2026-11-12T17:35:50+01:00,INFO_525799,2026-11-12T17:22:00+01:00,,,"Ascensor de la estación de El Escorial, con acceso a vías 1 y 3, sentido Chamartín/Atocha, se encuentra fuera de servicio."
 2026-11-12T17:35:50+01:00,AVISO_525798,2026-11-12T17:31:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 18:45h de la estación de València Nord con destino l'Alcúdia, hoy no circula."
+2026-11-12T17:40:48+01:00,INFO_525782,2026-11-12T17:36:00+01:00,,,"Ascensor de la estación de Zarzaquemada, con acceso a la vía 2 sentido Humanes, fuera de servicio. Actualmente no existe un itinerario accesible mediante ascensor para acceder a dicha vía."
+2026-11-12T17:40:48+01:00,INFO_525801,2026-11-12T17:33:00+01:00,,,"Ascensor de la estación de Alcobendas-San Sebastián de los Reyes, con acceso al vestíbulo principal desde la avenida de España, fuera de servicio. Como alternativa, puede utilizarse otro ascensor situado en la misma avenida, frente al acceso afectado."
+2026-11-12T17:40:48+01:00,AVISO_525802,2026-11-12T17:36:00+01:00,,32T0001C1 32T0002C1,"Línea C-1 
+
+Tren con salida a las 17:00h de la estación de FUENGIROLA y con destino MALAGA CENTRO ALAMEDA, circula con una demora de 18 minutos. 
+
+Sentimos las molestias."
+2026-11-12T17:40:48+01:00,AVISO_525803,2026-11-12T17:36:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 16:30h de la estación de Xàtiva con destino València Nord, circula por Silla con 19 minutos de retraso."
