@@ -261,3 +261,8 @@ Sentimos las molestias."
 2026-11-12T16:20:47+01:00,INFO_525524,2026-11-11T10:15:00+01:00,,,"Ascensor de la estación de Colmenar Viejo, con acceso a vías 2 y 4, sentido Parla, se encuentra fuera de servicio."
 2026-11-12T16:20:47+01:00,AVISO_525770,2026-11-12T16:18:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 17:55h de la estación de l'Alcúdia con destino València Nord, hoy no circula."
 2026-11-12T16:20:47+01:00,AVISO_525769,2026-11-12T16:16:00+01:00,,40T0001C1 40T0002C1,"Línea C1. Tren con salida prevista a las 15:45h de la estación de València Nord con destino Gandia, efectúa su salida con 21 minutos de retraso."
+2026-11-12T16:25:47+01:00,INFO_525469,2026-11-10T21:22:00+01:00,,,"Ascensor de la estación Majadahonda, con acceso a vía 2, con sentido Villalba y Alcalá de Henares, se encuentra fuera de servicio."
+2026-11-12T16:25:47+01:00,AVISO_525771,2026-11-12T16:22:00+01:00,,30T0009C5 30T0010C5 30T0029C5 30T0030C5,"Línea C-5 
+Tren con salida a las 15:14h de la estación de DOS HERMANAS y con destino BENACAZÓN, circula con una demora de 20 minutos a su paso por la estación de VALENCINA-SANTIPONCE. 
+Limitaciones de velocidad."
+2026-11-12T16:25:47+01:00,AVISO_525790,2026-11-12T16:23:00+01:00,,41T0001C1 41T0002C1 41T0013C1 41T0026C1 41T0027C1 41T0030C1 41T0031C1,"Línea C1. Tren con salida prevista a las 15:30h de la estación de Callosa Segura con destino Alacant Terminal, circula por Elx-Parc con 17 minutos de retraso. Gestión tráfico ferroviario."
