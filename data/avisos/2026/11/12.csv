@@ -306,3 +306,15 @@ Tren con salida a las 17:00h de la estación de FUENGIROLA y con destino MALAGA 
 
 Sentimos las molestias."
 2026-11-12T17:40:48+01:00,AVISO_525803,2026-11-12T17:36:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 16:30h de la estación de Xàtiva con destino València Nord, circula por Silla con 19 minutos de retraso."
+2026-11-12T17:45:47+01:00,INFO_525804,2026-11-12T17:40:00+01:00,,,"Ascensor de la estación de San Cristóbal Industrial, con acceso a vía 2, sentido Aranjuez, se encuentra fuera de servicio."
+2026-11-12T17:45:47+01:00,AVISO_525806,2026-11-12T17:45:00+01:00,,32T0001C1 32T0002C1,"Línea C-1 
+
+Tren con salida a las 17:20h de la estación de FUENGIROLA y con destino MALAGA CENTRO ALAMEDA, circula con una demora de 20 minutos. 
+
+Sentimos las molestias."
+2026-11-12T17:45:47+01:00,AVISO_525805,2026-11-12T17:42:00+01:00,,32T0001C1 32T0002C1,"Línea C-1 
+
+Tren con salida a las 17:10h de la estación de MALAGA CENTRO ALAMEDA y con destino FUENGIROLA, circula con una demora de 15 minutos. 
+
+Sentimos las molestias."
+2026-11-12T17:45:47+01:00,AUTOBUS_4015J84061C2,2026-11-12T18:42:00+01:00,,,Se prestará servicio de autobús para este recorrido.
