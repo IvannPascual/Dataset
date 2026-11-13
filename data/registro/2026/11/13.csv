@@ -643,3 +643,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-13T15:45:47+01:00,retrasos_ld,ok,293,data/retrasos_ld/2026/11/13/154546.csv,1d14c9be807880035f1f12f06153024db2548806124e9731332ef9e8a570cf59,
 2026-11-13T15:45:48+01:00,avisos,ok,2,data/avisos/2026/11/13.csv,36fcbcf5915eebc259528a8bbe548bbce479c3955ae6b2be95ccbb0eabf1d13f,
 2026-11-13T15:47:04+01:00,meteo,error,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+2026-11-13T15:50:46+01:00,renfe,ok,155,data/renfe/2026/11/13/155045.csv,5ab2769ef031c4896c1ec2c178280063da5c22dbe5ac9ba4896413cc6a0d9c28,
+2026-11-13T15:50:47+01:00,retrasos_ld,ok,293,data/retrasos_ld/2026/11/13/155046.csv,6751d5215d525274d1e53a8325556c2cfcf60c9accf259eba75fe0655dc20025,
+2026-11-13T15:50:48+01:00,avisos,ok,3,data/avisos/2026/11/13.csv,984fb9a75864e62f62425e5c6af638223a81d065f5b9bc06ca633a57ea1c0c14,
