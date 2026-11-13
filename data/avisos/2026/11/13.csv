@@ -216,3 +216,10 @@ Tren con salida a las 13:50 h de la estación de SEVILLA SANTA JUSTA y con desti
 Sentimos las molestias"
 2026-11-13T14:20:47+01:00,AVISO_526005,2026-11-13T14:18:00+01:00,,41T0001C1 41T0002C1 41T0013C1 41T0026C1 41T0027C1 41T0030C1 41T0031C1,"Línea C1. Tren con salida prevista a las 13:20h de la estación de Alacant Terminal con destino Callosa Segura, circula por Elx-Parc con 19 minutos de retraso. Gestión tráfico ferroviario."
 2026-11-13T14:20:47+01:00,AVISO_526006,2026-11-13T14:06:00+01:00,,60T0005C3 60T0006C3,"#BilbaoC3 Debido a una avería técnica en el tren, el tren con origen en la estación de Orduña y salida a las 13:31h no presta servicio. // #BilboAldiriakC3 Treneko matxura tekniko baten ondorioz, Orduñako geltokitik 13:31an irtengo den trenak ez du zerbitzurik prestatuko."
+2026-11-13T14:25:44+01:00,AVISO_525985,2026-11-13T14:20:00+01:00,,30T0001C1 30T0002C1,"Línea C-1 
+
+Tren con salida a las 13:35 h de la estación de UTRERA y con destino LORA DEL RÍO, circula con una demora de 16 minutos a su paso por la estación de SEVILLA SANTA JUSTA. 
+
+ Incidencia causada por el tren precedente."
+2026-11-13T14:25:44+01:00,AVISO_526007,2026-11-13T14:21:00+01:00,,60T0005C3 60T0006C3,"#BilboAldiriakC3 Arrazoi eraginkorrak direla eta, Bilbao Abandokoko geltokitik Laudiora bi norabideetan irtengo diren tren laburrak ez dute zerbitzurik prestatuko besterik jakinarazi arte. Urduñan helmuga eta jatorria duten zerbitzuak baino ez dabiltza. // #BilbaoC3 Debido a causas operativas, Los trenes cortos con origen en la estación de Bilbao Abando con llegada a Llodio en ambas direcciones no prestarán servicio hasta nuevo aviso.  Solo circulan los servicios con destino y origen Orduña."
+2026-11-13T14:25:44+01:00,AVISO_526006,2026-11-13T14:06:00+01:00,,60T0005C3 60T0006C3,"#BilboAldiriakC3 Treneko matxura tekniko baten ondorioz, Orduñako geltokitik 13:31an irtengo den trenak ez du zerbitzurik prestatuko. // #BilbaoC3 Debido a una avería técnica en el tren, el tren con origen en la estación de Orduña y salida a las 13:31h no presta servicio."
