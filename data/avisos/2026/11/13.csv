@@ -454,3 +454,18 @@ Incidencia causada por el tren precedente."
 2026-11-13T20:00:50+01:00,AVISO_526090,2026-11-13T20:45:00+01:00,,40T0001C1 40T0002C1,"Línea C1. Tren con salida prevista a las 21:45h de la estación de València Nord con destino Gandia, hoy no circula. Incidencia operativa."
 2026-11-13T20:00:50+01:00,AVISO_526089,2026-11-13T19:55:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 20:10h de la estación de l'Alcúdia con destino València Nord, hoy no circula. Incidencia operativa."
 2026-11-13T20:00:50+01:00,AVISO_526088,2026-11-13T19:55:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 19:10h de la estación de Alacant Terminal con destino Murcia del Carmen, circula por San Gabriel con 19 minutos de retraso. Incidencia operativa."
+2026-11-13T20:05:45+01:00,AVISO_526091,2026-11-13T20:04:00+01:00,,10T0011C4 10T0012C4 10T0013C4a 10T0014C4a 10T0015C4b 10T0016C4b,#MadC4 Los trenes recuperan sus frecuencias de paso habituales de forma progresiva.
+2026-11-13T20:05:45+01:00,AVISO_526072,2026-11-13T20:04:00+01:00,,32T0001C1 32T0002C1,"Línea C-1    
+
+Tren con salida a las 21:40h de FUENGIROLA con destino MÁLAGA CENTRO ALAMEDA, no presta servicio.      
+
+Los viajeros serán encaminados al siguiente tren con salida de FUENGIROLA a las 22:00h.     
+
+Sentimos las molestias."
+2026-11-13T20:05:45+01:00,AVISO_526071,2026-11-13T20:03:00+01:00,,32T0001C1 32T0002C1,"Línea C-1    
+
+ Tren con salida a las 20:50h de MALAGA CENTRO ALAMEDA con destino FUENGIROLA, no presta servicio.      
+
+Los viajeros serán encaminados al siguiente tren con salida de FUENGIROLA a las 21:10h.     
+
+Sentimos las molestias."
