@@ -538,3 +538,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-14T13:10:53+01:00,renfe,ok,96,data/renfe/2026/11/14/131052.csv,7e6388875ac9a8358ae8b883edc4b01217572cd0b6be3b02bd6cbad9b05c25bb,
 2026-11-14T13:10:53+01:00,retrasos_ld,ok,143,data/retrasos_ld/2026/11/14/131053.csv,22457b57a7d5f5cade93cf1ae956ad7bae6226aa964ca13ea626017fe8c875ad,
 2026-11-14T13:10:54+01:00,avisos,ok,3,data/avisos/2026/11/14.csv,e6fe94a8f1391a71cb5edfe4603169cde59780fdb5e1cc2cb2a68417e187ece1,
+2026-11-14T13:15:51+01:00,renfe,ok,99,data/renfe/2026/11/14/131550.csv,635fd6350d62c6d6b8923ba963a85ecf94fad79e3fa45da2f40a127eefc2cb30,
+2026-11-14T13:15:51+01:00,retrasos_ld,ok,145,data/retrasos_ld/2026/11/14/131551.csv,433c815de493f9abebbffc743af86bf58b3174887e4857aba614d47e08c95868,
+2026-11-14T13:15:52+01:00,avisos,ok,2,data/avisos/2026/11/14.csv,7a3ad613cf9e9b817adfe9a0ad30c48bd164a153236e8240cbe2e2bef8628347,
+2026-11-14T13:16:07+01:00,meteo,error,,,,HTTPError: HTTP Error 429: Too Many Requests
