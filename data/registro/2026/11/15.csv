@@ -958,3 +958,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-15T23:25:45+01:00,renfe,ok,44,data/renfe/2026/11/15/232544.csv,1ea37f88273f58b51547a829ffa10b9dddbf01a6f003ccd9d5e3b5aa7baea201,
 2026-11-15T23:25:46+01:00,retrasos_ld,ok,87,data/retrasos_ld/2026/11/15/232545.csv,71bf820494e5edf50be5b992e7b85131474307218b703daf58c3a700840cac5c,
 2026-11-15T23:25:47+01:00,avisos,ok,0,data/avisos/2026/11/15.csv,e9350ca5a2e68b12c91adcf98b5ae4d66cb372aced5817e89efc766efdc2d1a1,
+2026-11-15T23:30:50+01:00,renfe,ok,38,data/renfe/2026/11/15/233049.csv,87a28e771b22194cbaff963c543f6c2f72ba7849b3685f887b42c8897f6ac378,
+2026-11-15T23:30:50+01:00,retrasos_ld,ok,73,data/retrasos_ld/2026/11/15/233050.csv,ebaba0a5a2aa53ed68de0f6a6fb7376fc73afb8fbaba71bdc851183cf149da44,
+2026-11-15T23:30:51+01:00,avisos,ok,0,data/avisos/2026/11/15.csv,e9350ca5a2e68b12c91adcf98b5ae4d66cb372aced5817e89efc766efdc2d1a1,
+2026-11-15T23:31:06+01:00,meteo,error,,,,HTTPError: HTTP Error 429: Too Many Requests
