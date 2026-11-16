@@ -167,3 +167,9 @@ Los viajeros serán encaminados al siguiente tren con salida de JARDINES DE HÉR
 2026-11-16T08:25:51+01:00,AVISO_526473,2026-11-16T08:19:00+01:00,,40T0005C2 40T0006C2 40T0029C2 40T0030C2 40T0049C2 40T0050C2 40T0051C2 40T0052C2,"Línea C2. Tren con salida prevista a las 7:30h de la estación de València Nord con destino l'Alcúdia, circula por Benifaió con 15 minutos de retraso."
 2026-11-16T08:35:55+01:00,AVISO_526474,2026-11-16T08:33:00+01:00,,40T0013C6 40T0014C6 40T0015C6 40T0016C6 40T0021C6 40T0022C6,"Línea C6. Tren con salida prevista a las 7:50h de la estación de València Nord con destino Castelló, efectúa su salida con 34 minutos de retraso."
 2026-11-16T08:40:54+01:00,AVISO_526496,2026-11-16T08:38:00+01:00,,10T0005C2 10T0006C2 10T0037C2 10T0051C7 10T0052C7 10T0053C7 10T0054C7 10T0059C7,"#MadC2 #MadC7 #MadC8 Retirado el tren averiado entre las estaciones de Soto del Henares y La Garena, los trenes irán recuperando sus frecuencias de paso habituales de forma paulatina."
+2026-11-16T08:45:54+01:00,INFO_526475,2026-11-16T08:40:00+01:00,,,"En estos momentos, la estación de las Margaritas, se encuentra inaccesible."
+2026-11-16T08:45:54+01:00,AVISO_526497,2026-11-16T08:40:00+01:00,,31T0001C1 31T0002C1 31T0005T1 31T0006T1 31T0007C1 31T0008C1,"Línea C-1 A    
+
+Tren con salida a las 08:25h de la estación de JEREZ DE LA FRONTERA y con destino UNIVERSIDAD, efectuará su salida con una demora aproximada de 15 minutos.  
+
+Avería en la infraestructura."
