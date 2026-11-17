@@ -609,3 +609,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-17T14:55:47+01:00,renfe,ok,77,data/renfe/2026/11/17/145546.csv,7f5497cb65a77b430024f9c1847275a35bd1070243e4098ded55efe5b79b9b4e,
 2026-11-17T14:55:48+01:00,retrasos_ld,ok,494,data/retrasos_ld/2026/11/17/145547.csv,acfe52282b08a1f08c237fc94669f664eacbcf4f3e2fcd3a3a0a7ce6e175ee32,
 2026-11-17T14:55:49+01:00,avisos,ok,0,data/avisos/2026/11/17.csv,140d6adc596f960bbe11b3a321f9bae54587db49a1736ba023d672b07af311a2,
+2026-11-17T15:00:50+01:00,renfe,ok,78,data/renfe/2026/11/17/150050.csv,81a49017654f33046b6d84e0801e14136be82364d822bdd93f00bc92c7380a67,
+2026-11-17T15:01:17+01:00,retrasos_ld,ok,499,data/retrasos_ld/2026/11/17/150050.csv,4970e643b5f72dae34910eb2be892967dee508526fe66c2ccfd4d657a1ae9e3d,
+2026-11-17T15:01:18+01:00,avisos,ok,1,data/avisos/2026/11/17.csv,e6b050fdaf43db7f6e30d1decb83e721c53350ee9add7d62677e05d132807450,
+2026-11-17T15:02:33+01:00,meteo,error,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
