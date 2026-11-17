@@ -849,3 +849,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-17T20:52:58+01:00,renfe,error,,,,URLError: <urlopen error timed out>
 2026-11-17T20:54:14+01:00,retrasos_ld,error,,,,URLError: <urlopen error timed out>
 2026-11-17T20:55:29+01:00,avisos,error,,,,URLError: <urlopen error timed out>
+2026-11-17T20:55:48+01:00,renfe,ok,94,data/renfe/2026/11/17/205547.csv,9c2452c77d93ec33f60241b83d7d9cc53d390c4a64e436f1d2de1f359dd739a7,
+2026-11-17T20:55:48+01:00,retrasos_ld,ok,691,data/retrasos_ld/2026/11/17/205548.csv,a089bef12f941e958cc29dbc1c121e1ae61fc9af7d47b4494f8a9f8732b740a5,
+2026-11-17T20:55:49+01:00,avisos,ok,0,data/avisos/2026/11/17.csv,65d2fad96c033709afde94d5887aa95ca5a09e191f54438805a81b8683109aca,
