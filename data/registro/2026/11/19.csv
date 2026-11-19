@@ -183,3 +183,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-19T04:33:15+01:00,retrasos_ld,error,,,,URLError: <urlopen error timed out>
 2026-11-19T04:34:31+01:00,avisos,error,,,,URLError: <urlopen error timed out>
 2026-11-19T04:34:31+01:00,meteo,ok,28,data/meteo/2026/11/19.csv,8fe8410141e8dbbd4fd7b8caf06d36306431972b0f1f42b993b3f371f2bb30cc,
+2026-11-19T04:35:46+01:00,renfe,ok,0,data/renfe/2026/11/19/043546.csv,99fb7d6b11c3dbf715a784de252c90465436270ca1293cd541e0b4b599d81dad,
+2026-11-19T04:35:47+01:00,retrasos_ld,ok,39,data/retrasos_ld/2026/11/19/043546.csv,55dbea5f2ab7c1621a620ee91b2a5a95308eb8a703cb32cfdcfa14a61aaaed4e,
+2026-11-19T04:35:48+01:00,avisos,ok,1,data/avisos/2026/11/19.csv,fa02675e91fd79375fc7dcefcbc9822d0cf13504355cfdd31188d5617964577e,
