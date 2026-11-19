@@ -502,3 +502,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-19T12:25:48+01:00,renfe,ok,105,data/renfe/2026/11/19/122547.csv,de75dc5cb010e825bcf165798601da997d0fb4c0eb8e2e63c002fbe4d131e49c,
 2026-11-19T12:25:49+01:00,retrasos_ld,ok,214,data/retrasos_ld/2026/11/19/122548.csv,1e34748135596495fd636b793fa20dc6e75f018edf513272b1e8d51addd18f70,
 2026-11-19T12:25:50+01:00,avisos,ok,3,data/avisos/2026/11/19.csv,07e3d90ce2f5abb1554f0b50614311c84bdf0c14efbed9f3081131058870cb99,
+2026-11-19T12:30:50+01:00,renfe,ok,103,data/renfe/2026/11/19/123049.csv,1ecafdd49e9ee3ce2a9de4c18e58ebb5e54f61b96fbebc49342ebb642ce69791,
+2026-11-19T12:30:51+01:00,retrasos_ld,ok,210,data/retrasos_ld/2026/11/19/123050.csv,4991950711e7a7fbd3b3db1a4a549b05f12cd736d0e27da586fae866de4db31b,
+2026-11-19T12:30:52+01:00,avisos,ok,0,data/avisos/2026/11/19.csv,07e3d90ce2f5abb1554f0b50614311c84bdf0c14efbed9f3081131058870cb99,
+2026-11-19T12:32:07+01:00,meteo,error,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
