@@ -556,3 +556,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-20T13:40:44+01:00,renfe,ok,128,data/renfe/2026/11/20/134044.csv,e595f80f0fbedf31cb470d7807bcfd73b2a453ff09fa0d7b6f7a305be1e67f99,
 2026-11-20T13:40:45+01:00,retrasos_ld,ok,206,data/retrasos_ld/2026/11/20/134044.csv,13e88efeebde59eb041a10ac78fe77eb406d66645f5144ca6f81768191ff4c54,
 2026-11-20T13:40:46+01:00,avisos,ok,0,data/avisos/2026/11/20.csv,2efde74fa6922faf0e6cf902569a5f3e7acfd26f364ebc79fb8cf6b997affe2f,
+2026-11-20T13:45:44+01:00,renfe,ok,132,data/renfe/2026/11/20/134543.csv,7d8c42ebadbb8525f564e8f5cf5b3d08ae9db3fb9f17ebaa5d6f92fbefb4db9a,
+2026-11-20T13:45:44+01:00,retrasos_ld,ok,208,data/retrasos_ld/2026/11/20/134544.csv,b39b642bd6b552f5ba7d64ef6180cf8b6c3e2e819dc9a6859c70b3dafc699fb8,
+2026-11-20T13:45:45+01:00,avisos,ok,0,data/avisos/2026/11/20.csv,2efde74fa6922faf0e6cf902569a5f3e7acfd26f364ebc79fb8cf6b997affe2f,
+2026-11-20T13:45:45+01:00,meteo,ok,28,data/meteo/2026/11/20.csv,c4c85533a60b02696c4c55659fb7a11adf17a64d277a1fc361ec344a26c82a0d,
