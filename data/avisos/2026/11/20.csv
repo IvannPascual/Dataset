@@ -279,3 +279,5 @@ Tren con salida a las 17:58 h de la estación de LORA DEL RIO y con destino UTRE
 Incidencia causada por el tren precedente."
 2026-11-20T17:25:45+01:00,AVISO_527452,2026-11-20T17:19:00+01:00,,31T0001C1 31T0002C1 31T0007C1 31T0008C1,ACTUALIZACIÓN. Línea C-1. Subsanada la avería de infraestructura. Los trenes irán recuperando su frecuencia habitual.
 2026-11-20T17:25:45+01:00,AVISO_527451,2026-11-20T17:22:00+01:00,,40T0013C6 40T0014C6 40T0015C6 40T0016C6 40T0021C6 40T0022C6,"Línea C6. Tren con salida prevista a las 16:05h de la estación de Castelló con destino València Nord, circula por Massalfassar con 16 minutos de retraso."
+2026-11-20T17:45:48+01:00,INFO_527463,2026-11-20T17:44:00+01:00,,,"Actualmente, por motivos técnicos, el ascensor del Vestíbulo de la estación de San Jerónimo se encuentra fuera de servicio. Si tiene Movilidad Reducida y origen o destino en esta estación, contacte a través de los puntos de información en estaciones, máquinas auto venta o en el 954 485 672. Disculpe las molestias"
+2026-11-20T17:45:48+01:00,AUTOBUS_4023V84061C2,2026-11-20T18:42:00+01:00,,,Se prestará servicio de autobús para este recorrido.
