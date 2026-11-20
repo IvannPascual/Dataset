@@ -283,3 +283,9 @@ Incidencia causada por el tren precedente."
 2026-11-20T17:45:48+01:00,AUTOBUS_4023V84061C2,2026-11-20T18:42:00+01:00,,,Se prestará servicio de autobús para este recorrido.
 2026-11-20T17:55:49+01:00,AVISO_527453,2026-11-20T17:53:00+01:00,,61T0001C1 61T0002C1 61T0003C1 61T0005C1 61T0006C1,#DonostiaAldiriakC1 Aurreko tren batean dagoen gorabehera baten ondorioz. Brinkolako geltokitik 17:38an irtengo den trenaren programatutako ordutegia aldatuko da. Tren hau 30 minutu geroago hasiko da. // #SanSebastianC1 Debido a una incidencia en un tren precedente. Se modifica el horario programado del tren con salida a las 17:38h de la estación de Brinkola. Este tren iniciará su recorrido 30 minutos después.
 2026-11-20T18:25:47+01:00,AVISO_527454,2026-11-20T18:24:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 17:30h de la estación de Alacant Terminal con destino Murcia del Carmen, circula por Elx-Mercaderies con 18 minutos de retraso. Gestión tráfico ferroviario."
+2026-11-20T18:40:47+01:00,AVISO_527455,2026-11-20T18:37:00+01:00,,30T0009C5 30T0010C5 30T0029C5 30T0030C5,"Línea C-5   
+
+Tren con salida a las 17:45h de la estación de JARDINES DE HERCULES y con destino BENACAZON, circula con una demora de 19 minutos a su paso por la estación de CAMAS .  
+
+ Avería en la infraestructura."
+2026-11-20T18:40:47+01:00,AVISO_527464,2026-11-20T18:40:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 17:30h de la estación de Murcia del Carmen con destino Alacant Terminal, circula por Crevillente con 18 minutos de retraso. Gestión tráfico ferroviario."
