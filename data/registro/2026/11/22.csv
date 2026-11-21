@@ -1,0 +1,5 @@
+ejecutado,fuente,estado,filas,fichero,huella,detalle
+2026-11-22T00:00:47+01:00,renfe,ok,7,data/renfe/2026/11/22/000046.csv,1faeb38c7bed6ae1de64592b802bef0801585eca3a9a5173a6ddd969c5e61097,
+2026-11-22T00:00:47+01:00,retrasos_ld,ok,29,data/retrasos_ld/2026/11/22/000047.csv,aba7635f14fea986605d91a78a6fe6485f1cc25bb46dc4b0d6428f9ed2a4159f,
+2026-11-22T00:00:48+01:00,avisos,ok,73,data/avisos/2026/11/22.csv,f9149dd7e783b21709701c37d78fb9a7cba0b0598ca4aa51c0121f7c2e915401,
+2026-11-22T00:00:48+01:00,meteo,ok,28,data/meteo/2026/11/22.csv,a5fc81c7c04d77cfe5cefd966fc2b132c0ab6ad56f17599bbd02d28702b6ff78,
