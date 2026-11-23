@@ -103,3 +103,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-23T02:25:47+01:00,renfe,ok,0,data/renfe/2026/11/23/022546.csv,99fb7d6b11c3dbf715a784de252c90465436270ca1293cd541e0b4b599d81dad,
 2026-11-23T02:25:48+01:00,retrasos_ld,ok,9,data/retrasos_ld/2026/11/23/022547.csv,60f9673882ce6a7690b748c65b5c7ff99bdf867fb3666210347062a9ceced75b,
 2026-11-23T02:25:49+01:00,avisos,ok,0,data/avisos/2026/11/23.csv,7bdb14b16b609778b3cc3db511254443bf4ea2aa9dfe6b857abc033dbf62c740,
+2026-11-23T02:30:46+01:00,renfe,ok,0,data/renfe/2026/11/23/023046.csv,99fb7d6b11c3dbf715a784de252c90465436270ca1293cd541e0b4b599d81dad,
+2026-11-23T02:30:47+01:00,retrasos_ld,ok,9,data/retrasos_ld/2026/11/23/023046.csv,789cad6e33d8f456c5e3ed3bf31bb2041deeb441c06222fc03b1423fb53e6338,
+2026-11-23T02:30:48+01:00,avisos,ok,0,data/avisos/2026/11/23.csv,7bdb14b16b609778b3cc3db511254443bf4ea2aa9dfe6b857abc033dbf62c740,
+2026-11-23T02:32:03+01:00,meteo,error,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
