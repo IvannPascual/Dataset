@@ -125,3 +125,8 @@ Los viajeros serán encaminados al siguiente tren de la línea C-4 con salida a 
 
 Incidencia causada por el tren precedente."
 2026-11-24T08:40:48+01:00,AVISO_528111,2026-11-24T08:37:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 07:30h de la estación de Murcia del Carmen con destino Alacant Terminal, circula por San Isidro-Albatera-Catral con 20 minutos de retraso. Gestión tráfico ferroviario."
+2026-11-24T08:45:48+01:00,AVISO_528094,2026-11-24T08:42:00+01:00,,30T0001C1 30T0002C1,"Línea C-1 
+ Tren con salida a las 7:18h de la estación de LEBRIJA y con destino LORA DEL RIO, circula con una demora de 16 minutos a su paso por la estación de SEVILLA SANTA JUSTA. 
+ Limitaciones de velocidad."
+2026-11-24T08:45:48+01:00,AVISO_528093,2026-11-24T08:41:00+01:00,,51T0001R1 51T0002R1,"Circulación con demoras que pueden superar los 15 minutos de media debido a una incidencia operativa. Progresivamente, se recuperan las frecuencias de paso habituales."
+2026-11-24T08:45:48+01:00,AVISO_528104,2026-11-24T06:16:00+01:00,,51T0003R2N 51T0004R2N 51T0007R2S 51T0008R2S 51T0011R2S 51T0012R2S,"Circulación con demoras que pueden superar los 15 minutos de media debido a una incidencia en la infraestructura ya resuelta. Progresivamente, se recuperan las frecuencias de paso habituales."
