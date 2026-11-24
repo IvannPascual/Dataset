@@ -859,3 +859,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-24T21:10:49+01:00,renfe,ok,138,data/renfe/2026/11/24/211048.csv,af81c3e32e6df2b8b1f50f1486351a1b3b2b47924ce474e61a8f34496ada82a7,
 2026-11-24T21:10:49+01:00,retrasos_ld,ok,247,data/retrasos_ld/2026/11/24/211049.csv,7e0a9707e23cb23146f01b0ef98ad72c1716477e87e2b7fda6397a46cbe35959,
 2026-11-24T21:10:50+01:00,avisos,ok,0,data/avisos/2026/11/24.csv,d7030eabac71ceb20414998d3d22a6937ab102831afaee82ea32db055b895298,
+2026-11-24T21:17:03+01:00,renfe,error,,,,URLError: <urlopen error timed out>
+2026-11-24T21:18:18+01:00,retrasos_ld,error,,,,URLError: <urlopen error timed out>
+2026-11-24T21:19:33+01:00,avisos,error,,,,URLError: <urlopen error timed out>
+2026-11-24T21:19:33+01:00,meteo,ok,28,data/meteo/2026/11/24.csv,063056f35ca77f89f9546ad34ab3a419ebd5219e6276b588783e442f7e05c2c8,
