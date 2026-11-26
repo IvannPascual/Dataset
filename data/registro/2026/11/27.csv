@@ -13,3 +13,6 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-27T00:15:52+01:00,retrasos_ld,ok,30,data/retrasos_ld/2026/11/27/001551.csv,ba08dde7a840a830ead18492edeb3456cccacd8c07befdd8dd4b7ca40a5dc799,
 2026-11-27T00:15:52+01:00,avisos,ok,0,data/avisos/2026/11/27.csv,24ba99d4d255e546352ae6f78e4c0cbce4a984a2842ab6cca375ec7f89e7dd7d,
 2026-11-27T00:16:08+01:00,meteo,error,,,,HTTPError: HTTP Error 429: Too Many Requests
+2026-11-27T00:20:53+01:00,renfe,ok,11,data/renfe/2026/11/27/002053.csv,7a87c75a37587753509f929ca360a78df7aff18d4093a19672932f7f43e29edb,
+2026-11-27T00:20:54+01:00,retrasos_ld,ok,30,data/retrasos_ld/2026/11/27/002053.csv,fb39e7a49427d4e89617e8c7526cf35f49cbe020fc19c64f7eaf75409c389743,
+2026-11-27T00:20:55+01:00,avisos,ok,0,data/avisos/2026/11/27.csv,24ba99d4d255e546352ae6f78e4c0cbce4a984a2842ab6cca375ec7f89e7dd7d,
