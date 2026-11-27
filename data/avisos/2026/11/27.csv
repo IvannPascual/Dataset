@@ -130,3 +130,13 @@ Tren con salida a las 07:10 h de la estación de UTRERA y con destino SEVILLA SA
 Limitaciones de velocidad"
 2026-11-27T08:05:52+01:00,AVISO_528827,2026-11-27T08:03:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 6:30h de la estación de Alacant Terminal con destino Murcia del Carmen, circula por Orihuela-Miguel Hernandez con 16 minutos de retraso. Gestión de tráfico ferroviario."
 2026-11-27T08:10:45+01:00,AVISO_528828,2026-11-27T08:09:00+01:00,,41T0001C1 41T0002C1,"Línea C1. Tren con salida prevista a las 07:30h de la estación de Murcia del Carmen con destino Alacant Terminal, circula por Beniel con 16 minutos de retraso. Gestión de tráfico ferroviario."
+2026-11-27T08:20:45+01:00,AVISO_528810,2026-11-27T08:19:00+01:00,,30T0005C3 30T0006C3 30T0034C3 30T0035C3 30T0036C3 30T0039C3,"ACTUALIZACIÓN 
+Línea C-3 
+Tren con salida a las 06:55h de la estación de EL PEDROSO y con destino SEVILLA SANTA JUSTA circula con una demora de 57 minutos a su paso por la estación de VILLANUEVA DEL RIO Y MINAS. 
+Incidencia causada por el tren precedente."
+2026-11-27T08:20:45+01:00,AVISO_528829,2026-11-27T08:15:00+01:00,,30T0001C1 30T0002C1,"ACTUALIZACIÓN 
+Línea C-1 
+Tren con salida a las 07:50 h de la estación de SEVILLA SANTA JUSTA y con destino UTRERA efectúa dicha salida con una demora de 17 minutos. 
+Incidencia causada por el tren precedente."
+2026-11-27T08:20:45+01:00,AVISO_528809,2026-11-27T08:17:00+01:00,,40T0013C6 40T0014C6 40T0015C6 40T0016C6 40T0021C6 40T0022C6,"Línea C6. Tren con salida prevista a las 7:50h de la estación de València Nord con destino Castelló, efectúa su salida con 16 minutos de retraso."
+2026-11-27T08:20:45+01:00,AVISO_528808,2026-11-27T08:14:00+01:00,,61T0001C1 61T0002C1 61T0003C1 61T0005C1 61T0006C1,"#DonostiaAldiriakC1  Irungo geltokitik 07:45an irtengo den trenak ez du zerbitzurik prestatuko, azpiegituran izandako arazo baten ondorioz.//  #SanSebastianC1   El tren con origen en la estación de Irún y salida a las 07:45h no presta servicio, debido a un problema en la infraestructura."
