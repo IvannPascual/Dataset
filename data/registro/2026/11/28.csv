@@ -293,3 +293,7 @@ ejecutado,fuente,estado,filas,fichero,huella,detalle
 2026-11-28T07:10:46+01:00,renfe,ok,55,data/renfe/2026/11/28/071045.csv,84e3da30e091eae8f7a552cd744598bf8c89446338e14f7a8048231413bd8159,
 2026-11-28T07:10:47+01:00,retrasos_ld,ok,82,data/retrasos_ld/2026/11/28/071046.csv,9e5a25671c3aefa5d08e51743d4b9ce10b32b4a3cab63ba5ead524d2bb020c53,
 2026-11-28T07:10:48+01:00,avisos,ok,0,data/avisos/2026/11/28.csv,a0e19a0e223697efcc9cbca5d7390603e6d64bebb4440fab213f93020b703596,
+2026-11-28T07:15:46+01:00,renfe,ok,55,data/renfe/2026/11/28/071545.csv,fb96c08b35895d3cafdb8f00de7f433f1f3bdaaff5c944196bbb4fa052ea8a35,
+2026-11-28T07:15:47+01:00,retrasos_ld,ok,82,data/retrasos_ld/2026/11/28/071546.csv,e030e0931d3c69c287c3e7c5a8d8c93dc2808c301152559a058fb88e84bcf050,
+2026-11-28T07:15:48+01:00,avisos,ok,0,data/avisos/2026/11/28.csv,a0e19a0e223697efcc9cbca5d7390603e6d64bebb4440fab213f93020b703596,
+2026-11-28T07:17:03+01:00,meteo,error,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
